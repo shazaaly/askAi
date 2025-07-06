@@ -404,6 +404,111 @@ text,label
 "ينفع أستخدمه مع نوع أكل تاني؟",how_to_use_product
 "هل في درجة حرارة معينة للتقديم؟",how_to_use_product
 "How do I use this product?",how_to_use_product
+"هل محتاج أفك تجميده قبل الاستخدام؟","how_to_use_product"
+"أسيبه يفك في درجة حرارة الغرفة ولا التلاجة؟","how_to_use_product"
+"هل يتحط على النار مباشرة؟","how_to_use_product"
+"هل محتاج يتصفى من أي سوائل؟","how_to_use_product"
+"ممكن أقدمه في وجبة غداء؟","how_to_use_product"
+"هل مناسب كحشو للسندوتشات؟","how_to_use_product"
+"ينفع أقطعه قبل الاستخدام؟","how_to_use_product"
+"لو فضل جزء، أعمل بيه إيه؟","how_to_use_product"
+"هل محتاج ألبسه gloves وأنا بجهزه؟","how_to_use_product"
+"هل مناسب للأنظمة الغذائية النباتية؟","how_to_use_product"
+"هل ينفع يتحط على بيتزا؟","how_to_use_product"
+"إزاي أقدمه لضيوف VIP؟","how_to_use_product"
+"هل في وقت معين لازم يتحضر فيه؟","how_to_use_product"
+"لو برد بعد التسخين، أعمل إيه؟","how_to_use_product"
+"هل في خطورة من إعادة تسخينه؟","how_to_use_product"
+"هل ممكن يدخل ضمن قائمة الإفطار؟","how_to_use_product"
+"هل ممكن يتحط في بوكس وجبات؟","how_to_use_product"
+"هل ينفع أستخدمه مع اللحوم؟","how_to_use_product"
+"هل محتاج يتقلب باستمرار؟","how_to_use_product"
+"هل ممكن يبان طعمه أقوى مع إضافات؟","how_to_use_product"
+"هل الأفضل أقدمه سايب ولا مغلف؟","how_to_use_product"
+"هل في مدة معينة بين التسخين والتقديم؟","how_to_use_product"
+"هل ممكن يتحط في طبق تقديم مباشر؟","how_to_use_product"
+"هل ينفع أستخدمه في سوشي؟","how_to_use_product"
+"ينفع أضيف عليه صوص معين؟","how_to_use_product"
+"هل يتغير طعمه مع الميكروويف؟","how_to_use_product"
+"هل بيتسخن على نار هادية ولا عالية؟","how_to_use_product"
+"هل بينفع يتحط في البوفيه المفتوح لفترة طويلة؟","how_to_use_product"
+"هل محتاج تقطيع قبل التقديم؟","how_to_use_product"
+"هل له استخدام غير الأكل المباشر؟","how_to_use_product"
+"هل محتاج يتقلب قبل ما يتحط في الطبق؟","how_to_use_product"
+"هل يتحط في طبق ستانلس ولا بورسلين؟","how_to_use_product"
+"ممكن أقدمه كـ snack؟","how_to_use_product"
+"هل يتاكل مع عيش؟","how_to_use_product"
+"هل بينفع يتحط في wrap؟","how_to_use_product"
+"هل بيحتاج preheating؟","how_to_use_product"
+"هل في وقت محدد للتحضير قبل الطلب؟","how_to_use_product"
+"هل في step-by-step instructions؟","how_to_use_product"
+"هل الأفضل يتقدم لوحده؟","how_to_use_product"
+"هل ممكن يستخدموه في البار؟","how_to_use_product"
+"هل في فرق لو تسخن على بخار؟","how_to_use_product"
+"هل ينفع أقدمه على صينية؟","how_to_use_product"
+"هل بيتاكل بمعلقة ولا شوكة؟","how_to_use_product"
+"هل بينفع يقدم مع شوربة؟","how_to_use_product"
+"هل بيناسب الضيوف اللي عندهم حساسية؟","how_to_use_product"
+"هل محتاج أضيف زيت؟","how_to_use_product"
+"ينفع أقدمه في المناسبات الكبيرة؟","how_to_use_product"
+"هل بيتقدم بارد في بعض الحالات؟","how_to_use_product"
+"هل ممكن أقدمه في سلطة؟","how_to_use_product"
+"هل ممكن أقدمه كـ canapé؟","how_to_use_product"
+"ينفع أستخدمه في catering؟","how_to_use_product"
+"هل يتحط في طبق غويط ولا مسطح؟","how_to_use_product"
+"هل ينفع يتحط في ساندوتش للأطفال؟","how_to_use_product"
+"هل بيتاكل على طول بعد الطبخ؟","how_to_use_product"
+"هل بيناسب حفلات الزفاف؟","how_to_use_product"
+"هل في طريقة تقديم تخليني أزود السعر؟","how_to_use_product"
+"ينفع أقدمه في breakfast buffet؟","how_to_use_product"
+"هل ممكن يتقدم في أكواب؟","how_to_use_product"
+"ينفع يتحط على رز؟","how_to_use_product"
+"هل في وصفات مقترحة ليه من المورد؟","how_to_use_product"
+"هل بيتغير شكله مع التسخين؟","how_to_use_product"
+"هل في مدة صلاحية للتحضير بعد الفتح؟","how_to_use_product"
+"هل في packaging مناسب للتقديم؟","how_to_use_product"
+"هل أسيبه يبرد قبل ما أقدمه؟","how_to_use_product"
+"هل يتأثر بجو المطبخ؟","how_to_use_product"
+"هل محتاج يتسخن قبل ما يتحط في السرفيس؟","how_to_use_product"
+"هل فيه طريقة لتقديمه للأطفال؟","how_to_use_product"
+"هل ينفع يستخدم في رمضان؟","how_to_use_product"
+"هل ممكن أقدمه مع جبنة؟","how_to_use_product"
+"هل محتاج يتغطى بعد التسخين؟","how_to_use_product"
+"هل محتاج أضيف له مية وهو على النار؟","how_to_use_product"
+"هل فيه وصفة مكتوبة على العبوة؟","how_to_use_product"
+"هل أقدر أجهزه قبل بيوم؟","how_to_use_product"
+"هل ممكن يدخل في أطباق fusion؟","how_to_use_product"
+"هل بينفع في أطباق سريعة التحضير؟","how_to_use_product"
+"هل محتاج يتصفى بعد التسخين؟","how_to_use_product"
+"هل المنتج فيه أجزاء محتاجة إزالة قبل الاستخدام؟","how_to_use_product"
+"هل فيه طريقة لتقليل الدهون فيه؟","how_to_use_product"
+"هل المنتج ده مناسب للتسخين بالبخار؟","how_to_use_product"
+"هل يتحط في صواني catering؟","how_to_use_product"
+"هل ممكن أقدمه في lunch box؟","how_to_use_product"
+"هل بينفع يتحضر مسبقًا ويُخزن؟","how_to_use_product"
+"هل محتاج يتقدم على دفعات؟","how_to_use_product"
+"هل الأفضل أسيبه يرتاح بعد التسخين؟","how_to_use_product"
+"هل ممكن أسيبه يتحمر؟","how_to_use_product"
+"هل محتاج صوص جانبي؟","how_to_use_product"
+"هل في وقت معين بيكون طعمه أفضل؟","how_to_use_product"
+"هل في نوع خبز معين بيناسب التقديم؟","how_to_use_product"
+"هل المنتج ده يتسخن في water bath؟","how_to_use_product"
+"هل محتاج أسيبه مغطي بعد التحضير؟","how_to_use_product"
+"هل لازم أراعي أي خطوات للسلامة الغذائية؟","how_to_use_product"
+"هل بينفع أقدمه في buffet style؟","how_to_use_product"
+"هل ممكن يتحط في delivery container مباشرة؟","how_to_use_product"
+"هل المنتج مناسب للدايت؟","how_to_use_product"
+"هل ممكن يتسخن بالبلاستيك؟","how_to_use_product"
+"هل محتاج يتقلب وهو في الباين ماري؟","how_to_use_product"
+"هل المنتج حساس للحرارة؟","how_to_use_product"
+"هل أقدر أضيفه لأطباق الكاري؟","how_to_use_product"
+"هل لازم أعمله portioning قبل الاستخدام؟","how_to_use_product"
+"هل ممكن أستخدمه كـ base لوصفة؟","how_to_use_product"
+"هل في وقت صلاحية بعد ما أجهزه؟","how_to_use_product"
+"هل محتاج gloves وأنا بفتحه؟","how_to_use_product"
+"هل لازم يتحط في حرارة معينة عشان يحافظ على قوامه؟","how_to_use_product"
+"هل لازم أتابع درجة الحرارة طول فترة التحضير؟","how_to_use_product"
+
 "المنتج ده فيه كام سعر حراري؟",ask_nutrition_facts
 "ممكن أعرف القيمة الغذائية بتاعته؟",ask_nutrition_facts
 "هل هو مناسب للدايت؟",ask_nutrition_facts
@@ -1170,6 +1275,38 @@ text,label
 "Can I change the delivery date for only part of my order?",ask_for_change_delivery_date
 "I'm not ready for delivery, can we postpone?",ask_for_change_delivery_date
 "Who should I contact to change my delivery date?",ask_for_change_delivery_date
+"هل ممكن أغير ميعاد الاستلام من التطبيق؟",ask_for_change_delivery_date
+"الطلب هيوصل امتى؟ عايز أغير المعاد ده.",ask_for_change_delivery_date
+"ممكن أجل التوصيل بعد العيد؟",ask_for_change_delivery_date
+"لو معاد التوصيل مش مناسب، أعمل إيه؟",ask_for_change_delivery_date
+"أنا في أجازة، هل ممكن تشحنوه بعد ما أرجع؟",ask_for_change_delivery_date
+"مش هستلم النهاردة، ممكن تأجلوا؟",ask_for_change_delivery_date
+"الظروف اتغيرت، محتاج أغير معاد التسليم.",ask_for_change_delivery_date
+"هل ممكن نغير ميعاد الاستلام بدون إلغاء الطلب؟",ask_for_change_delivery_date
+"هل ممكن أغير ميعاد التسليم أكتر من مرة؟",ask_for_change_delivery_date
+"أنا طلبت ميعاد بالغلط، ينفع أعدله؟",ask_for_change_delivery_date
+"الطلب لسه موصلش، ممكن أغير معاده؟",ask_for_change_delivery_date
+"لو حصل تأخير، هل ممكن أختار معاد جديد؟",ask_for_change_delivery_date
+"هل في حد ممكن يساعدني أغير ميعاد التوصيل؟",ask_for_change_delivery_date
+"إزاي أرجع أختار معاد مختلف للتوصيل؟",ask_for_change_delivery_date
+"هل لازم أكلم خدمة العملاء لتغيير المعاد؟",ask_for_change_delivery_date
+"ممكن أغير ميعاد التوصيل من حسابي؟",ask_for_change_delivery_date
+"لو استلمت رسالة بالتوصيل، لسه أقدر أغير المعاد؟",ask_for_change_delivery_date
+"هل في معاد أقرب ممكن أستلم فيه؟",ask_for_change_delivery_date
+"محتاج أقدّم الطلب بدل ما أأجله، ينفع؟",ask_for_change_delivery_date
+"ممكن تحددولي أقرب معاد متاح؟",ask_for_change_delivery_date
+"هل تغيير المعاد هيأخر باقي الطلبات؟",ask_for_change_delivery_date
+"أنا محتاج الطلب يوصل بدري ضروري، ينفع؟",ask_for_change_delivery_date
+"Can I choose an exact delivery time?",ask_for_change_delivery_date
+"My plans changed, I need a new delivery date.",ask_for_change_delivery_date
+"Is delivery rescheduling available on the app?",ask_for_change_delivery_date
+"I chose the wrong slot, can I update it?",ask_for_change_delivery_date
+"Can I move my order to a different time slot?",ask_for_change_delivery_date
+"I'm not available this weekend, can we reschedule?",ask_for_change_delivery_date
+"Can I request same-day rescheduling?",ask_for_change_delivery_date
+"How late can I reschedule my order?",ask_for_change_delivery_date
+"What happens if I miss my delivery? Can I get a new date?",ask_for_change_delivery_date
+
 
 "ممكن أعرف الشحنة وصلت لفين؟",check_shipping_status
 "حالة الشحنة إيه دلوقتي؟",check_shipping_status
@@ -1651,6 +1788,12 @@ text,label
 "Are there any cashback offers?",ask_product_discounts
 "إزاي أحصل على عرض توصيل مجاني؟",how_to_get_an_offer
 "إيه شروط عرض اشترِ واحد واحصل على التاني؟",how_to_get_an_offer
+"هل يوجد عروض حالية على الطلبات الجديدة؟",how_to_get_an_offer
+"كيف أستفيد من عرض الشحن المجاني؟",how_to_get_an_offer
+"هل يمكن استخدام الكوبون أكثر من مرة؟",how_to_get_an_offer
+"ما هو الحد الأدنى للاستفادة من الخصم؟",how_to_get_an_offer
+"هل يتم تفعيل العرض تلقائيًا؟",how_to_get_an_offer
+"هل يوجد عروض خاصة للمشتركين في التطبيق؟",how_to_get_an_offer
 "هل لازم أستخدم كود معين للعرض ده؟",how_to_get_an_offer
 "كيف يمكنني التأهل للعرض الخاص؟",how_to_get_an_offer
 "العرض ده متاح لكل العملاء ولا للجدد بس؟",how_to_get_an_offer
@@ -1763,6 +1906,26 @@ text,label
 "Can I reserve an item at the offer price?",how_to_get_an_offer
 "Does the offer automatically renew?",how_to_get_an_offer
 "How can I unsubscribe from offers?",how_to_get_an_offer
+"ازاي اعرف اﻷوفر أول ما ينزل؟,how_to_get_an_offer
+"إزاي أعرف العروض اللي بتتجدد يوميًا؟",how_to_get_an_offer
+"هل فيه عروض خاصة للمطاعم فقط؟",how_to_get_an_offer
+"هل فيه عروض حصرية للعملاء اللي بيشتروا بالجملة؟",how_to_get_an_offer
+"هل فيه عروض مناسبة لطلبات الكاترينج؟",how_to_get_an_offer
+"العرض ده بينفع على المنتجات المجمدة؟",how_to_get_an_offer
+"هل العرض شغال لو طلبت من الفرع مباشرة؟",how_to_get_an_offer
+"لو فاتني العرض، ممكن أرجعه؟",how_to_get_an_offer
+"هل فيه تنبيهات أو إشعارات لما ينزل عرض جديد؟",how_to_get_an_offer
+"ممكن أعرف العروض الجاية؟",how_to_get_an_offer
+"هل فيه عرض خاص لأول طلب شهري؟",how_to_get_an_offer
+"هل فيه عروض مخصصة للمدفوعات الإلكترونية؟",how_to_get_an_offer
+"هل فيه عرض خاص لو شحنت رصيد في التطبيق؟",how_to_get_an_offer
+"هل فيه عروض للطلبات المتكررة؟",how_to_get_an_offer
+"هل ممكن أطلب نفس العرض أكتر من مرة لو غيرت الحساب؟",how_to_get_an_offer
+"هل فيه عرض خاص لو جبت عدد معين من العملاء؟",how_to_get_an_offer
+"هل العروض بتتحدث حسب الموسم؟",how_to_get_an_offer
+"ممكن ترشحلي أفضل عرض متاح حاليًا؟",how_to_get_an_offer
+"هل فيه حد أقصى لقيمة الخصم؟",how_to_get_an_offer
+"هل فيه عروض بتتطبق أوتوماتيك من غير كود؟",how_to_get_an_offer
 "أطلب إزاي من الموقع؟",how_to_place_order
 "إيه خطوات الشراء؟",how_to_place_order
 "إزاي أعمل أوردر؟",how_to_place_order
@@ -2227,6 +2390,17 @@ text,label
 "Are there any size or weight restrictions for delivery?",ask_delivery_options
 "What is your fastest delivery method?",ask_delivery_options
 "Can I specify a delivery time window?",ask_delivery_options
+"هل عندكم توصيل مخصص للفنادق الكبيرة؟",ask_delivery_options
+"إزاي أقدر أطلب delivery recurring أسبوعي؟",ask_delivery_options
+"هل ممكن توصيل الطلبات بشكل مجدول حسب قائمة تشغيل المطعم؟",ask_delivery_options
+"هل عندكم delivery services في أوقات متأخرة من الليل؟",ask_delivery_options
+"هل بتوصلوا للمطابخ المركزية؟",ask_delivery_options
+"هل التوصيل متاح أيام السبت والأحد؟",ask_delivery_options
+"هل فيه إمكانية توصيل في مواعيد محددة للشيف؟",ask_delivery_options
+"هل بتوفروا توصيل بمركبات مجهزة؟",ask_delivery_options
+"هل عندكم option لتوصيل الصبح بدري؟",ask_delivery_options
+"هل أقدر أطلب توصيل لموقع مختلف كل مرة؟",ask_delivery_options
+
 "عندكم أبلكيشن على الموبايل؟",ask_about_app
 "ليكم تطبيق على جوجل بلاي أو أبل ستور؟",ask_about_app
 "إزاي أنزل التطبيق بتاعكم؟",ask_about_app
