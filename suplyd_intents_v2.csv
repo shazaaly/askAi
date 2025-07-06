@@ -101,7 +101,16 @@ text,label
 "How is the build quality?",ask_product_description
 "Does this product have good reviews?",ask_product_description
 "Is this a patented product?",ask_product_description
-"What type of fabric is used?",ask_product_description
+"هل في خصومات على العصائر؟",ask_product_discounts
+"إيه المنتجات اللي عليها تخفيض النهاردة؟",ask_product_discounts
+"فيه عروض على منتجات رمضان؟",ask_product_discounts
+"الزيت عليه خصم؟",ask_product_discounts
+"إيه أرخص سعر لكيس الأرز؟",ask_product_discounts
+"هل عندكم عروض على الجبنة؟",ask_product_discounts
+"المعكرونة عليها عرض؟",ask_product_discounts
+"هل في خصم خاص على المنتجات بالجملة؟",ask_product_discounts
+"الخصم ساري على كل الأحجام؟",ask_product_discounts
+"هل في خصومات للطلبات الكبيرة؟",ask_product_discounts
 "Is it easy to clean?",ask_product_description
 "What kind of packaging does it come in?",ask_product_description
 "What is its heat resistance rating?",ask_product_description
@@ -348,121 +357,53 @@ text,label
 "Are there any additional fees on this price?",ask_product_price
 "I would like an official price quote.",ask_product_price
 "أستخدم المنتج ده إزاي؟",how_to_use_product
-"إيه أحسن طريقة للاستخدام؟",how_to_use_product
-"طريقة الاستعمال إيه؟",how_to_use_product
-"إزاي أستخدمه صح؟",how_to_use_product
-"ممكن تشرحلي طريقة استخدامه؟",how_to_use_product
-"هل فيه تعليمات معينة للاستخدام؟",how_to_use_product
-"الجرعة المفروض تكون قد إيه؟",how_to_use_product
-"أستخدمه كام مرة في اليوم؟",how_to_use_product
-"هل هو للاستخدام الخارجي فقط؟",how_to_use_product
-"دليل المستخدم لو سمحت.",how_to_use_product
-"هل لازم أرجّه قبل الاستعمال؟",how_to_use_product
-"إيه أفضل وقت لاستخدامه؟",how_to_use_product
-"هل بيستخدم على بشرة جافة ولا مبلولة؟",how_to_use_product
-"إيه التحذيرات اللي لازم أخد بالي منها؟",how_to_use_product
-"هل آمن للاستخدام أثناء الحمل؟",how_to_use_product
-"إزاي أركب الجهاز ده؟",how_to_use_product
-"الكمية المناسبة للاستخدام مرة واحدة قد إيه؟",how_to_use_product
-"هل ينفع أخلطه مع منتجات تانية؟",how_to_use_product
-"هل ليه أي آثار جانبية؟",how_to_use_product
-"ما هي موانع الاستعمال؟",how_to_use_product
-"هل يحتاج أي إعدادات قبل التشغيل؟",how_to_use_product
-"عايز فيديو شرح لطريقة الاستخدام.",how_to_use_product
-"كيفية الاستفادة القصوى من المنتج؟",how_to_use_product
-"هل يستخدم قبل الأكل ولا بعده؟",how_to_use_product
-"هل فيه خطوات لازم أتبعها بالترتيب؟",how_to_use_product
-"كيف يتم تفعيله؟",how_to_use_product
-"هل يحتاج إلى فترة راحة بين كل استخدام؟",how_to_use_product
-"ما هي الطريقة المثلى لتطبيقه؟",how_to_use_product
-"هل يمكن استخدامه على جميع أنواع الأسطح؟",how_to_use_product
-"أنا أول مرة أستخدم حاجة زي دي، أبدأ إزاي؟",how_to_use_product
-"هل هناك أي نصائح للاستخدام الفعال؟",how_to_use_product
-"هل يجب تخفيفه بالماء قبل الاستخدام؟",how_to_use_product
-"ما هي مدة الاستخدام الموصى بها في كل مرة؟",how_to_use_product
-"هل يحتاج لشحن قبل الاستخدام الأول؟",how_to_use_product
-"كيف يمكنني إيقاف تشغيله بأمان؟",how_to_use_product
-"هل هناك أخطاء شائعة يجب تجنبها عند الاستخدام؟",how_to_use_product
-"هل يجب ارتداء قفازات أثناء استخدامه؟",how_to_use_product
-"ما هي أفضل الظروف لاستخدامه؟",how_to_use_product
-"هل يمكنني استخدامه لأغراض أخرى غير المذكورة؟",how_to_use_product
-"كيف أعرف أنني أستخدمه بشكل صحيح؟",how_to_use_product
-"هل يمكن للأطفال استخدامه تحت إشراف؟",how_to_use_product
-"ما هي الاحتياطات الواجب اتخاذها؟",how_to_use_product
-"كم من الوقت يستغرق لرؤية النتائج؟",how_to_use_product
-"هل يمكن استخدامه مع الماء الساخن؟",how_to_use_product
-"ماذا أفعل إذا لامس العينين؟",how_to_use_product
-"هل يترك أي بقايا بعد الاستخدام؟",how_to_use_product
-"كيف يتم تنظيف الأداة بعد الاستخدام؟",how_to_use_product
-"هل يجب استشارة طبيب قبل استخدامه؟",how_to_use_product
-"ده بيشتغل إزاي؟",how_to_use_product
-"أستعمله إزاي؟",how_to_use_product
-"إيه طريقة تشغيله؟",how_to_use_product
-"بيستخدم إزاي ده؟",how_to_use_product
-"عايز أعرف طريقة الاستعمال.",how_to_use_product
-"هل ليه طريقة معينة؟",how_to_use_product
-"أحط منه قد إيه؟",how_to_use_product
-"أستعمله كل يوم عادي؟",how_to_use_product
-"أحطه على شعري وهو ناشف ولا مبلول؟",how_to_use_product
-"فيه أي تحذيرات؟",how_to_use_product
-"التركيب بتاعه سهل؟",how_to_use_product
-"إزاي أنضفه؟",how_to_use_product
-"هو آمن؟",how_to_use_product
-"المفروض أعمل إيه قبل ما أستخدمه؟",how_to_use_product
-"محتاج أي حاجة معاه عشان يشتغل؟",how_to_use_product
-"أشغله إزاي؟",how_to_use_product
-"إيه التعليمات بتاعته؟",how_to_use_product
-"ليه كتالوج؟",how_to_use_product
-"هل فيه فيديو بيشرح طريقة الاستخدام؟",how_to_use_product
-"فيه أي حاجة المفروض معرفهاش عنه؟",how_to_use_product
+"إيه أفضل طريقة لتحضيره؟",how_to_use_product
+"المنتج ده بيتجهز إزاي؟",how_to_use_product
+"محتاج يتسخن قبل التقديم؟",how_to_use_product
+"ممكن شرح لطريقة التحضير؟",how_to_use_product
+"هل يتقدم سخن ولا بارد؟",how_to_use_product
+"محتاج طبخ ولا جاهز على التقديم؟",how_to_use_product
+"ينفع أستخدمه في وصفات تانية؟",how_to_use_product
+"الكمية المناسبة للاستخدام قد إيه؟",how_to_use_product
+"يتخزن إزاي بعد الفتح؟",how_to_use_product
+"ممكن يتحط في الميكروويف؟",how_to_use_product
+"هل فيه تعليمات معينة قبل ما أستخدمه؟",how_to_use_product
+"هل محتاج تخفيف قبل الاستخدام؟",how_to_use_product
+"هل فيه مدة صلاحية بعد الفتح؟",how_to_use_product
+"ممكن يتسخن كذا مرة؟",how_to_use_product
+"ينفع أسيبه برا التلاجة بعد الاستخدام؟",how_to_use_product
+"هل في طريقة معينة للتقديم؟",how_to_use_product
+"ينفع أضيف عليه مكونات تانية؟",how_to_use_product
+"لو جالي طلب دليفري، أستخدمه على طول؟",how_to_use_product
+"لو اتجمد، أسيبه يفك إزاي؟",how_to_use_product
+"هل فيه فيديو بيشرح تحضيره؟",how_to_use_product
+"ينفع أحطه على الساندويتشات؟",how_to_use_product
+"أستخدمه كإيه؟ صنف رئيسي ولا جانبي؟",how_to_use_product
+"بيتحط فين في الوجبة؟",how_to_use_product
+"هل يتقلب قبل الاستخدام؟",how_to_use_product
+"هل بيتحط في الفرن؟",how_to_use_product
+"ممكن أستخدمه كـ topping؟",how_to_use_product
+"هل يتاكل ناي؟",how_to_use_product
+"المطاعم الكبيرة بتستخدمه إزاي؟",how_to_use_product
+"إزاي أستفيد منه بأقصى شكل؟",how_to_use_product
+"هل محتاج توابل إضافية؟",how_to_use_product
+"هل بيحتاج تقليب على النار؟",how_to_use_product
+"ممكن أستخدمه في بوفيه مفتوح؟",how_to_use_product
+"هل فيه خطوات تجهيز لازم أعملها قبله؟",how_to_use_product
+"هل يتناسب مع السرفيس السريع؟",how_to_use_product
+"هل المنتج ده محتاج نقع قبل الطبخ؟",how_to_use_product
+"هل بيتحط على طبق لوحده ولا مع مكونات تانية؟",how_to_use_product
+"إزاي أجهزه في أقل وقت؟",how_to_use_product
+"ممكن أطبخه في جريل ولا محتاج حاجة تانية؟",how_to_use_product
+"هل آمن للتقديم للأطفال في المطاعم؟",how_to_use_product
+"هل بينفع يتحط في الكاترينج؟",how_to_use_product
+"هل المنتج ده بيفضل طازة بعد التحضير؟",how_to_use_product
+"هل فيه أي حاجة أتجنبها وأنا بجهزه؟",how_to_use_product
+"أسيبه يسخن قد إيه؟",how_to_use_product
+"هل ممكن يتحط في bain marie؟",how_to_use_product
+"ينفع أستخدمه مع نوع أكل تاني؟",how_to_use_product
+"هل في درجة حرارة معينة للتقديم؟",how_to_use_product
 "How do I use this product?",how_to_use_product
-"What's the best way to use this?",how_to_use_product
-"What are the usage instructions?",how_to_use_product
-"How can I use this correctly?",how_to_use_product
-"Can you explain how to use it?",how_to_use_product
-"Are there any specific instructions for use?",how_to_use_product
-"What's the recommended dosage?",how_to_use_product
-"How many times a day should I use it?",how_to_use_product
-"Is it for external use only?",how_to_use_product
-"User manual, please.",how_to_use_product
-"Should I shake it before use?",how_to_use_product
-"What's the best time to use it?",how_to_use_product
-"Should it be applied to dry or wet skin?",how_to_use_product
-"What warnings should I be aware of?",how_to_use_product
-"Is it safe to use during pregnancy?",how_to_use_product
-"How do I assemble this device?",how_to_use_product
-"What is the appropriate amount for a single use?",how_to_use_product
-"Can I mix it with other products?",how_to_use_product
-"Does it have any side effects?",how_to_use_product
-"What are the contraindications?",how_to_use_product
-"Does it require any setup before operation?",how_to_use_product
-"I need a video tutorial on how to use it.",how_to_use_product
-"How can I get the most out of this product?",how_to_use_product
-"Should it be used before or after meals?",how_to_use_product
-"Are there steps I need to follow in order?",how_to_use_product
-"How is it activated?",how_to_use_product
-"Does it need a rest period between uses?",how_to_use_product
-"What is the ideal application method?",how_to_use_product
-"Can it be used on all types of surfaces?",how_to_use_product
-"I'm a first-time user, how do I start?",how_to_use_product
-"Are there any tips for effective use?",how_to_use_product
-"Should it be diluted with water before use?",how_to_use_product
-"What is the recommended duration for each use?",how_to_use_product
-"Does it need to be charged before first use?",how_to_use_product
-"How can I turn it off safely?",how_to_use_product
-"Are there common mistakes to avoid when using it?",how_to_use_product
-"Should I wear gloves while using it?",how_to_use_product
-"What are the best conditions for its use?",how_to_use_product
-"Can I use it for purposes other than those listed?",how_to_use_product
-"How do I know if I'm using it correctly?",how_to_use_product
-"Can children use it under supervision?",how_to_use_product
-"What precautions should be taken?",how_to_use_product
-"How long does it take to see results?",how_to_use_product
-"Can it be used with hot water?",how_to_use_product
-"What should I do if it comes into contact with my eyes?",how_to_use_product
-"Does it leave any residue after use?",how_to_use_product
-"How should the tool be cleaned after use?",how_to_use_product
-"Should I consult a doctor before using it?",how_to_use_product
 "المنتج ده فيه كام سعر حراري؟",ask_nutrition_facts
 "ممكن أعرف القيمة الغذائية بتاعته؟",ask_nutrition_facts
 "هل هو مناسب للدايت؟",ask_nutrition_facts
@@ -935,128 +876,70 @@ text,label
 "Can you compare the reputation of the two brands?",compare_products
 "Which one is more compact?",compare_products
 "Which one offers better customer support?",compare_products
-"سعركم إيه بالنسبة للسوق؟",compare_prices
-"لقيت نفس المنتج على موقع تاني أرخص.",compare_prices
-"هل بتقدموا خدمة مطابقة الأسعار؟",compare_prices
-"ليه سعركم أغلى من المنافسين؟",compare_prices
-"هل سعركم ده يعتبر منافس؟",compare_prices
-"إزاي أسعاركم مقارنة بباقي المواقع؟",compare_prices
-"هل ممكن ألاقي سعر أفضل في مكان تاني؟",compare_prices
-"هل تضمنوا أفضل سعر؟",compare_prices
-"ليه السعر عندكم مختلف عن الفرع؟",compare_prices
-"أسعاركم زي أسعار الجملة ولا أغلى؟",compare_prices
-"مقارنة بالمنافسين، وضعكم إيه؟",compare_prices
-"هل سعركم عادل بالنسبة للجودة؟",compare_prices
-"لماذا يوجد فرق في السعر بينكم وبين المتاجر الأخرى؟",compare_prices
-"هل يمكنني الحصول على صفقة أفضل في مكان آخر؟",compare_prices
-"كيف يتناسب سعركم مع المنافسة؟",compare_prices
-"لقد وجدته بسعر أقل في مكان آخر، هل يمكنك مطابقة ذلك؟",compare_prices
-"هل أسعاركم ثابتة أم أنها تتغير؟",compare_prices
-"هل يمكنكم تبرير هذا السعر؟",compare_prices
-"هل هذا هو أفضل سعر يمكنني الحصول عليه؟",compare_prices
-"هل هناك أي متاجر تبيعه بسعر أرخص؟",compare_prices
-"أنا أقوم ببعض التسوق المقارن.",compare_prices
-"هل أسعاركم قابلة للتفاوض؟",compare_prices
-"هل تقدمون أي نوع من ضمان السعر؟",compare_prices
-"هل هناك سبب لكونكم أكثر تكلفة؟",compare_prices
-"أريد أن أتأكد من أنني أحصل على أفضل صفقة.",compare_prices
-"هل يمكنكم إخباري كيف يتم تحديد أسعاركم؟",compare_prices
-"ما مدى تنافسية أسعاركم؟",compare_prices
-"هل تهدفون إلى أن تكونوا الخيار الأقل تكلفة؟",compare_prices
-"هل يمكنني أن أجد هذا بسعر أفضل خلال فترة التخفيضات؟",compare_prices
-"هل هناك أي رسوم خفية؟",compare_prices
-"كيف يمكنني التأكد من أن سعركم عادل؟",compare_prices
-"لقد رأيت أسعارًا مختلفة لهذا المنتج عبر الإنترنت.",compare_prices
-"هل سعركم يشمل الضرائب والشحن؟",compare_prices
-"هل تقدمون خصومات للكميات الكبيرة للتنافس على السعر؟",compare_prices
-"هل يمكنكم مطابقة سعر منافس عبر الإنترنت؟",compare_prices
-"أنا أبحث عن أفضل قيمة، وليس بالضرورة أرخص سعر.",compare_prices
-"لماذا يتقلب سعر هذا المنتج كثيرًا؟",compare_prices
-"هل لديكم سياسة أفضل سعر مضمون؟",compare_prices
-"هل سعركم ثابت في جميع مواقعكم؟",compare_prices
-"هل من المرجح أن ينخفض ​​السعر قريبًا؟",compare_prices
-"هل يمكنكم شرح هيكل التسعير الخاص بكم؟",compare_prices
-"هل هذا سعر ترويجي أم السعر العادي؟",compare_prices
-"أنا أتحقق من الأسعار في عدة أماكن.",compare_prices
+"هل ممكن ألاقيه بسعر أحسن وقت التخفيضات؟",ask_product_price
+"السعر ممكن ينزل قريب؟",ask_product_price
+"دا سعر عرض ولا السعر العادي؟",ask_product_price
+"ممكن ألاقيه أرخص في حتة تانية؟",ask_product_price
+"دا أحسن سعر في السوق؟",ask_product_price
+"مفيش أرخص من كده؟",ask_product_price
+"هو دا أحسن سعر أقدر آخده؟",ask_product_price
+"في حتة تانية بتبيعه بسعر أقل، تقدروا تظبطولي؟",ask_product_price
+"ممكن تعملوا سعر أحسن؟",ask_product_price
+"لو اشتريت أكتر، في خصم؟",ask_pricing_policy
+"فيه أي مصاريف مستخبية؟",ask_pricing_policy
+"السعر دا شامل الضرايب والشحن؟",ask_pricing_policy
+"لو لقيته أرخص في مكان تاني، بتعملوا match؟",ask_pricing_policy
+"عندكم سياسة أفضل سعر؟",ask_pricing_policy
+"السعر دا ثابت في كل فروعكم؟",ask_pricing_policy
+"ممكن تشرحولي نظام التسعير؟",ask_pricing_policy
+"فيه سعر عرض ولا دا الطبيعي؟",ask_pricing_policy
+"عندكم ضمان أحسن سعر؟",ask_pricing_policy
+"سعركم محسوب إزاي؟",ask_pricing_policy
+"فيه إمكانية تفاصلوا في السعر؟",ask_pricing_policy
+"لو جبت كمية، في سعر مختلف؟",ask_pricing_policy
+"بتتنافسوا على السعر؟",compare_prices
+"ليه سعركم أعلى من التانيين؟",compare_prices
+"سعركم مقارنة بالسوق عامل إزاي؟",compare_prices
+"أنا شوفته أرخص على موقع تاني.",compare_prices
+"هل بتعملوا مقارنة أسعار؟",compare_prices
+"أنا بقارن الأسعار بين كذا مكان.",compare_prices
+"هو أغلى من [اسم المنافس]؟",compare_prices
+"ليه فرق السعر كبير عن المحلات التانية؟",compare_prices
+"السعر يعتبر منافس؟",compare_prices
+"أنا بدور على أفضل قيمة مش أرخص سعر وخلاص.",compare_prices
+"إزاي سعركم مقارنة بالمنافسة؟",compare_prices
+"سعركم فيه عدل بالنسبة للجودة؟",compare_prices
+"هل ممكن نلاقيه بسعر أحسن بره؟",compare_prices
+"بتقدروا تبرروا السعر ده؟",compare_prices
+"هو السعر ده مناسب للمنافسة؟",compare_prices
+"ليه فيه تفاوت كبير في السعر؟",compare_prices
+"هل الأسعار بتثبت ولا بتتغير؟",compare_prices
+"مين أرخص لو حسبنا نفس الكمية؟",compare_prices
+"لو فيه منافس سعره أقل، ممكن تطابقوه؟",compare_prices
+"أنا لاقيته بسعر أقل في مكان تاني.",compare_prices
+"ليه سعره مختلف عن الفروع؟",compare_prices
+"الناس بتقول إنه أرخص في مكان تاني.",compare_prices
+"أنا عايز أفضل صفقة ممكنة.",compare_prices
+"سعركم يعتبر منافس؟",compare_prices
+"بتحسبوا السعر إزاي مقارنة بالتانين؟",compare_prices
+"هل فيه فرق كبير بين سعركم وسعر السوق؟",compare_prices
+"ليه السعر عندكم أغلى من محلات تانية؟",compare_prices
+"أنا شوفت نفس المنتج بسعر أرخص على موقع تاني.",compare_prices
+"هل بتقدموا مقارنة أسعار؟",compare_prices
+"بتراعوا المنافسة في تسعيركم؟",compare_prices
+"إزاي أسعاركم مقارنة بالمواقع التانية؟",compare_prices
 "هل سعركم يعكس جودة أعلى؟",compare_prices
-"هل يمكنكم أن تعرضوا عليّ مقارنة بالأسعار؟",compare_prices
-"هل هناك مجال للمناورة على السعر؟",compare_prices
-"هل أنتم على استعداد للتنافس على السعر؟",compare_prices
-"لقد تلقيت عرض أسعار أفضل من مكان آخر.",compare_prices
-"هل يمكنكم القيام بعمل أفضل على السعر؟",compare_prices
-"لماذا هو أرخص بكثير في مكان آخر؟",compare_prices
-"هل يمكنكم مطابقة سعر [اسم المنافس]؟",compare_prices
-"بره أرخص، إيه الحكاية؟",compare_prices
-"ليه عندكم أغلى من المحلات؟",compare_prices
-"هل سعركم زي باقي الناس؟",compare_prices
-"أنا لاقيته في حتة تانية بسعر أقل.",compare_prices
-"لو لقيته أرخص بره، بتعملوا حاجة؟",compare_prices
-"إيه اللي يخلي سعركم كده؟",compare_prices
-"هل ده أحسن سعر في السوق؟",compare_prices
-"ممكن ألاقي أرخص من كده؟",compare_prices
-"سعركم منافس؟",compare_prices
-"ليه فيه فرق في السعر بينكم وبين [اسم منافس]؟",compare_prices
-"هل السعر عندكم عادل؟",compare_prices
-"أنا بقارن الأسعار حاليا.",compare_prices
-"السعر ده كويس ولا مبالغ فيه؟",compare_prices
-"هو ليه غالي عندكم؟",compare_prices
-"هل فيه مكان بيبيعه أرخص؟",compare_prices
-"سعركم يعتبر إيه جنب المنافسة؟",compare_prices
-"هل السعر ده ثابت في كل حتة؟",compare_prices
-"إشمعنى عندكم بالسعر ده؟",compare_prices
-"ممكن تفاوض في السعر؟",compare_prices
-"هل بتعملوا price match؟",compare_prices
-"How do your prices compare to the market?",compare_prices
-"I found the same product cheaper on another site.",compare_prices
-"Do you offer a price match service?",compare_prices
-"Why is your price higher than competitors?",compare_prices
-"Is your price considered competitive?",compare_prices
-"How do your prices compare to other websites?",compare_prices
-"Can I find a better price elsewhere?",compare_prices
-"Do you guarantee the best price?",compare_prices
-"Why is your price different from the one in the physical store?",compare_prices
-"Are your prices like wholesale or more expensive?",compare_prices
-"Compared to competitors, where do you stand?",compare_prices
-"Is your price fair for the quality?",compare_prices
-"Why is there a price difference between you and other stores?",compare_prices
-"Can I get a better deal elsewhere?",compare_prices
-"How does your price stack up against the competition?",compare_prices
-"I found it cheaper elsewhere, can you match it?",compare_prices
-"Are your prices fixed or do they change?",compare_prices
-"Can you justify this price?",compare_prices
-"Is this the best price I can get?",compare_prices
-"Are there any stores that sell it for less?",compare_prices
-"I'm doing some comparison shopping.",compare_prices
-"Are your prices negotiable?",compare_prices
-"Do you offer any kind of price guarantee?",compare_prices
-"Is there a reason you are more expensive?",compare_prices
-"I want to make sure I'm getting the best deal.",compare_prices
-"Can you tell me how your prices are determined?",compare_prices
-"How competitive are your prices?",compare_prices
-"Do you aim to be the lowest-cost option?",compare_prices
-"Am I likely to find this for a better price during a sale?",compare_prices
-"Are there any hidden fees?",compare_prices
-"How can I be sure your price is fair?",compare_prices
-"I've seen different prices for this product online.",compare_prices
-"Does your price include taxes and shipping?",compare_prices
-"Do you offer bulk discounts to compete on price?",compare_prices
-"Can you match the price of an online competitor?",compare_prices
-"I'm looking for the best value, not necessarily the cheapest price.",compare_prices
-"Why does the price of this product fluctuate so much?",compare_prices
-"Do you have a best price guarantee policy?",compare_prices
-"Is your price consistent across all your locations?",compare_prices
-"Is the price likely to drop soon?",compare_prices
-"Can you explain your pricing structure?",compare_prices
-"Is this a promotional price or the regular price?",compare_prices
-"I'm checking prices at several places.",compare_prices
-"Does your price reflect a higher quality?",compare_prices
-"Can you offer me a price comparison?",compare_prices
-"Is there any wiggle room on the price?",compare_prices
-"Are you willing to compete on price?",compare_prices
-"I've received a better quote from somewhere else.",compare_prices
-"Can you do better on the price?",compare_prices
-"Why is it so much cheaper elsewhere?",compare_prices
-"Can you match [Competitor's Name]'s price?",compare_prices
+"ليه بتبيعوه بسعر أعلى؟",compare_prices
+"سعركم إيه جنب المنافسين؟",compare_prices
+"المنتج أرخص بره، ليه؟",compare_prices
+"لو لقيته بره أرخص، ممكن نعمل حاجة؟",compare_prices
+"هل تقدروا تظبطوا السعر لو لقيته أقل؟",compare_prices
+"السعر ده مبالغ فيه؟",compare_prices
+"فيه حتة بتبيعه أرخص؟",compare_prices
+"ممكن تفاوض على السعر؟",compare_prices
+"مين أغلى؟",compare_prices
+"ليه الأسعار بتتغير كل شوية؟",compare_prices
+"أنا بعمل مقارنة أسعار حاليًا.",compare_prices
 "مفيش حاجة أرخص من كده؟",suggest_cheaper_alternative
 "عايز حاجة على قد الإيد.",suggest_cheaper_alternative
 "إيه البديل الاقتصادي للمنتج ده؟",suggest_cheaper_alternative
@@ -1261,10 +1144,8 @@ text,label
 "I want to change the arrival day of my order.",ask_for_change_delivery_date
 "Is it possible to change the receiving appointment?",ask_for_change_delivery_date
 "I'd like to postpone my order.",ask_for_change_delivery_date
-"Can I choose a different day for delivery?",ask_for_change_delivery_date
 "Can I change the delivery time window?",ask_for_change_delivery_date
 "I want to set a new date for my shipment.",ask_for_change_delivery_date
-"Can I get a weekend delivery instead?",ask_for_change_delivery_date
 "What is your policy on rescheduling deliveries?",ask_for_change_delivery_date
 "Is it too late to change the delivery date?",ask_for_change_delivery_date
 "I need to delay my shipment by a few days.",ask_for_change_delivery_date
@@ -1274,11 +1155,9 @@ text,label
 "Can I change the delivery address and date at the same time?",ask_for_change_delivery_date
 "I selected the wrong day, can I change it?",ask_for_change_delivery_date
 "I need to update my delivery details.",ask_for_change_delivery_date
-"Can I request a specific day of the week for delivery?",ask_for_change_delivery_date
 "I'd like to request a later delivery.",ask_for_change_delivery_date
 "How can I request a different delivery date?",ask_for_change_delivery_date
 "Can I put my shipment on hold?",ask_for_change_delivery_date
-"Can I choose a specific delivery time slot?",ask_for_change_delivery_date
 "I want to modify my delivery schedule.",ask_for_change_delivery_date
 "Can I change my delivery date online?",ask_for_change_delivery_date
 "I need to move my scheduled delivery.",ask_for_change_delivery_date
@@ -1291,6 +1170,7 @@ text,label
 "Can I change the delivery date for only part of my order?",ask_for_change_delivery_date
 "I'm not ready for delivery, can we postpone?",ask_for_change_delivery_date
 "Who should I contact to change my delivery date?",ask_for_change_delivery_date
+
 "ممكن أعرف الشحنة وصلت لفين؟",check_shipping_status
 "حالة الشحنة إيه دلوقتي؟",check_shipping_status
 "هل تم شحن طلبي؟",check_shipping_status
