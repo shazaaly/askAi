@@ -1,0 +1,3053 @@
+text,label
+"ممكن تفاصيل عن المنتج ده؟",ask_product_description
+"إيه هي مواصفات المنتج ده؟",ask_product_description
+"عايز أعرف كل حاجة عن المنتج ده.",ask_product_description
+"المنتج ده مصنوع من إيه؟",ask_product_description
+"إيه بلد الصنع؟",ask_product_description
+"الخامة بتاعته إيه؟",ask_product_description
+"هل عليه ضمان؟ ومدة الضمان قد إيه؟",ask_product_description
+"محتويات العلبة إيه بالظبط؟",ask_product_description
+"وزن القطعة كام جرام؟",ask_product_description
+"الأبعاد بتاعته كام؟ الطول والعرض والارتفاع.",ask_product_description
+"هل المنتج ده أصلي؟",ask_product_description
+"إيه رقم الموديل؟",ask_product_description
+"عايز وصف كامل للمنتج.",ask_product_description
+"هل المنتج ده مقاوم للمياه؟",ask_product_description
+"تاريخ انتهاء الصلاحية امتى؟",ask_product_description
+"هل فيه منه ألوان تانية؟",ask_product_description
+"المادة المصنوع منها آمنة؟",ask_product_description
+"هل بييجي معاه اكسسوارات؟",ask_product_description
+"ممكن صورة للمنتج من زوايا مختلفة؟",ask_product_description
+"ايه المنتج دا,ask_product_description
+"صلاحيته كام شهر؟",ask_product_description
+"هل هو مناسب للأطفال؟",ask_product_description
+"إيه الفرق بينه وبين الإصدار اللي قبله؟",ask_product_description
+"هل المنتج ده جديد ولا مستعمل؟",ask_product_description
+"ممكن تقولي تفاصيله الفنية؟",ask_product_description
+"العبوة دي تكفي استخدام قد إيه؟",ask_product_description
+"هل هو قابل لإعادة التدوير؟",ask_product_description
+"ممكن تقولي المكونات بالكامل؟",ask_product_description
+"هل الصلاحية بتاعته بتعيش كتير؟",ask_product_description
+"هل المنتج ده فيه نسبة دهون نباتية,ask_product_description
+"المنتج دا ينفع يتحط على بيتزا؟",ask_product_description
+"هل المكونات بتسبب حساسية؟",ask_product_description
+"الجودة بتاعته عاملة إيه؟",ask_product_description
+"المنتج ده عليه تقييمات كويسة؟",ask_product_description
+"هل المنتج ده حاصل على براءة اختراع؟",ask_product_description
+"إيه نوع القماش المستخدم؟",ask_product_description
+"هل هو سهل التنضيف؟",ask_product_description
+"المنتج ده بيجي في أي تغليف؟",ask_product_description
+"إيه هي درجة مقاومته للحرارة؟",ask_product_description
+"هل هو خالي من المواد الكيميائية الضارة؟",ask_product_description
+"ما هي السعة التخزينية للجهاز؟",ask_product_description
+"هل يدعم اللغة العربية؟",ask_product_description
+"ما مدى قوة المحرك؟",ask_product_description
+"هل المنتج ده بيصدر صوت عالي؟",ask_product_description
+"إيه هي فترة صلاحيته بعد الفتح؟",ask_product_description
+"هل المنتج ده صديق للبيئة؟",ask_product_description
+"ما هي قدرته الكهربائية؟",ask_product_description
+"هل هو آمن للاستخدام حول الحيوانات الأليفة؟",ask_product_description
+"عايز ورقة البيانات التقنية للمنتج.",ask_product_description
+"ده مصنوع من إيه؟",ask_product_description
+"الضمان بتاعه إيه نظامه؟",ask_product_description
+"عايز تفاصيل أكتر عن ده.",ask_product_description
+"بيجي معاه إيه في الكرتونة؟",ask_product_description
+"ده وزنه تقيل ولا خفيف؟",ask_product_description
+"صناعته إيه؟ مصري ولا مستورد؟",ask_product_description
+"ده الأصلي ولا كوبي؟",ask_product_description
+"ممكن أعرف أبعاده؟",ask_product_description
+"هو ضد الماية؟",ask_product_description
+"إيه الألوان اللي نازلة منه؟",ask_product_description
+"هل الخامة بتاعته كويسة؟",ask_product_description
+"ده بيشتغل إزاي؟",ask_product_description
+"صلاحيته قد إيه؟",ask_product_description
+"هل آمن على العيال؟",ask_product_description
+"هو ده الموديل الجديد؟",ask_product_description
+"الخامة دي بتوبر؟",ask_product_description
+"ممكن تفاصيل أكتر عن مواصفاته؟",ask_product_description
+"هو حجمه كبير؟",ask_product_description
+"إيه مكوناته؟",ask_product_description
+"بطاريته بتقعد كتير؟",ask_product_description
+"Tell me more about this product.",ask_product_description
+"What are the specifications for this item?",ask_product_description
+"Can you give me a detailed description?",ask_product_description
+"What material is this made of?",ask_product_description
+"Where is this product manufactured?",ask_product_description
+"What are the dimensions?",ask_product_description
+"Does it come with a warranty?",ask_product_description
+"What's included in the box?",ask_product_description
+"How much does it weigh?",ask_product_description
+"What's the model number?",ask_product_description
+"Is this product original?",ask_product_description
+"Is it waterproof?",ask_product_description
+"What is the expiration date?",ask_product_description
+"Are there other colors available?",ask_product_description
+"Is the material safe?",ask_product_description
+"Does it come with any accessories?",ask_product_description
+"Can I see more pictures of the product?",ask_product_description
+"Is it easy to assemble?",ask_product_description
+"What is its shelf life?",ask_product_description
+"Is this suitable for children?",ask_product_description
+"What's the difference between this and the previous version?",ask_product_description
+"Is this item new or refurbished?",ask_product_description
+"Could you provide the technical details?",ask_product_description
+"How long will this package last?",ask_product_description
+"Is it recyclable?",ask_product_description
+"Can you list all the ingredients?",ask_product_description
+"Does it have good battery life?",ask_product_description
+"Is this compatible with my other devices?",ask_product_description
+"What quality certifications does it have?",ask_product_description
+"Is the material hypoallergenic?",ask_product_description
+"How is the build quality?",ask_product_description
+"Does this product have good reviews?",ask_product_description
+"Is this a patented product?",ask_product_description
+"What type of fabric is used?",ask_product_description
+"Is it easy to clean?",ask_product_description
+"What kind of packaging does it come in?",ask_product_description
+"What is its heat resistance rating?",ask_product_description
+"Is it free from harmful chemicals?",ask_product_description
+"What is the storage capacity of the device?",ask_product_description
+"Does it support multiple languages?",ask_product_description
+"How powerful is the motor?",ask_product_description
+"Is this product noisy during operation?",ask_product_description
+"What is its shelf life after opening?",ask_product_description
+"Is this product eco-friendly?",ask_product_description
+"What is its power rating?",ask_product_description
+"Is it safe to use around pets?",ask_product_description
+"I need the technical datasheet for this item.",ask_product_description
+"هل المنتج ده موجود في المخزن؟",check_stock_availability
+"المنتج ده متاح حالياً؟",check_stock_availability
+"عايز أتأكد لو المنتج متوفر.",check_stock_availability
+"هل لسه باقي منه ولا خلص؟",check_stock_availability
+"الكمية اللي عايزها متاحة؟",check_stock_availability
+"موجود ولا أستنى؟",check_stock_availability
+"عندكم منه كام قطعة في المخزن؟",check_stock_availability
+"النوع ده لسه عندكم؟",check_stock_availability
+"أقدر أطلبه دلوقتي؟",check_stock_availability
+"المنتج ده متاح للشراء؟",check_stock_availability
+"عايز أعرف إذا كان متوفر قبل ما أطلب.",check_stock_availability
+"هل الكمية خلصت؟",check_stock_availability
+"ممكن تتأكدلي لو سمحت لو لسه باقي منه؟",check_stock_availability
+"المنتج ده in stock ولا out of stock؟",check_stock_availability
+"هل الكمية محدودة؟",check_stock_availability
+"ممكن أعرف حالة المخزون للمنتج ده؟",check_stock_availability
+"هل لسه فيه فرصة أشتريه؟",check_stock_availability
+"المنتج ده هيتوفر تاني امتى؟",check_stock_availability
+"متى تتوقعون توفره مرة أخرى؟",check_stock_availability
+"ممكن تبلغوني أول ما يتوفر؟",check_stock_availability
+"هل ممكن أحجز قطعة منه؟",check_stock_availability
+"امتى المخزون يتجدد؟",check_stock_availability
+"هل فيه كمية جاية في الطريق؟",check_stock_availability
+"ليه المنتج ده دايماً غير متاح؟",check_stock_availability
+"هل توقف إنتاجه؟",check_stock_availability
+"بتجددوا المخزون كل قد إيه؟",check_stock_availability
+"الدفعة الجاية هتوصل امتى؟",check_stock_availability
+"متى يرجع يتوفر تاني؟",check_stock_availability
+"هل المنتج ده من الأصناف اللي بتتوفر على طول؟",check_stock_availability
+"متوفر حاليا ولا خلص؟",check_stock_availability
+"المنتج متوفر ولا نفذت الكمية؟",check_stock_availability
+"هل هذا الصنف لا يزال متاحًا؟",check_stock_availability
+"أريد التحقق من توفر هذا المنتج.",check_stock_availability
+"كم عدد القطع المتبقية؟",check_stock_availability
+"هل يمكنني شراؤه الآن؟",check_stock_availability
+"هل يتوفر لديكم هذا المنتج؟",check_stock_availability
+"هل المنتج متاح في جميع الفروع؟",check_stock_availability
+"هل هناك أي فرصة لإيجاده؟",check_stock_availability
+"انتهى المخزون، متى سيعود؟",check_stock_availability
+"هل يمكنني وضعه في قائمة الانتظار؟",check_stock_availability
+"لماذا لا أستطيع إضافته إلى عربة التسوق؟ هل نفد؟",check_stock_availability
+"هل هذا المنتج متوفر بكميات كبيرة؟",check_stock_availability
+"هل ما زال لديكم مخزون منه؟",check_stock_availability
+"متى كانت آخر مرة كان متوفراً فيها؟",check_stock_availability
+"هل ستتم إعادة تخزينه قريبًا؟",check_stock_availability
+"هل لديكم أي مخزون متبقٍ؟",check_stock_availability
+"هل تم بيع كل الكمية؟",check_stock_availability
+"المنتج غير متاح، هل هذا مؤقت؟",check_stock_availability
+"هل هذا المنتج متاح للطلب المسبق؟",check_stock_availability
+"المنتج ده موجود؟",check_stock_availability
+"فيه منه ولا خلص؟",check_stock_availability
+"عندكم منه؟",check_stock_availability
+"ألاقيه عندكم؟",check_stock_availability
+"عايز أتأكد لو لسه فيه منه.",check_stock_availability
+"الاستوك فيه منه؟",check_stock_availability
+"لسه موجود؟",check_stock_availability
+"خلص ولا لسه؟",check_stock_availability
+"أقدر أجيبه دلوقتي؟",check_stock_availability
+"الكمية موجودة؟",check_stock_availability
+"موجود في المخزن ولا لأ؟",check_stock_availability
+"لو طلبته هييجي؟",check_stock_availability
+"متاح للشرا؟",check_stock_availability
+"قولي لو موجود عشان أطلب.",check_stock_availability
+"هو ليه مكتوب غير متوفر؟",check_stock_availability
+"امتى هييجي تاني؟",check_stock_availability
+"أقدر أحجزه؟",check_stock_availability
+"ممكن تبلغني لما يرجع؟",check_stock_availability
+"هو اتقطع خلاص؟",check_stock_availability
+"مفيش أمل يرجع؟",check_stock_availability
+"Is this product in stock?",check_stock_availability
+"Is this item currently available?",check_stock_availability
+"I'd like to check if this product is available.",check_stock_availability
+"Is this still in stock or has it sold out?",check_stock_availability
+"Is the quantity I want available?",check_stock_availability
+"Is it available or should I wait?",check_stock_availability
+"How many pieces do you have in stock?",check_stock_availability
+"Do you still carry this model?",check_stock_availability
+"Can I order it right now?",check_stock_availability
+"Is this product available for purchase?",check_stock_availability
+"I want to know if it's available before ordering.",check_stock_availability
+"Has the stock run out?",check_stock_availability
+"Could you please check if there are any left?",check_stock_availability
+"Is this item in stock or out of stock?",check_stock_availability
+"Is the quantity limited?",check_stock_availability
+"Can you tell me the stock status for this product?",check_stock_availability
+"Is there still a chance to buy it?",check_stock_availability
+"When will this product be available again?",check_stock_availability
+"When do you expect it to be back in stock?",check_stock_availability
+"Can you notify me when it's available?",check_stock_availability
+"Can I reserve a piece?",check_stock_availability
+"When will the stock be replenished?",check_stock_availability
+"Is there a new shipment on the way?",check_stock_availability
+"Why is this product always unavailable?",check_stock_availability
+"Has it been discontinued?",check_stock_availability
+"How often do you restock?",check_stock_availability
+"When will the next batch arrive?",check_stock_availability
+"When will this be available again?",check_stock_availability
+"Is this a regularly stocked item?",check_stock_availability
+"Available now or sold out?",check_stock_availability
+"Is the product available or has the quantity run out?",check_stock_availability
+"Is this item still available?",check_stock_availability
+"I want to check the availability of this product.",check_stock_availability
+"How many pieces are left?",check_stock_availability
+"Can I buy it now?",check_stock_availability
+"Do you have this product?",check_stock_availability
+"Is the product available in all branches?",check_stock_availability
+"Is there any chance of finding it?",check_stock_availability
+"It's out of stock, when will it be back?",check_stock_availability
+"Can I be put on a waiting list?",check_stock_availability
+"Why can't I add it to the cart? Is it sold out?",check_stock_availability
+"Is this product available in bulk?",check_stock_availability
+"Do you still have stock of it?",check_stock_availability
+"When was the last time it was available?",check_stock_availability
+"Will it be restocked soon?",check_stock_availability
+"Do you have any remaining stock?",check_stock_availability
+"Is the entire quantity sold out?",check_stock_availability
+"The product is unavailable, is this temporary?",check_stock_availability
+"Is this product available for pre-order?",check_stock_availability
+"السعر كام لو سمحت؟",ask_product_price
+"ده بكام؟",ask_product_price
+"عايز أعرف سعر المنتج ده.",ask_product_price
+"تكلفته كام؟",ask_product_price
+"القطعة دي واقفة على كام؟",ask_product_price
+"كم يبلغ ثمن هذا؟",ask_product_price
+"من فضلك، ممكن أعرف السعر؟",ask_product_price
+"سعر الوحدة كام؟",ask_product_price
+"التكلفة الإجمالية كام؟",ask_product_price
+"ممكن قائمة الأسعار؟",ask_product_price
+"سعر العبوة الصغيرة كام؟",ask_product_price
+"الكرتونة بكام؟",ask_product_price
+"سعر الكيلو من ده كام؟",ask_product_price
+"السعر شامل الضريبة؟",ask_product_price
+"السعر الرسمي كام؟",ask_product_price
+"هل السعر ده نهائي؟",ask_product_price
+"السعر بالجنيه المصري؟",ask_product_price
+"عايز أستفسر عن السعر.",ask_product_price
+"السعر كام بعد الخصم؟",ask_product_price
+"لو هاخد كمية، السعر هيكون كام؟",ask_product_price
+"أنا عايز أعرف سعره",ask_product_price
+"ما هو سعر المنتج؟",ask_product_price
+"بكام القطعة؟",ask_product_price
+"ما تكلفة هذا؟",ask_product_price
+"السعر كام لو هشتري دستة؟",ask_product_price
+"هل السعر ده شامل الشحن؟",ask_product_price
+"ممكن أعرف تكلفة المنتج ده؟",ask_product_price
+"سعر المنتج ده كام في السوق؟",ask_product_price
+"هل السعر ده قابل للتفاوض؟",ask_product_price
+"السعر على الموقع كام؟",ask_product_price
+"كم سعر هذا الصنف؟",ask_product_price
+"هل يمكنك إعطائي السعر؟",ask_product_price
+"أريد أن أعرف كم يكلف.",ask_product_price
+"السعر للقطعة الواحدة من فضللك.",ask_product_price
+"ما هو السعر النهائي؟",ask_product_price
+"هل السعر المعروض هو سعر التجزئة؟",ask_product_price
+"كم تبلغ تكلفة هذا المنتج؟",ask_product_price
+"أريد قائمة بأسعار المنتجات المماثلة.",ask_product_price
+"كم سيكلفني هذا؟",ask_product_price
+"هل يوجد سعر خاص للكميات الكبيرة؟",ask_product_price
+"السعر بعد إضافة الضرائب كام؟",ask_product_price
+"كم يكلف هذا المنتج؟",ask_product_price
+"أريد معرفة السعر قبل أن أقرر.",ask_product_price
+"هل السعر يختلف حسب اللون؟",ask_product_price
+"ما هو متوسط ​​سعر هذا المنتج؟",ask_product_price
+"السعر للعملاء الجدد هو نفسه؟",ask_product_price
+"هل هناك أي رسوم إضافية على هذا السعر؟",ask_product_price
+"أريد عرض أسعار رسمي.",ask_product_price
+"ده عامل كام؟",ask_product_price
+"عايز أعرف تمنه.",ask_product_price
+"سعره كام ده؟",ask_product_price
+"بكام ده يا باشا؟",ask_product_price
+"ممكن السعر من فضلك؟",ask_product_price
+"قولي ده بكام.",ask_product_price
+"التسعيرة إيه؟",ask_product_price
+"واقف عليا بكام؟",ask_product_price
+"السعر كام يا جماعة؟",ask_product_price
+"لو سمحت، ده بكام؟",ask_product_price
+"الحتة دي بكام؟",ask_product_price
+"لو عايز كرتونة تبقى بكام؟",ask_product_price
+"ممكن أعرف السعر النهائي؟",ask_product_price
+"الكيلو عامل كام؟",ask_product_price
+"هل ده سعره ولا لسه فيه خصم؟",ask_product_price
+"طيب والأسعار إيه؟",ask_product_price
+"سعره في المتناول؟",ask_product_price
+"ده سعره شامل أي حاجة تانية؟",ask_product_price
+"تكلفته الإجمالية هتبقى كام؟",ask_product_price
+"لو هاخد كمية السعر بيقل؟",ask_product_price
+"How much is this?",ask_product_price
+"What's the price of this item?",ask_product_price
+"Can you tell me the cost?",ask_product_price
+"How much does this cost?",ask_product_price
+"I'd like to know the price, please.",ask_product_price
+"What is the price for one unit?",ask_product_price
+"What's the total cost?",ask_product_price
+"Could I get a price list?",ask_product_price
+"What's the price for the small pack?",ask_product_price
+"How much for a full case?",ask_product_price
+"What's the price per kilogram?",ask_product_price
+"Does the price include tax?",ask_product_price
+"What is the official price?",ask_product_price
+"Is this the final price?",ask_product_price
+"Is the price in USD?",ask_product_price
+"I'd like to inquire about the price.",ask_product_price
+"What's the price after the discount?",ask_product_price
+"If I buy in bulk, what would the price be?",ask_product_price
+"I just want to know its price.",ask_product_price
+"What is the product's price?",ask_product_price
+"How much per piece?",ask_product_price
+"What's the cost of this?",ask_product_price
+"What's the price for a dozen?",ask_product_price
+"Does this price include shipping?",ask_product_price
+"Can you tell me the product cost?",ask_product_price
+"What's the market price for this item?",ask_product_price
+"Is the price negotiable?",ask_product_price
+"What's the price on the website?",ask_product_price
+"What is the price of this item?",ask_product_price
+"Can you give me the price?",ask_product_price
+"I want to know how much it costs.",ask_product_price
+"Price for a single piece, please.",ask_product_price
+"What is the final price?",ask_product_price
+"Is the displayed price the retail price?",ask_product_price
+"How much does this product cost?",ask_product_price
+"I want a price list for similar products.",ask_product_price
+"How much will this set me back?",ask_product_price
+"Is there a special price for large quantities?",ask_product_price
+"What is the price after adding taxes?",ask_product_price
+"How much does this cost?",ask_product_price
+"I want to know the price before I decide.",ask_product_price
+"Does the price vary by color?",ask_product_price
+"What is the average price for this product?",ask_product_price
+"Is the price the same for new customers?",ask_product_price
+"Are there any additional fees on this price?",ask_product_price
+"I would like an official price quote.",ask_product_price
+"أستخدم المنتج ده إزاي؟",how_to_use_product
+"إيه أحسن طريقة للاستخدام؟",how_to_use_product
+"طريقة الاستعمال إيه؟",how_to_use_product
+"إزاي أستخدمه صح؟",how_to_use_product
+"ممكن تشرحلي طريقة استخدامه؟",how_to_use_product
+"هل فيه تعليمات معينة للاستخدام؟",how_to_use_product
+"الجرعة المفروض تكون قد إيه؟",how_to_use_product
+"أستخدمه كام مرة في اليوم؟",how_to_use_product
+"هل هو للاستخدام الخارجي فقط؟",how_to_use_product
+"دليل المستخدم لو سمحت.",how_to_use_product
+"هل لازم أرجّه قبل الاستعمال؟",how_to_use_product
+"إيه أفضل وقت لاستخدامه؟",how_to_use_product
+"هل بيستخدم على بشرة جافة ولا مبلولة؟",how_to_use_product
+"إيه التحذيرات اللي لازم أخد بالي منها؟",how_to_use_product
+"هل آمن للاستخدام أثناء الحمل؟",how_to_use_product
+"إزاي أركب الجهاز ده؟",how_to_use_product
+"الكمية المناسبة للاستخدام مرة واحدة قد إيه؟",how_to_use_product
+"هل ينفع أخلطه مع منتجات تانية؟",how_to_use_product
+"هل ليه أي آثار جانبية؟",how_to_use_product
+"ما هي موانع الاستعمال؟",how_to_use_product
+"هل يحتاج أي إعدادات قبل التشغيل؟",how_to_use_product
+"عايز فيديو شرح لطريقة الاستخدام.",how_to_use_product
+"كيفية الاستفادة القصوى من المنتج؟",how_to_use_product
+"هل يستخدم قبل الأكل ولا بعده؟",how_to_use_product
+"هل فيه خطوات لازم أتبعها بالترتيب؟",how_to_use_product
+"كيف يتم تفعيله؟",how_to_use_product
+"هل يحتاج إلى فترة راحة بين كل استخدام؟",how_to_use_product
+"ما هي الطريقة المثلى لتطبيقه؟",how_to_use_product
+"هل يمكن استخدامه على جميع أنواع الأسطح؟",how_to_use_product
+"أنا أول مرة أستخدم حاجة زي دي، أبدأ إزاي؟",how_to_use_product
+"هل هناك أي نصائح للاستخدام الفعال؟",how_to_use_product
+"هل يجب تخفيفه بالماء قبل الاستخدام؟",how_to_use_product
+"ما هي مدة الاستخدام الموصى بها في كل مرة؟",how_to_use_product
+"هل يحتاج لشحن قبل الاستخدام الأول؟",how_to_use_product
+"كيف يمكنني إيقاف تشغيله بأمان؟",how_to_use_product
+"هل هناك أخطاء شائعة يجب تجنبها عند الاستخدام؟",how_to_use_product
+"هل يجب ارتداء قفازات أثناء استخدامه؟",how_to_use_product
+"ما هي أفضل الظروف لاستخدامه؟",how_to_use_product
+"هل يمكنني استخدامه لأغراض أخرى غير المذكورة؟",how_to_use_product
+"كيف أعرف أنني أستخدمه بشكل صحيح؟",how_to_use_product
+"هل يمكن للأطفال استخدامه تحت إشراف؟",how_to_use_product
+"ما هي الاحتياطات الواجب اتخاذها؟",how_to_use_product
+"كم من الوقت يستغرق لرؤية النتائج؟",how_to_use_product
+"هل يمكن استخدامه مع الماء الساخن؟",how_to_use_product
+"ماذا أفعل إذا لامس العينين؟",how_to_use_product
+"هل يترك أي بقايا بعد الاستخدام؟",how_to_use_product
+"كيف يتم تنظيف الأداة بعد الاستخدام؟",how_to_use_product
+"هل يجب استشارة طبيب قبل استخدامه؟",how_to_use_product
+"ده بيشتغل إزاي؟",how_to_use_product
+"أستعمله إزاي؟",how_to_use_product
+"إيه طريقة تشغيله؟",how_to_use_product
+"بيستخدم إزاي ده؟",how_to_use_product
+"عايز أعرف طريقة الاستعمال.",how_to_use_product
+"هل ليه طريقة معينة؟",how_to_use_product
+"أحط منه قد إيه؟",how_to_use_product
+"أستعمله كل يوم عادي؟",how_to_use_product
+"أحطه على شعري وهو ناشف ولا مبلول؟",how_to_use_product
+"فيه أي تحذيرات؟",how_to_use_product
+"التركيب بتاعه سهل؟",how_to_use_product
+"إزاي أنضفه؟",how_to_use_product
+"هو آمن؟",how_to_use_product
+"المفروض أعمل إيه قبل ما أستخدمه؟",how_to_use_product
+"محتاج أي حاجة معاه عشان يشتغل؟",how_to_use_product
+"أشغله إزاي؟",how_to_use_product
+"إيه التعليمات بتاعته؟",how_to_use_product
+"ليه كتالوج؟",how_to_use_product
+"هل فيه فيديو بيشرح طريقة الاستخدام؟",how_to_use_product
+"فيه أي حاجة المفروض معرفهاش عنه؟",how_to_use_product
+"How do I use this product?",how_to_use_product
+"What's the best way to use this?",how_to_use_product
+"What are the usage instructions?",how_to_use_product
+"How can I use this correctly?",how_to_use_product
+"Can you explain how to use it?",how_to_use_product
+"Are there any specific instructions for use?",how_to_use_product
+"What's the recommended dosage?",how_to_use_product
+"How many times a day should I use it?",how_to_use_product
+"Is it for external use only?",how_to_use_product
+"User manual, please.",how_to_use_product
+"Should I shake it before use?",how_to_use_product
+"What's the best time to use it?",how_to_use_product
+"Should it be applied to dry or wet skin?",how_to_use_product
+"What warnings should I be aware of?",how_to_use_product
+"Is it safe to use during pregnancy?",how_to_use_product
+"How do I assemble this device?",how_to_use_product
+"What is the appropriate amount for a single use?",how_to_use_product
+"Can I mix it with other products?",how_to_use_product
+"Does it have any side effects?",how_to_use_product
+"What are the contraindications?",how_to_use_product
+"Does it require any setup before operation?",how_to_use_product
+"I need a video tutorial on how to use it.",how_to_use_product
+"How can I get the most out of this product?",how_to_use_product
+"Should it be used before or after meals?",how_to_use_product
+"Are there steps I need to follow in order?",how_to_use_product
+"How is it activated?",how_to_use_product
+"Does it need a rest period between uses?",how_to_use_product
+"What is the ideal application method?",how_to_use_product
+"Can it be used on all types of surfaces?",how_to_use_product
+"I'm a first-time user, how do I start?",how_to_use_product
+"Are there any tips for effective use?",how_to_use_product
+"Should it be diluted with water before use?",how_to_use_product
+"What is the recommended duration for each use?",how_to_use_product
+"Does it need to be charged before first use?",how_to_use_product
+"How can I turn it off safely?",how_to_use_product
+"Are there common mistakes to avoid when using it?",how_to_use_product
+"Should I wear gloves while using it?",how_to_use_product
+"What are the best conditions for its use?",how_to_use_product
+"Can I use it for purposes other than those listed?",how_to_use_product
+"How do I know if I'm using it correctly?",how_to_use_product
+"Can children use it under supervision?",how_to_use_product
+"What precautions should be taken?",how_to_use_product
+"How long does it take to see results?",how_to_use_product
+"Can it be used with hot water?",how_to_use_product
+"What should I do if it comes into contact with my eyes?",how_to_use_product
+"Does it leave any residue after use?",how_to_use_product
+"How should the tool be cleaned after use?",how_to_use_product
+"Should I consult a doctor before using it?",how_to_use_product
+"المنتج ده فيه كام سعر حراري؟",ask_nutrition_facts
+"ممكن أعرف القيمة الغذائية بتاعته؟",ask_nutrition_facts
+"هل هو مناسب للدايت؟",ask_nutrition_facts
+"فيه سكر كتير؟",ask_nutrition_facts
+"نسبة البروتين فيه قد إيه؟",ask_nutrition_facts
+"هل المنتج ده خالي من الجلوتين؟",ask_nutrition_facts
+"الدهون فيه عالية؟",ask_nutrition_facts
+"مناسب للكيتو دايت؟",ask_nutrition_facts
+"ممكن تفاصيل السعرات الحرارية؟",ask_nutrition_facts
+"هل فيه مواد حافظة؟",ask_nutrition_facts
+"ينفع لمرضى السكر؟",ask_nutrition_facts
+"نسبة الكربوهيدرات فيه كام؟",ask_nutrition_facts
+"الجبنة دي دسمها خفيف؟",ask_nutrition_facts
+"هل فيه دهون مشبعة؟",ask_nutrition_facts
+"القيمة الغذائية لكل ١٠٠ جرام لو سمحت.",ask_nutrition_facts
+"هل فيه أي مكونات ممكن تسبب حساسية؟",ask_nutrition_facts
+"هل المنتج نباتي (فيجان)؟",ask_nutrition_facts
+"هل فيه لاكتوز؟",ask_nutrition_facts
+"كمية الصوديوم فيه قد إيه؟",ask_nutrition_facts
+"هل هو عضوي (أورجانيك)؟",ask_nutrition_facts
+"نسبة الألياف فيه كام؟",ask_nutrition_facts
+"هل هو منخفض الصوديوم؟",ask_nutrition_facts
+"ما هي الفيتامينات والمعادن الموجودة فيه؟",ask_nutrition_facts
+"هل يحتوي على أي محليات صناعية؟",ask_nutrition_facts
+"مصدر البروتين فيه إيه؟",ask_nutrition_facts
+"هل هو منتج كامل الدسم؟",ask_nutrition_facts
+"هل هو مناسب للأطفال؟",ask_nutrition_facts
+"ممكن جدول الحقائق الغذائية؟",ask_nutrition_facts
+"هل هو معالج أم طبيعي؟",ask_nutrition_facts
+"هل هو خالي من الصويا؟",ask_nutrition_facts
+"كمية الكوليسترول فيه كام؟",ask_nutrition_facts
+"هل هو مصدر جيد للكالسيوم؟",ask_nutrition_facts
+"ما هي السعرات الحرارية من الدهون؟",ask_nutrition_facts
+"هل هو مناسب لمرضى الضغط؟",ask_nutrition_facts
+"هل يحتوي على زيوت مهدرجة؟",ask_nutrition_facts
+"هل هو مناسب للنباتيين (vegetarian)؟",ask_nutrition_facts
+"ما هو حجم الحصة الموصى به؟",ask_nutrition_facts
+"كم عدد الحصص في العبوة؟",ask_nutrition_facts
+"هل يحتوي على ألوان صناعية؟",ask_nutrition_facts
+"هل هو غير معدل وراثياً (GMO-free)؟",ask_nutrition_facts
+"هل هو مناسب للرياضيين؟",ask_nutrition_facts
+"كمية السكر المضاف كام؟",ask_nutrition_facts
+"هل يعتبر وجبة خفيفة صحية؟",ask_nutrition_facts
+"هل هو مناسب لنظام غذائي منخفض الكربوهيدرات؟",ask_nutrition_facts
+"ما هي نسبة الدهون غير المشبعة؟",ask_nutrition_facts
+"هل هو معتمد كمنتج حلال؟",ask_nutrition_facts
+"هل يحتوي على مكسرات؟",ask_nutrition_facts
+"ما هي قائمة المكونات المسببة للحساسية؟",ask_nutrition_facts
+"هل هو طعام كامل (whole food)؟",ask_nutrition_facts
+"فيه كام كالوري؟",ask_nutrition_facts
+"ده صحي ولا لأ؟",ask_nutrition_facts
+"ينفع للدايت ولا هيبوظه؟",ask_nutrition_facts
+"سكر كتير ولا قليل؟",ask_nutrition_facts
+"عايز أعرف معلوماته الغذائية.",ask_nutrition_facts
+"البروتين بتاعه كام؟",ask_nutrition_facts
+"فيه جلوتين؟",ask_nutrition_facts
+"دهونه قد إيه؟",ask_nutrition_facts
+"ممكن أعرف سعراته؟",ask_nutrition_facts
+"الكارب فيه عالي؟",ask_nutrition_facts
+"ينفع للكيتو؟",ask_nutrition_facts
+"فيه مواد صناعية؟",ask_nutrition_facts
+"مناسب لمرضى السكر؟",ask_nutrition_facts
+"هل هو دايت؟",ask_nutrition_facts
+"فيه صوديوم كتير؟",ask_nutrition_facts
+"ده يعتبر أكل صحي؟",ask_nutrition_facts
+"أورجانيك؟",ask_nutrition_facts
+"فيه حساسية من حاجة؟",ask_nutrition_facts
+"هو فيجان؟",ask_nutrition_facts
+"ممكن أشوف جدول القيمة الغذائية؟",ask_nutrition_facts
+"How many calories are in this product?",ask_nutrition_facts
+"Can you tell me its nutritional value?",ask_nutrition_facts
+"Is this suitable for a diet?",ask_nutrition_facts
+"Does it contain a lot of sugar?",ask_nutrition_facts
+"How much protein does it have?",ask_nutrition_facts
+"Is this product gluten-free?",ask_nutrition_facts
+"Is it high in fat?",ask_nutrition_facts
+"Is it suitable for a keto diet?",ask_nutrition_facts
+"Can I get the calorie details?",ask_nutrition_facts
+"Does it contain any preservatives?",ask_nutrition_facts
+"Is it suitable for diabetics?",ask_nutrition_facts
+"What's the carbohydrate content?",ask_nutrition_facts
+"Is this a low-fat cheese?",ask_nutrition_facts
+"Does it contain saturated fat?",ask_nutrition_facts
+"Nutritional value per 100g, please.",ask_nutrition_facts
+"Does it contain any ingredients that could cause allergies?",ask_nutrition_facts
+"Is this product vegan?",ask_nutrition_facts
+"Is it lactose-free?",ask_nutrition_facts
+"How much sodium does it contain?",ask_nutrition_facts
+"Is it organic?",ask_nutrition_facts
+"What's the fiber content?",ask_nutrition_facts
+"Is it low-sodium?",ask_nutrition_facts
+"What vitamins and minerals does it contain?",ask_nutrition_facts
+"Does it contain any artificial sweeteners?",ask_nutrition_facts
+"What is the source of its protein?",ask_nutrition_facts
+"Is this a full-fat product?",ask_nutrition_facts
+"Is it suitable for children?",ask_nutrition_facts
+"Can I see the nutrition facts table?",ask_nutrition_facts
+"Is it processed or natural?",ask_nutrition_facts
+"Is it soy-free?",ask_nutrition_facts
+"What's the cholesterol content?",ask_nutrition_facts
+"Is it a good source of calcium?",ask_nutrition_facts
+"What are the calories from fat?",ask_nutrition_facts
+"Is it suitable for people with high blood pressure?",ask_nutrition_facts
+"Does it contain hydrogenated oils?",ask_nutrition_facts
+"Is it suitable for vegetarians?",ask_nutrition_facts
+"What is the recommended serving size?",ask_nutrition_facts
+"How many servings per container?",ask_nutrition_facts
+"Does it contain artificial colors?",ask_nutrition_facts
+"Is it non-GMO?",ask_nutrition_facts
+"Is it suitable for athletes?",ask_nutrition_facts
+"How much added sugar does it have?",ask_nutrition_facts
+"Is this considered a healthy snack?",ask_nutrition_facts
+"Is it suitable for a low-carb diet?",ask_nutrition_facts
+"What's the unsaturated fat content?",ask_nutrition_facts
+"Is it certified as a halal product?",ask_nutrition_facts
+"Does it contain nuts?",ask_nutrition_facts
+"What is the list of allergenic ingredients?",ask_nutrition_facts
+"Is this a whole food?",ask_nutrition_facts
+"أحفظ المنتج ده إزاي؟",how_to_store_product
+"إيه أفضل طريقة لتخزينه؟",how_to_store_product
+"أحطه في التلاجة ولا بره؟",how_to_store_product
+"هل لازم أحفظه في مكان بارد وجاف؟",how_to_store_product
+"بعد ما أفتحه، أحفظه إزاي؟",how_to_store_product
+"هل يمكن تجميده؟",how_to_store_product
+"مدة صلاحيته بعد الفتح قد إيه؟",how_to_store_product
+"هل يتأثر بالضوء المباشر؟",how_to_store_product
+"إزاي أحافظ عليه طازج لأطول فترة؟",how_to_store_product
+"هل لازم يتلف في حاجة معينة؟",how_to_store_product
+"ما هي درجة الحرارة المثلى للتخزين؟",how_to_store_product
+"هل يمكن تخزينه في عبوته الأصلية؟",how_to_store_product
+"هل يحتاج إلى تهوية؟",how_to_store_product
+"ماذا أفعل إذا تغير لونه أو رائحته أثناء التخزين؟",how_to_store_product
+"هل يمكنني نقله إلى وعاء آخر؟",how_to_store_product
+"هل يتأثر بالرطوبة؟",how_to_store_product
+"كم من الوقت يمكن تخزينه قبل الفتح؟",how_to_store_product
+"هل يجب إبعاده عن مصادر الحرارة؟",how_to_store_product
+"كيفية تخزين البقايا؟",how_to_store_product
+"هل هناك أي نصائح لتمديد فترة صلاحيته؟",how_to_store_product
+"هل يتطلب تخزينًا خاصًا؟",how_to_store_product
+"كيف أحميه من الحشرات؟",how_to_store_product
+"هل يمكن تركه في درجة حرارة الغرفة؟",how_to_store_product
+"هل يجب وضعه في حاجة محكمة الغلق؟",how_to_store_product
+"ما هي أفضل ممارسات التخزين لهذا المنتج؟",how_to_store_product
+"هل يفسد إذا تركته خارج الثلاجة؟",how_to_store_product
+"كيفية تخزين الخضروات الورقية للحفاظ عليها؟",how_to_store_product
+"هل يمكن تخزين اللحوم المجمدة مرة أخرى بعد إذابتها؟",how_to_store_product
+"ما هي الطريقة الصحيحة لتخزين الخبز؟",how_to_store_product
+"هل يمكن تخزين الأدوية في الحمام؟",how_to_store_product
+"إزاي أحفظ الأعشاب الطازجة؟",how_to_store_product
+"هل يمكن تخزين البطاطس في الثلاجة؟",how_to_store_product
+"كيف أتجنب تكتل السكر أثناء التخزين؟",how_to_store_product
+"هل يجب غسل البيض قبل تخزينه؟",how_to_store_product
+"ما هي أفضل طريقة لتخزين القهوة؟",how_to_store_product
+"هل يمكن تخزين زيت الزيتون بالقرب من الموقد؟",how_to_store_product
+"كيف أحافظ على قرمشة البسكويت؟",how_to_store_product
+"هل يمكن تخزين العسل في الثلاجة؟",how_to_store_product
+"ما هي الطريقة المثلى لحفظ المكسرات؟",how_to_store_product
+"هل يجب حفظ الطماطم في الثلاجة؟",how_to_store_product
+"كيف يمكنني منع تكون الثلج على الأطعمة المجمدة؟",how_to_store_product
+"هل يمكن تخزين المعلبات المفتوحة في عبوتها؟",how_to_store_product
+"إزاي أخزن التوابل عشان متفقدش نكهتها؟",how_to_store_product
+"هل يجب حفظ الدقيق في وعاء محكم؟",how_to_store_product
+"كيف أحافظ على الأفوكادو من أن يسود؟",how_to_store_product
+"هل يمكن تخزين الشوكولاتة في الفريزر؟",how_to_store_product
+"ما هي أفضل طريقة لتخزين الحليب؟",how_to_store_product
+"كيف أحافظ على الفاكهة طازجة لفترة أطول؟",how_to_store_product
+"أشيله إزاي ده؟",how_to_store_product
+"ده بيتحط في التلاجة؟",how_to_store_product
+"يتساب بره عادي؟",how_to_store_product
+"لو فتحته، صلاحيته بتقعد قد إيه؟",how_to_store_product
+"ينفع أفرزنه؟",how_to_store_product
+"أحسن مكان أحطه فيه؟",how_to_store_product
+"هل بيبوظ من الشمس؟",how_to_store_product
+"عايز أحافظ عليه.",how_to_store_product
+"إزاي أخزنه صح؟",how_to_store_product
+"هل لازم علبة مقفولة؟",how_to_store_product
+"درجة الحرارة المناسبة ليه كام؟",how_to_store_product
+"لو حطيته في الفريزر هيجراله حاجة؟",how_to_store_product
+"هل لازم يتغسل قبل ما أشيله؟",how_to_store_product
+"إزاي أمنع العفن؟",how_to_store_product
+"تخزينه صعب؟",how_to_store_product
+"إيه تعليمات الحفظ؟",how_to_store_product
+"هل بيحتاج مكان ضلمة؟",how_to_store_product
+"أشيله في الكيس بتاعه؟",how_to_store_product
+"ممكن يقعد بره التلاجة كام يوم؟",how_to_store_product
+"هل بيجذب نمل؟",how_to_store_product
+"How should I store this product?",how_to_store_product
+"What's the best way to store this?",how_to_store_product
+"Should I keep it in the fridge or outside?",how_to_store_product
+"Does it need to be stored in a cool, dry place?",how_to_store_product
+"After opening it, how should I store it?",how_to_store_product
+"Can it be frozen?",how_to_store_product
+"What's its shelf life after opening?",how_to_store_product
+"Is it affected by direct light?",how_to_store_product
+"How can I keep it fresh for the longest time?",how_to_store_product
+"Does it need to be wrapped in something specific?",how_to_store_product
+"What is the optimal storage temperature?",how_to_store_product
+"Can it be stored in its original packaging?",how_to_store_product
+"Does it need ventilation?",how_to_store_product
+"What should I do if its color or smell changes during storage?",how_to_store_product
+"Can I transfer it to another container?",how_to_store_product
+"Is it affected by humidity?",how_to_store_product
+"How long can it be stored before opening?",how_to_store_product
+"Should it be kept away from heat sources?",how_to_store_product
+"How to store leftovers?",how_to_store_product
+"Are there any tips to extend its shelf life?",how_to_store_product
+"Does it require special storage?",how_to_store_product
+"How can I protect it from insects?",how_to_store_product
+"Can it be left at room temperature?",how_to_store_product
+"Should it be placed in an airtight container?",how_to_store_product
+"What are the best storage practices for this product?",how_to_store_product
+"Will it spoil if left out of the fridge?",how_to_store_product
+"How to store leafy greens to keep them fresh?",how_to_store_product
+"Can frozen meat be refrozen after thawing?",how_to_store_product
+"What is the correct way to store bread?",how_to_store_product
+"Can medicines be stored in the bathroom?",how_to_store_product
+"How do I preserve fresh herbs?",how_to_store_product
+"Can potatoes be stored in the refrigerator?",how_to_store_product
+"How can I prevent sugar from clumping during storage?",how_to_store_product
+"Should eggs be washed before storing them?",how_to_store_product
+"What is the best way to store coffee?",how_to_store_product
+"Can olive oil be stored near the stove?",how_to_store_product
+"How do I keep biscuits crispy?",how_to_store_product
+"Can honey be stored in the refrigerator?",how_to_store_product
+"What is the best way to store nuts?",how_to_store_product
+"Should tomatoes be kept in the fridge?",how_to_store_product
+"How can I prevent frost from forming on frozen foods?",how_to_store_product
+"Can opened canned goods be stored in their can?",how_to_store_product
+"How do I store spices so they don't lose their flavor?",how_to_store_product
+"Should flour be kept in an airtight container?",how_to_store_product
+"How do I keep an avocado from browning?",how_to_store_product
+"Can chocolate be stored in the freezer?",how_to_store_product
+"What is the best way to store milk?",how_to_store_product
+"How do I keep fruit fresh for longer?",how_to_store_product
+"وريني منتجات تانية شبه ده.",find_similar_products
+"إيه تاني زي المنتج ده؟",find_similar_products
+"عايز أشوف حاجات على نفس الستايل.",find_similar_products
+"هل فيه منتجات تانية بنفس المواصفات؟",find_similar_products
+"اعرضلي كل المنتجات اللي في نفس الفئة.",find_similar_products
+"إيه الخيارات المشابهة؟",find_similar_products
+"عايز حاجة ليها نفس الاستخدام.",find_similar_products
+"ممكن أشوف منتجات من ماركات تانية؟",find_similar_products
+"بدور على حاجة ليها نفس التأثير.",find_similar_products
+"هل فيه موديلات تانية من نفس المنتج؟",find_similar_products
+"عايز أستكشف منتجات قريبة.",find_similar_products
+"وريني باقي تشكيلة الشاي.",find_similar_products
+"هل فيه حاجة بنفس الحجم؟",find_similar_products
+"عايز أشوف كل أنواع الجبن اللي عندكم.",find_similar_products
+"إيه المنتجات المنافسة لده؟",find_similar_products
+"هل فيه حاجة بنفس المادة الفعالة؟",find_similar_products
+"إيه اللي ممكن يمشي مكان ده؟",find_similar_products
+"هل فيه منتج تاني بيعمل نفس الوظيفة؟",find_similar_products
+"ما هي المنتجات الأخرى في هذه الفئة؟",find_similar_products
+"هل هناك شيء آخر بنفس الجودة؟",find_similar_products
+"أريد أن أرى كل ما لديكم من هذا النوع.",find_similar_products
+"هل هناك بدائل لهذا؟",find_similar_products
+"ماذا تقترح أيضًا؟",find_similar_products
+"أريد المزيد من الخيارات مثل هذا.",find_similar_products
+"هل تبيعون أي شيء آخر مشابه؟",find_similar_products
+"أرني المنتجات من نفس العلامة التجارية.",find_similar_products
+"هل هناك أي منتجات ذات صلة يجب أن أعرف عنها؟",find_similar_products
+"أريد أن أرى المجموعة الكاملة.",find_similar_products
+"هل لديكم هذا بتصميم مختلف؟",find_similar_products
+"ابحث عن شيء من نفس النمط.",find_similar_products
+"ما هي العناصر الشائعة الأخرى في هذه الفئة؟",find_similar_products
+"هل يمكنك أن تريني منتجات مماثلة؟",find_similar_products
+"أنا أبحث عن شيء له وظيفة مماثلة.",find_similar_products
+"هل لديكم منتجات من هذا النوع ولكن بسعر مختلف؟",find_similar_products
+"أريد أن أرى جميع أنواع الزيوت.",find_similar_products
+"هل هناك أي منتجات تكميلية لهذا؟",find_similar_products
+"ما هي أفضل المنتجات مبيعًا في هذه الفئة؟",find_similar_products
+"هل لديكم هذا المنتج في عبوة مختلفة؟",find_similar_products
+"أريد أن أرى المنتجات التي غالبًا ما يتم شراؤها مع هذا.",find_similar_products
+"ما هي الخيارات الأخرى المتاحة؟",find_similar_products
+"هل هناك أي منتجات أخرى من هذه الشركة المصنعة؟",find_similar_products
+"أريد أن أرى منتجات ذات ميزات مماثلة.",find_similar_products
+"هل هناك أي شيء أحدث في هذا الخط؟",find_similar_products
+"أرني منتجات مماثلة ولكنها عضوية.",find_similar_products
+"هل هناك خيارات أخرى في هذا النطاق السعري؟",find_similar_products
+"أريد أن أرى جميع المنتجات التي تحتوي على هذا المكون.",find_similar_products
+"هل هناك إصدار احترافي من هذا؟",find_similar_products
+"أريد أن أرى جميع العناصر في مجموعة الهدايا هذه.",find_similar_products
+"ما هي العناصر الأخرى التي يشتريها العملاء الذين اشتروا هذا؟",find_similar_products
+"عايز حاجة زيه.",find_similar_products
+"إيه اللي شبهه؟",find_similar_products
+"وريني حاجات في نفس السكة.",find_similar_products
+"عندكم حاجة تانية تعمل نفس الشغلانة؟",find_similar_products
+"ممكن أشوف حاجات من نفس الكاتيجوري؟",find_similar_products
+"إيه البدايل؟",find_similar_products
+"عايز حاجة في نفس الرينج.",find_similar_products
+"مفيش أنواع تانية؟",find_similar_products
+"عايز أشوف كل الأنواع.",find_similar_products
+"هل فيه منه أشكال تانية؟",find_similar_products
+"إيه اللي ممكن أجيبه بداله؟",find_similar_products
+"وريني كل المشروم اللي عندكم.",find_similar_products
+"إيه المتاح من نفس النوع؟",find_similar_products
+"هل فيه نفس الحاجة بس شكل تاني؟",find_similar_products
+"عايز كل ما يخص المنظفات.",find_similar_products
+"ممكن أشوف كل منتجات البراند ده؟",find_similar_products
+"هل فيه منه أحجام مختلفة؟",find_similar_products
+"إيه الخيارات التانية غير ده؟",find_similar_products
+"عايز حاجة قريبة من ده.",find_similar_products
+"وريني كل اللي عندكم من ده.",find_similar_products
+"Show me other products like this one.",find_similar_products
+"What else is similar to this?",find_similar_products
+"I want to see things in the same style.",find_similar_products
+"Are there other products with the same specifications?",find_similar_products
+"Display all products in the same category.",find_similar_products
+"What are the similar options?",find_similar_products
+"I need something with the same use.",find_similar_products
+"Can I see products from other brands?",find_similar_products
+"I'm looking for something with a similar effect.",find_similar_products
+"Are there other models of the same product?",find_similar_products
+"I want to explore related products.",find_similar_products
+"Show me the rest of the tea collection.",find_similar_products
+"Is there something in the same size?",find_similar_products
+"I want to see all types of cheese you have.",find_similar_products
+"What are the competing products for this?",find_similar_products
+"Is there something with the same active ingredient?",find_similar_products
+"What could be a substitute for this?",find_similar_products
+"Is there another product that performs the same function?",find_similar_products
+"What other products are in this category?",find_similar_products
+"Is there anything else of the same quality?",find_similar_products
+"I want to see everything you have of this type.",find_similar_products
+"Are there alternatives to this?",find_similar_products
+"What else would you suggest?",find_similar_products
+"I want more options like this.",find_similar_products
+"Do you sell anything else that is similar?",find_similar_products
+"Show me products from the same brand.",find_similar_products
+"Are there any related products I should know about?",find_similar_products
+"I want to see the full collection.",find_similar_products
+"Do you have this in a different design?",find_similar_products
+"Looking for something in the same style.",find_similar_products
+"What are other popular items in this category?",find_similar_products
+"Can you show me comparable products?",find_similar_products
+"I'm looking for something with a similar function.",find_similar_products
+"Do you have products of this type but at a different price point?",find_similar_products
+"I want to see all types of oils.",find_similar_products
+"Are there any complementary products to this?",find_similar_products
+"What are the best-sellers in this category?",find_similar_products
+"Do you have this product in different packaging?",find_similar_products
+"I want to see products that are often bought with this.",find_similar_products
+"What other options are available?",find_similar_products
+"Are there any other products from this manufacturer?",find_similar_products
+"I want to see products with similar features.",find_similar_products
+"Is there anything newer in this line?",find_similar_products
+"Show me similar products that are organic.",find_similar_products
+"Are there other options in this price range?",find_similar_products
+"I want to see all products containing this ingredient.",find_similar_products
+"Is there a professional version of this?",find_similar_products
+"I want to see all items in this gift set.",find_similar_products
+"What other items do customers who bought this also buy?",find_similar_products
+"إيه الفرق بين المنتج ده والتاني؟",compare_products
+"أنا محتار بين دول، ممكن مقارنة؟",compare_products
+"أنهي فيهم أحسن؟",compare_products
+"قارنلي بين الماركتين دول.",compare_products
+"إيه مميزات وعيوب كل واحد؟",compare_products
+"هل فرق السعر يستاهل؟",compare_products
+"من ناحية الجودة، أنهي يكسب؟",compare_products
+"لو مكانك تختار أنهي؟",compare_products
+"عايز مقارنة موضوعية بينهم.",compare_products
+"هل فيه فرق كبير في الطعم",compare_products
+"أنهي فيهم يستحمل الحرارة؟",compare_products
+"قارنلي بين النسخة الجديدة والقديمة.",compare_products
+"من ناحية المكونات، إيه الفرق؟",compare_products
+"أنهي فيهم عمره الافتراضي أطول؟",compare_products
+"هل ده يعتبر ترقية عن المنتج التاني؟",compare_products
+"من ناحية الطعم، أنهي أحلى؟",compare_products
+"أيهما أفضل من حيث القيمة مقابل السعر؟",compare_products
+"أريد مقارنة بين هذا المنتج ومنتج آخر.",compare_products
+"ما هي الفروق الرئيسية بين هذين الخيارين؟",compare_products
+"هل يمكنك مساعدتي في الاختيار بينهما؟",compare_products
+"أيهما أكثر متانة؟",compare_products
+"ما هي الاختلافات في الميزات؟",compare_products
+"أيهما أسهل في الصيانة؟",compare_products
+"إذا كانت الميزانية ليست مشكلة، أيهما توصي به؟",compare_products
+"أيهما حصل على تقييمات أفضل من العملاء؟",compare_products
+"ما هي المقارنة جنبًا إلى جنب؟",compare_products
+"أيهما أكثر كفاءة في استهلاك الطاقة؟",compare_products
+"هل يمكنك مقارنة مواصفاتهما الفنية؟",compare_products
+"أيهما أفضل للمبتدئين؟",compare_products
+"ما هي إيجابيات وسلبيات كل منهما؟",compare_products
+"أيهما أكثر شعبية؟",compare_products
+"هل يمكنك مقارنة الضمان المقدم لكل منهما؟",compare_products
+"أيهما أخف وزنًا؟",compare_products
+"ما هي الاختلافات في التصميم؟",compare_products
+"أيهما أفضل للاستخدام المكثف؟",compare_products
+"أريد أن أعرف كيف يتفوق أحدهما على الآخر.",compare_products
+"هل هناك أي اختلافات ملحوظة في الأداء؟",compare_products
+"أيهما أكثر تنوعًا في الاستخدام؟",compare_products
+"هل يمكنك مقارنة بصمتهما البيئية؟",compare_products
+"أيهما يوفر تجربة مستخدم أفضل؟",compare_products
+"أيهما أحدث طراز؟",compare_products
+"هل يمكنك تسليط الضوء على الاختلافات الرئيسية؟",compare_products
+"أيهما يتطلب استثمارًا أوليًا أكبر؟",compare_products
+"ما هي تكاليف التشغيل طويلة الأجل لكل منهما؟",compare_products
+"أيهما أفضل لظروف معينة؟",compare_products
+"أريد مقارنة مفصلة.",compare_products
+"أيهما الخيار الأكثر أمانًا؟",compare_products
+"هل يمكنك مقارنة سمعة العلامتين التجاريتين؟",compare_products
+"أيهما أكثر إحكاما؟",compare_products
+"أيهما يقدم دعم عملاء أفضل؟",compare_products
+"ده ولا ده؟",compare_products
+"أنهي فيهم أحسن؟",compare_products
+"محتار بين الاتنين دول.",compare_products
+"قارنلي بين ده وده.",compare_products
+"إيه الفرق؟",compare_products
+"هل ده أحسن من ده؟",compare_products
+"الجودة هنا زي هنا؟",compare_products
+"تنصحني بأنهي واحد؟",compare_products
+"هل فيه فرق جامد بينهم؟",compare_products
+"أجيب ده ولا التاني؟",compare_products
+"إيه مزايا ده عن ده؟",compare_products
+"من ناحية السعر، أنهي أوفر؟",compare_products
+"هل يستاهل أدفع الزيادة في ده؟",compare_products
+"ممكن تقولي الفروق بسرعة؟",compare_products
+"أنا مش عارف أختار.",compare_products
+"من حيث الاستخدام، أنهي أسهل؟",compare_products
+"ده الأصلي وده التقليد؟",compare_products
+"هل المكونات مختلفة؟",compare_products
+"أنهي فيهم يعيش أكتر؟",compare_products
+"أنا عايز مقارنة.",compare_products
+"What's the difference between this product and the other one?",compare_products
+"I'm torn between these two, can you compare them?",compare_products
+"Which one is better?",compare_products
+"Compare these two brands for me.",compare_products
+"What are the pros and cons of each?",compare_products
+"Is the price difference worth it?",compare_products
+"In terms of quality, which one wins?",compare_products
+"If you were in my place, which one would you choose?",compare_products
+"I need an objective comparison between them.",compare_products
+"Is there a big difference in performance?",compare_products
+"Which one is more practical?",compare_products
+"Compare the new version with the old one.",compare_products
+"In terms of ingredients, what's the difference?",compare_products
+"Which one has a longer lifespan?",compare_products
+"Is this considered an upgrade from the other product?",compare_products
+"In terms of taste, which one is better?",compare_products
+"Which is better value for money?",compare_products
+"I want a comparison between this product and another one.",compare_products
+"What are the main differences between these two options?",compare_products
+"Can you help me choose between them?",compare_products
+"Which one is more durable?",compare_products
+"What are the differences in features?",compare_products
+"Which one is easier to maintain?",compare_products
+"If budget is not an issue, which one do you recommend?",compare_products
+"Which one has better customer reviews?",compare_products
+"What's the side-by-side comparison?",compare_products
+"Which one is more energy-efficient?",compare_products
+"Can you compare their technical specifications?",compare_products
+"Which one is better for a beginner?",compare_products
+"What are the pros and cons of each?",compare_products
+"Which one is more popular?",compare_products
+"Can you compare the warranty offered for each?",compare_products
+"Which one is lighter?",compare_products
+"What are the design differences?",compare_products
+"Which one is better for heavy-duty use?",compare_products
+"I want to know how one stacks up against the other.",compare_products
+"Are there any noticeable performance differences?",compare_products
+"Which one is more versatile?",compare_products
+"Can you compare their environmental footprint?",compare_products
+"Which one offers a better user experience?",compare_products
+"Which one is the newer model?",compare_products
+"Can you highlight the key differences?",compare_products
+"Which one requires a larger initial investment?",compare_products
+"What are the long-term running costs for each?",compare_products
+"Which is better for specific conditions?",compare_products
+"I want a detailed comparison.",compare_products
+"Which is the safer option?",compare_products
+"Can you compare the reputation of the two brands?",compare_products
+"Which one is more compact?",compare_products
+"Which one offers better customer support?",compare_products
+"سعركم إيه بالنسبة للسوق؟",compare_prices
+"لقيت نفس المنتج على موقع تاني أرخص.",compare_prices
+"هل بتقدموا خدمة مطابقة الأسعار؟",compare_prices
+"ليه سعركم أغلى من المنافسين؟",compare_prices
+"هل سعركم ده يعتبر منافس؟",compare_prices
+"إزاي أسعاركم مقارنة بباقي المواقع؟",compare_prices
+"هل ممكن ألاقي سعر أفضل في مكان تاني؟",compare_prices
+"هل تضمنوا أفضل سعر؟",compare_prices
+"ليه السعر عندكم مختلف عن الفرع؟",compare_prices
+"أسعاركم زي أسعار الجملة ولا أغلى؟",compare_prices
+"مقارنة بالمنافسين، وضعكم إيه؟",compare_prices
+"هل سعركم عادل بالنسبة للجودة؟",compare_prices
+"لماذا يوجد فرق في السعر بينكم وبين المتاجر الأخرى؟",compare_prices
+"هل يمكنني الحصول على صفقة أفضل في مكان آخر؟",compare_prices
+"كيف يتناسب سعركم مع المنافسة؟",compare_prices
+"لقد وجدته بسعر أقل في مكان آخر، هل يمكنك مطابقة ذلك؟",compare_prices
+"هل أسعاركم ثابتة أم أنها تتغير؟",compare_prices
+"هل يمكنكم تبرير هذا السعر؟",compare_prices
+"هل هذا هو أفضل سعر يمكنني الحصول عليه؟",compare_prices
+"هل هناك أي متاجر تبيعه بسعر أرخص؟",compare_prices
+"أنا أقوم ببعض التسوق المقارن.",compare_prices
+"هل أسعاركم قابلة للتفاوض؟",compare_prices
+"هل تقدمون أي نوع من ضمان السعر؟",compare_prices
+"هل هناك سبب لكونكم أكثر تكلفة؟",compare_prices
+"أريد أن أتأكد من أنني أحصل على أفضل صفقة.",compare_prices
+"هل يمكنكم إخباري كيف يتم تحديد أسعاركم؟",compare_prices
+"ما مدى تنافسية أسعاركم؟",compare_prices
+"هل تهدفون إلى أن تكونوا الخيار الأقل تكلفة؟",compare_prices
+"هل يمكنني أن أجد هذا بسعر أفضل خلال فترة التخفيضات؟",compare_prices
+"هل هناك أي رسوم خفية؟",compare_prices
+"كيف يمكنني التأكد من أن سعركم عادل؟",compare_prices
+"لقد رأيت أسعارًا مختلفة لهذا المنتج عبر الإنترنت.",compare_prices
+"هل سعركم يشمل الضرائب والشحن؟",compare_prices
+"هل تقدمون خصومات للكميات الكبيرة للتنافس على السعر؟",compare_prices
+"هل يمكنكم مطابقة سعر منافس عبر الإنترنت؟",compare_prices
+"أنا أبحث عن أفضل قيمة، وليس بالضرورة أرخص سعر.",compare_prices
+"لماذا يتقلب سعر هذا المنتج كثيرًا؟",compare_prices
+"هل لديكم سياسة أفضل سعر مضمون؟",compare_prices
+"هل سعركم ثابت في جميع مواقعكم؟",compare_prices
+"هل من المرجح أن ينخفض ​​السعر قريبًا؟",compare_prices
+"هل يمكنكم شرح هيكل التسعير الخاص بكم؟",compare_prices
+"هل هذا سعر ترويجي أم السعر العادي؟",compare_prices
+"أنا أتحقق من الأسعار في عدة أماكن.",compare_prices
+"هل سعركم يعكس جودة أعلى؟",compare_prices
+"هل يمكنكم أن تعرضوا عليّ مقارنة بالأسعار؟",compare_prices
+"هل هناك مجال للمناورة على السعر؟",compare_prices
+"هل أنتم على استعداد للتنافس على السعر؟",compare_prices
+"لقد تلقيت عرض أسعار أفضل من مكان آخر.",compare_prices
+"هل يمكنكم القيام بعمل أفضل على السعر؟",compare_prices
+"لماذا هو أرخص بكثير في مكان آخر؟",compare_prices
+"هل يمكنكم مطابقة سعر [اسم المنافس]؟",compare_prices
+"بره أرخص، إيه الحكاية؟",compare_prices
+"ليه عندكم أغلى من المحلات؟",compare_prices
+"هل سعركم زي باقي الناس؟",compare_prices
+"أنا لاقيته في حتة تانية بسعر أقل.",compare_prices
+"لو لقيته أرخص بره، بتعملوا حاجة؟",compare_prices
+"إيه اللي يخلي سعركم كده؟",compare_prices
+"هل ده أحسن سعر في السوق؟",compare_prices
+"ممكن ألاقي أرخص من كده؟",compare_prices
+"سعركم منافس؟",compare_prices
+"ليه فيه فرق في السعر بينكم وبين [اسم منافس]؟",compare_prices
+"هل السعر عندكم عادل؟",compare_prices
+"أنا بقارن الأسعار حاليا.",compare_prices
+"السعر ده كويس ولا مبالغ فيه؟",compare_prices
+"هو ليه غالي عندكم؟",compare_prices
+"هل فيه مكان بيبيعه أرخص؟",compare_prices
+"سعركم يعتبر إيه جنب المنافسة؟",compare_prices
+"هل السعر ده ثابت في كل حتة؟",compare_prices
+"إشمعنى عندكم بالسعر ده؟",compare_prices
+"ممكن تفاوض في السعر؟",compare_prices
+"هل بتعملوا price match؟",compare_prices
+"How do your prices compare to the market?",compare_prices
+"I found the same product cheaper on another site.",compare_prices
+"Do you offer a price match service?",compare_prices
+"Why is your price higher than competitors?",compare_prices
+"Is your price considered competitive?",compare_prices
+"How do your prices compare to other websites?",compare_prices
+"Can I find a better price elsewhere?",compare_prices
+"Do you guarantee the best price?",compare_prices
+"Why is your price different from the one in the physical store?",compare_prices
+"Are your prices like wholesale or more expensive?",compare_prices
+"Compared to competitors, where do you stand?",compare_prices
+"Is your price fair for the quality?",compare_prices
+"Why is there a price difference between you and other stores?",compare_prices
+"Can I get a better deal elsewhere?",compare_prices
+"How does your price stack up against the competition?",compare_prices
+"I found it cheaper elsewhere, can you match it?",compare_prices
+"Are your prices fixed or do they change?",compare_prices
+"Can you justify this price?",compare_prices
+"Is this the best price I can get?",compare_prices
+"Are there any stores that sell it for less?",compare_prices
+"I'm doing some comparison shopping.",compare_prices
+"Are your prices negotiable?",compare_prices
+"Do you offer any kind of price guarantee?",compare_prices
+"Is there a reason you are more expensive?",compare_prices
+"I want to make sure I'm getting the best deal.",compare_prices
+"Can you tell me how your prices are determined?",compare_prices
+"How competitive are your prices?",compare_prices
+"Do you aim to be the lowest-cost option?",compare_prices
+"Am I likely to find this for a better price during a sale?",compare_prices
+"Are there any hidden fees?",compare_prices
+"How can I be sure your price is fair?",compare_prices
+"I've seen different prices for this product online.",compare_prices
+"Does your price include taxes and shipping?",compare_prices
+"Do you offer bulk discounts to compete on price?",compare_prices
+"Can you match the price of an online competitor?",compare_prices
+"I'm looking for the best value, not necessarily the cheapest price.",compare_prices
+"Why does the price of this product fluctuate so much?",compare_prices
+"Do you have a best price guarantee policy?",compare_prices
+"Is your price consistent across all your locations?",compare_prices
+"Is the price likely to drop soon?",compare_prices
+"Can you explain your pricing structure?",compare_prices
+"Is this a promotional price or the regular price?",compare_prices
+"I'm checking prices at several places.",compare_prices
+"Does your price reflect a higher quality?",compare_prices
+"Can you offer me a price comparison?",compare_prices
+"Is there any wiggle room on the price?",compare_prices
+"Are you willing to compete on price?",compare_prices
+"I've received a better quote from somewhere else.",compare_prices
+"Can you do better on the price?",compare_prices
+"Why is it so much cheaper elsewhere?",compare_prices
+"Can you match [Competitor's Name]'s price?",compare_prices
+"مفيش حاجة أرخص من كده؟",suggest_cheaper_alternative
+"عايز حاجة على قد الإيد.",suggest_cheaper_alternative
+"إيه البديل الاقتصادي للمنتج ده؟",suggest_cheaper_alternative
+"ممكن ترشحلي حاجة سعرها حنين؟",suggest_cheaper_alternative
+"أنا بدور على أرخص سعر.",suggest_cheaper_alternative
+"عايز نفس الجودة بس بسعر أقل.",suggest_cheaper_alternative
+"لو ميزانيتي محدودة، أجيب إيه؟",suggest_cheaper_alternative
+"إيه أرخص نوع كويس؟",suggest_cheaper_alternative
+"مفيش بديل محلي يكون أرخص؟",suggest_cheaper_alternative
+"عايز أوفر، فيه منتجات توفير؟",suggest_cheaper_alternative
+"هل فيه حاجة أرخص بنفس الطعم؟",suggest_cheaper_alternative
+"السعر ده غالي، فيه حاجة تانية؟",suggest_cheaper_alternative
+"إيه الخيار الأرخص؟",suggest_cheaper_alternative
+"عايز حاجة سعرها على قد الميزانية.",suggest_cheaper_alternative
+"هل فيه منتج مشابه بسعر أقل؟",suggest_cheaper_alternative
+"دلني على حاجة رخيصة وكويسة.",suggest_cheaper_alternative
+"فيه حاجة في المتناول؟",suggest_cheaper_alternative
+"أرخص بديل إيه؟",suggest_cheaper_alternative
+"السعر ده فوق ميزانيتي، فيه حاجة أرخص؟",suggest_cheaper_alternative
+"عايز حاجة سعرها معقول.",suggest_cheaper_alternative
+"إيه الخيار الاقتصادي اللي عندكم؟",suggest_cheaper_alternative
+"مفيش حاجة في فئة سعرية أقل؟",suggest_cheaper_alternative
+"وريني أرخص حاجة في الكاتيجوري ده.",suggest_cheaper_alternative
+"بدور على حل موفر.",suggest_cheaper_alternative
+"عايز حاجة بنفس المواصفات بس سعرها أهدى.",suggest_cheaper_alternative
+"إيه أرخص حاجة ممكن تفي بالغرض؟",suggest_cheaper_alternative
+"ميزانيتي [مبلغ]، إيه المتاح؟",suggest_cheaper_alternative
+"هل فيه عبوات توفير؟",suggest_cheaper_alternative
+"أنا بدور على قيمة مقابل سعر.",suggest_cheaper_alternative
+"هل هناك خيار أقل تكلفة؟",suggest_cheaper_alternative
+"أريد شيئًا أرخص.",suggest_cheaper_alternative
+"ما هو المنتج الأقل سعرًا في هذه الفئة؟",suggest_cheaper_alternative
+"هل يمكنك أن توصي ببديل صديق للميزانية؟",suggest_cheaper_alternative
+"أنا أبحث عن صفقة.",suggest_cheaper_alternative
+"هل هناك أي شيء في نطاق سعري أقل؟",suggest_cheaper_alternative
+"ما هو الخيار الأكثر اقتصادا؟",suggest_cheaper_alternative
+"أريد أن أنفق أقل.",suggest_cheaper_alternative
+"هل هناك نسخة أساسية أرخص؟",suggest_cheaper_alternative
+"أرني أرخص الخيارات.",suggest_cheaper_alternative
+"أحتاج إلى خيار فعال من حيث التكلفة.",suggest_cheaper_alternative
+"هل هناك أي علامات تجارية عامة متاحة؟",suggest_cheaper_alternative
+"هل يمكنك مساعدتي في العثور على شيء في حدود ميزانيتي؟",suggest_cheaper_alternative
+"أنا أبحث عن أرخص سعر ممكن.",suggest_cheaper_alternative
+"هل هناك نموذج أقدم أرخص؟",suggest_cheaper_alternative
+"هل هناك أي شيء معروض للبيع يمكن أن يكون بديلاً؟",suggest_cheaper_alternative
+"أنا أبحث عن الخيار الأكثر توفيرا.",suggest_cheaper_alternative
+"هل هناك أي بدائل منخفضة التكلفة؟",suggest_cheaper_alternative
+"ما هو أرخص منتج لديكم يؤدي نفس الوظيفة؟",suggest_cheaper_alternative
+"أريد أن أرى المنتجات التي تقل عن [مبلغ].",suggest_cheaper_alternative
+"عايز حاجة رخيصة.",suggest_cheaper_alternative
+"إيه أرخص حاجة عندكم؟",suggest_cheaper_alternative
+"مفيش حاجة سعرها أهدى؟",suggest_cheaper_alternative
+"عايز بديل بسعر كويس.",suggest_cheaper_alternative
+"ده غالي عليا، فيه حاجة تانية؟",suggest_cheaper_alternative
+"ممكن حاجة اقتصادية؟",suggest_cheaper_alternative
+"ميزانيتي على القد.",suggest_cheaper_alternative
+"عايز حاجة تمشي الحال ورخيصة.",suggest_cheaper_alternative
+"أنا عايز أوفر.",suggest_cheaper_alternative
+"هل فيه حاجة سعرها في الحنين؟",suggest_cheaper_alternative
+"أرخص حاجة تعمل نفس الشغلانة إيه؟",suggest_cheaper_alternative
+"عايز حاجة سعرها ما يعديش [مبلغ].",suggest_cheaper_alternative
+"ممكن ترشيح لأرخص حاجة؟",suggest_cheaper_alternative
+"هل فيه ماركة شعبية؟",suggest_cheaper_alternative
+"عايز حاجة رخيصة وخلاص.",suggest_cheaper_alternative
+"إيه الخيارات اللي في المتناول؟",suggest_cheaper_alternative
+"السعر ده مش مناسبني، فيه حاجة تانية؟",suggest_cheaper_alternative
+"عايز حاجة على قد فلوسي.",suggest_cheaper_alternative
+"وريني أرخص منتج.",suggest_cheaper_alternative
+"أنا عايز أرخص حاجة.",suggest_cheaper_alternative
+"Is there anything cheaper than this?",suggest_cheaper_alternative
+"I need something more affordable.",suggest_cheaper_alternative
+"What's the budget-friendly alternative to this?",suggest_cheaper_alternative
+"Can you recommend something with a lower price?",suggest_cheaper_alternative
+"I'm looking for the lowest price.",suggest_cheaper_alternative
+"I want the same quality but for a lower price.",suggest_cheaper_alternative
+"If my budget is limited, what should I get?",suggest_cheaper_alternative
+"What's the cheapest good option?",suggest_cheaper_alternative
+"Is there a cheaper local alternative?",suggest_cheaper_alternative
+"I want to save money, are there any value products?",suggest_cheaper_alternative
+"Is there something cheaper with the same taste?",suggest_cheaper_alternative
+"This price is too high, is there something else?",suggest_cheaper_alternative
+"What's the cheapest option?",suggest_cheaper_alternative
+"I need something that fits my budget.",suggest_cheaper_alternative
+"Is there a similar product for a lower price?",suggest_cheaper_alternative
+"Show me something cheap and good.",suggest_cheaper_alternative
+"Is there anything within my reach?",suggest_cheaper_alternative
+"What's the cheapest alternative?",suggest_cheaper_alternative
+"This price is over my budget, is there anything cheaper?",suggest_cheaper_alternative
+"I want something reasonably priced.",suggest_cheaper_alternative
+"What's the most economical option you have?",suggest_cheaper_alternative
+"Is there anything in a lower price category?",suggest_cheaper_alternative
+"Show me the cheapest item in this category.",suggest_cheaper_alternative
+"I'm looking for a cost-effective solution.",suggest_cheaper_alternative
+"I want something with the same specs but a lower price.",suggest_cheaper_alternative
+"What's the cheapest thing that will get the job done?",suggest_cheaper_alternative
+"My budget is [amount], what's available?",suggest_cheaper_alternative
+"Are there any value packs?",suggest_cheaper_alternative
+"I'm looking for value for money.",suggest_cheaper_alternative
+"Is there a less expensive option?",suggest_cheaper_alternative
+"I want something cheaper.",suggest_cheaper_alternative
+"What's the lowest-priced product in this category?",suggest_cheaper_alternative
+"Can you recommend a budget-friendly alternative?",suggest_cheaper_alternative
+"I'm looking for a bargain.",suggest_cheaper_alternative
+"Is there anything in a lower price range?",suggest_cheaper_alternative
+"What is the most economical choice?",suggest_cheaper_alternative
+"I want to spend less.",suggest_cheaper_alternative
+"Is there a cheaper, basic version?",suggest_cheaper_alternative
+"Show me the cheapest options.",suggest_cheaper_alternative
+"I need a cost-effective option.",suggest_cheaper_alternative
+"Are there any generic brands available?",suggest_cheaper_alternative
+"Can you help me find something within my budget?",suggest_cheaper_alternative
+"I'm looking for the absolute lowest price.",suggest_cheaper_alternative
+"Is there an older model that's cheaper?",suggest_cheaper_alternative
+"Is there anything on sale that could be an alternative?",suggest_cheaper_alternative
+"I'm looking for the most saving option.",suggest_cheaper_alternative
+"Are there any low-cost substitutes?",suggest_cheaper_alternative
+"What's your cheapest product that does the same job?",suggest_cheaper_alternative
+"I want to see products under [amount].",suggest_cheaper_alternative
+"ممكن أغير معاد استلام الأوردر؟",ask_for_change_delivery_date
+"عايز أأجل التوصيل ليوم تاني.",ask_for_change_delivery_date
+"هل يمكن تعديل تاريخ الشحن؟",ask_for_change_delivery_date
+"أنا مش هكون موجود في المعاد ده، ممكن نغيره؟",ask_for_change_delivery_date
+"محتاج أغير يوم التسليم.",ask_for_change_delivery_date
+"هل أقدر أستلم الأوردر بكرة بدل النهاردة؟",ask_for_change_delivery_date
+"عايز أغير معاد التوصيل لو سمحت.",ask_for_change_delivery_date
+"هل يمكن إعادة جدولة الشحنة؟",ask_for_change_delivery_date
+"أنا مسافر، ممكن تأجلوا التوصيل للأسبوع الجاي؟",ask_for_change_delivery_date
+"هل أقدر أقدم معاد التوصيل؟",ask_for_change_delivery_date
+"ممكن أغير وقت التسليم في نفس اليوم؟",ask_for_change_delivery_date
+"إزاي أطلب تغيير تاريخ التوصيل؟",ask_for_change_delivery_date
+"عايز أكلمكم عشان أغير معاد وصول الشحنة.",ask_for_change_delivery_date
+"هل فيه أي رسوم لتغيير معاد التوصيل؟",ask_for_change_delivery_date
+"هل يمكن تغيير تاريخ التسليم بعد تأكيد الطلب؟",ask_for_change_delivery_date
+"أنا عايز أغير يوم وصول طلبي.",ask_for_change_delivery_date
+"هل متاح تغيير موعد الاستلام؟",ask_for_change_delivery_date
+"أريد تأجيل طلبي.",ask_for_change_delivery_date
+"هل يمكنني اختيار يوم آخر للتوصيل؟",ask_for_change_delivery_date
+"هل يمكنني تغيير نافذة وقت التوصيل؟",ask_for_change_delivery_date
+"أريد تحديد موعد جديد لاستلام شحنتي.",ask_for_change_delivery_date
+"هل يمكنني الحصول على توصيل في عطلة نهاية الأسبوع بدلاً من ذلك؟",ask_for_change_delivery_date
+"ما هي سياستكم بشأن إعادة جدولة عمليات التوصيل؟",ask_for_change_delivery_date
+"هل فات الأوان لتغيير تاريخ التوصيل؟",ask_for_change_delivery_date
+"أحتاج إلى تأخير شحنتي ببضعة أيام.",ask_for_change_delivery_date
+"هل يمكنني تسريع عملية التوصيل إلى تاريخ سابق؟",ask_for_change_delivery_date
+"هل هناك أي عقوبة لتغيير تاريخ التوصيل؟",ask_for_change_delivery_date
+"أريد تغيير تاريخ التوصيل إلى [تاريخ].",ask_for_change_delivery_date
+"هل يمكنني تغيير عنوان التوصيل وتاريخه في نفس الوقت؟",ask_for_change_delivery_date
+"لقد حددت اليوم الخطأ، هل يمكنني تغييره؟",ask_for_change_delivery_date
+"أحتاج إلى تحديث تفاصيل التوصيل الخاصة بي.",ask_for_change_delivery_date
+"هل يمكنني طلب يوم معين من الأسبوع للتوصيل؟",ask_for_change_delivery_date
+"أريد أن أطلب توصيلًا في وقت لاحق.",ask_for_change_delivery_date
+"كيف يمكنني طلب تاريخ توصيل مختلف؟",ask_for_change_delivery_date
+"هل يمكنني إيقاف شحنتي مؤقتًا؟",ask_for_change_delivery_date
+"هل يمكنني اختيار وقت توصيل محدد؟",ask_for_change_delivery_date
+"أريد تعديل جدول التوصيل الخاص بي.",ask_for_change_delivery_date
+"هل يمكنني تغيير تاريخ التوصيل الخاص بي عبر الإنترنت؟",ask_for_change_delivery_date
+"أنا بحاجة إلى تغيير موعد التوصيل المقرر.",ask_for_change_delivery_date
+"هل يمكنني طلب توصيل في الصباح بدلاً من المساء؟",ask_for_change_delivery_date
+"ما هي الخيارات المتاحة لإعادة الجدولة؟",ask_for_change_delivery_date
+"أحتاج إلى تغيير موعد التوصيل بسبب حالة طارئة.",ask_for_change_delivery_date
+"هل يمكنني دفع مبلغ إضافي لتغيير تاريخ التوصيل؟",ask_for_change_delivery_date
+"هل يؤثر تغيير التاريخ على تكلفة الشحن؟",ask_for_change_delivery_date
+"أريد تأكيد تاريخ التوصيل الجديد.",ask_for_change_delivery_date
+"هل يمكنني تغيير تاريخ توصيل جزء فقط من طلبي؟",ask_for_change_delivery_date
+"أنا لست مستعدًا للاستلام، هل يمكننا تأجيله؟",ask_for_change_delivery_date
+"من الذي يجب أن أتصل به لتغيير موعد التوصيل؟",ask_for_change_delivery_date
+"عايز أأجل الأوردر.",ask_for_change_delivery_date
+"مش هكون موجود يوم التوصيل، ممكن نغيره؟",ask_for_change_delivery_date
+"ينفع أغير معاد التسليم؟",ask_for_change_delivery_date
+"هل أقدر أختار يوم تاني للاستلام؟",ask_for_change_delivery_date
+"محتاج أغير تاريخ وصول الشحنة.",ask_for_change_delivery_date
+"لو سمحت، عايز أأجل التسليم.",ask_for_change_delivery_date
+"أنا مسافر، ممكن الأوردر يجي بعد ما أرجع؟",ask_for_change_delivery_date
+"هل فيه إمكانية أغير يوم التوصيل؟",ask_for_change_delivery_date
+"حصل عندي ظرف، ممكن نأجل؟",ask_for_change_delivery_date
+"عايز أقدم معاد التوصيل يومين.",ask_for_change_delivery_date
+"ممكن الطلب يجي بدري شوية؟",ask_for_change_delivery_date
+"هل أقدر أغير المعاد لآخر النهار؟",ask_for_change_delivery_date
+"أنا عايز أستلم يوم [اليوم].",ask_for_change_delivery_date
+"إزاي أعمل إعادة جدولة؟",ask_for_change_delivery_date
+"الميعاد ده مش مناسبني.",ask_for_change_delivery_date
+"هل لسه ممكن أغير المعاد؟",ask_for_change_delivery_date
+"عايز أغيره لآخر الأسبوع.",ask_for_change_delivery_date
+"ممكن أخليه يوصل الأسبوع الجاي؟",ask_for_change_delivery_date
+"هل ممكن أغيره؟",ask_for_change_delivery_date
+"أنا مش فاضي في الوقت ده.",ask_for_change_delivery_date
+"Can I change the delivery date of my order?",ask_for_change_delivery_date
+"I want to postpone the delivery to another day.",ask_for_change_delivery_date
+"Is it possible to modify the shipping date?",ask_for_change_delivery_date
+"I won't be available at that time, can we change it?",ask_for_change_delivery_date
+"I need to change the delivery day.",ask_for_change_delivery_date
+"Can I receive the order tomorrow instead of today?",ask_for_change_delivery_date
+"I'd like to change the delivery time, please.",ask_for_change_delivery_date
+"Can the shipment be rescheduled?",ask_for_change_delivery_date
+"I'm traveling, can you postpone the delivery until next week?",ask_for_change_delivery_date
+"Can I move up the delivery time?",ask_for_change_delivery_date
+"Can I change the delivery time on the same day?",ask_for_change_delivery_date
+"How do I request a change in the delivery date?",ask_for_change_delivery_date
+"I want to call you to change the shipment's arrival time.",ask_for_change_delivery_date
+"Are there any fees for changing the delivery date?",ask_for_change_delivery_date
+"Can the delivery date be changed after the order is confirmed?",ask_for_change_delivery_date
+"I want to change the arrival day of my order.",ask_for_change_delivery_date
+"Is it possible to change the receiving appointment?",ask_for_change_delivery_date
+"I'd like to postpone my order.",ask_for_change_delivery_date
+"Can I choose a different day for delivery?",ask_for_change_delivery_date
+"Can I change the delivery time window?",ask_for_change_delivery_date
+"I want to set a new date for my shipment.",ask_for_change_delivery_date
+"Can I get a weekend delivery instead?",ask_for_change_delivery_date
+"What is your policy on rescheduling deliveries?",ask_for_change_delivery_date
+"Is it too late to change the delivery date?",ask_for_change_delivery_date
+"I need to delay my shipment by a few days.",ask_for_change_delivery_date
+"Can I expedite the delivery to an earlier date?",ask_for_change_delivery_date
+"Is there a penalty for changing the delivery date?",ask_for_change_delivery_date
+"I'd like to change the delivery date to [date].",ask_for_change_delivery_date
+"Can I change the delivery address and date at the same time?",ask_for_change_delivery_date
+"I selected the wrong day, can I change it?",ask_for_change_delivery_date
+"I need to update my delivery details.",ask_for_change_delivery_date
+"Can I request a specific day of the week for delivery?",ask_for_change_delivery_date
+"I'd like to request a later delivery.",ask_for_change_delivery_date
+"How can I request a different delivery date?",ask_for_change_delivery_date
+"Can I put my shipment on hold?",ask_for_change_delivery_date
+"Can I choose a specific delivery time slot?",ask_for_change_delivery_date
+"I want to modify my delivery schedule.",ask_for_change_delivery_date
+"Can I change my delivery date online?",ask_for_change_delivery_date
+"I need to move my scheduled delivery.",ask_for_change_delivery_date
+"Can I request a morning delivery instead of an evening one?",ask_for_change_delivery_date
+"What are my options for rescheduling?",ask_for_change_delivery_date
+"I need to change the delivery appointment due to an emergency.",ask_for_change_delivery_date
+"Can I pay extra to change the delivery date?",ask_for_change_delivery_date
+"Does changing the date affect the shipping cost?",ask_for_change_delivery_date
+"I want to confirm the new delivery date.",ask_for_change_delivery_date
+"Can I change the delivery date for only part of my order?",ask_for_change_delivery_date
+"I'm not ready for delivery, can we postpone?",ask_for_change_delivery_date
+"Who should I contact to change my delivery date?",ask_for_change_delivery_date
+"ممكن أعرف الشحنة وصلت لفين؟",check_shipping_status
+"حالة الشحنة إيه دلوقتي؟",check_shipping_status
+"هل تم شحن طلبي؟",check_shipping_status
+"الأوردر خرج من المخزن ولا لسه؟",check_shipping_status
+"عايز أتابع الشحنة بتاعتي.",check_shipping_status
+"ممكن رقم تتبع الشحنة؟",check_shipping_status
+"إيه آخر تحديث لحالة الشحن؟",check_shipping_status
+"هل الشحنة في مرحلة التجهيز ولا خرجت؟",check_shipping_status
+"هل الطلب مع شركة الشحن خلاص؟",check_shipping_status
+"حالة الشحنة 'قيد التنفيذ'، ده معناه إيه؟",check_shipping_status
+"هل أقدر أعرف مكان الشحنة على الخريطة؟",check_shipping_status
+"متى تم إرسال الشحنة؟",check_shipping_status
+"هل الشحنة وصلت لفرع مدينتي؟",check_shipping_status
+"لماذا حالة الشحن لم تتغير منذ يومين؟",check_shipping_status
+"هل تم تسليم شحنتي لشركة التوصيل؟",check_shipping_status
+"عايز أعرف كل مراحل الشحن اللي مرت بيها.",check_shipping_status
+"هل الشحنة بتاعتي في الجمارك؟",check_shipping_status
+"متوقع توصل لمركز التوزيع امتى؟",check_shipping_status
+"هل يمكنني الحصول على تحديثات الشحن عبر الرسائل القصيرة؟",check_shipping_status
+"ماذا تعني حالة 'تمت الجدولة للتسليم'؟",check_shipping_status
+"هل تم شحن كل الأصناف في طلبي معًا؟",check_shipping_status
+"من أي مخزن تم شحن طلبي؟",check_shipping_status
+"هل يمكنني تغيير شركة الشحن؟",check_shipping_status
+"حالة الشحن 'محاولة تسليم فاشلة'، ماذا أفعل؟",check_shipping_status
+"هل يمكن إيقاف الشحنة وهي في الطريق؟",check_shipping_status
+"أريد التحقق من حالة شحنتي.",check_shipping_status
+"هل يمكنك تزويدي بمعلومات التتبع؟",check_shipping_status
+"متى سيتم شحن طلبي؟",check_shipping_status
+"هل تم إرسال الطرد الخاص بي؟",check_shipping_status
+"ما هي شركة الشحن التي تستخدمونها؟",check_shipping_status
+"هل الشحنة عالقة في مكان ما؟",check_shipping_status
+"ماذا تعني حالة 'في العبور'؟",check_shipping_status
+"هل يمكنك تأكيد أن طلبي قد تم شحنه؟",check_shipping_status
+"هل تم شحن طلبي بالكامل؟",check_shipping_status
+"متى غادر المستودع؟",check_shipping_status
+"هل هناك أي تأخير في الشحن؟",check_shipping_status
+"هل يمكنني رؤية سجل تتبع الشحنة؟",check_shipping_status
+"هل الشحنة مؤمنة؟",check_shipping_status
+"هل تم مسحها ضوئيًا في أي مركز فرز مؤخرًا؟",check_shipping_status
+"ماذا يعني 'تم إنشاء ملصق الشحن'؟",check_shipping_status
+"هل تم تعيين رقم تتبع حتى الآن؟",check_shipping_status
+"هل يمكنك التحقق من آخر موقع للشحنة؟",check_shipping_status
+"هل هناك طريقة لتتبعها في الوقت الفعلي؟",check_shipping_status
+"هل سيتم تحديث حالة الشحن قريبًا؟",check_shipping_status
+"هل الشحنة في طريقها للتسليم اليوم؟",check_shipping_status
+"لماذا لا يعمل رقم التتبع الخاص بي؟",check_shipping_status
+"هل يمكنك إرسال رابط التتبع إليّ؟",check_shipping_status
+"هل الشحنة متقدمة على الجدول الزمني أم متأخرة؟",check_shipping_status
+"هل هناك أي استثناءات شحن على طلبي؟",check_shipping_status
+"هل يمكنني توقع وصوله بحلول [تاريخ]؟",check_shipping_status
+"هل الشحنة تتطلب توقيعًا عند التسليم؟",check_shipping_status
+"ما هو تاريخ الشحن المقدر؟",check_shipping_status
+"هو الأوردر طلع ولا لسه؟",check_shipping_status
+"الشحنة اتحركت من عندكم؟",check_shipping_status
+"ممكن رقم التتبع؟",check_shipping_status
+"عايز أطمن على الشحنة.",check_shipping_status
+"حالتها إيه دلوقتي؟",check_shipping_status
+"هل خرجت مع المندوب؟",check_shipping_status
+"إيه آخر الأخبار عن الشحن؟",check_shipping_status
+"ممكن تتبع للشحنة؟",check_shipping_status
+"هي لسه في المخزن؟",check_shipping_status
+"هل اتسلمت لشركة الشحن؟",check_shipping_status
+"التتبع واقف ليه؟",check_shipping_status
+"هل الشحنة ماشية في طريقها؟",check_shipping_status
+"آخر مكان كانت فيه فين؟",check_shipping_status
+"هل فيه أي مشكلة في الشحن؟",check_shipping_status
+"امتى اتشحنت بالظبط؟",check_shipping_status
+"هي في أنهي مرحلة دلوقتي؟",check_shipping_status
+"حالة الشحن إيه؟",check_shipping_status
+"عايز أعرف كل حاجة عن الشحنة بتاعتي.",check_shipping_status
+"هل أقدر أعرف هي فين بالتحديد؟",check_shipping_status
+"هي لسه في مصر؟",check_shipping_status
+"Can I get the status of my shipment?",check_shipping_status
+"What's the current shipping status?",check_shipping_status
+"Has my order been shipped?",check_shipping_status
+"Has the order left the warehouse yet?",check_shipping_status
+"I want to follow up on my shipment.",check_shipping_status
+"Can I get the shipment tracking number?",check_shipping_status
+"What's the latest update on the shipping status?",check_shipping_status
+"Is the shipment in the processing stage or has it been dispatched?",check_shipping_status
+"Is the order with the shipping company now?",check_shipping_status
+"The shipping status says 'in progress', what does that mean?",check_shipping_status
+"Can I see the shipment's location on a map?",check_shipping_status
+"When was the shipment sent?",check_shipping_status
+"Has the shipment arrived at my city's branch?",check_shipping_status
+"Why hasn't the shipping status changed in two days?",check_shipping_status
+"Has my shipment been handed over to the delivery company?",check_shipping_status
+"I want to see all the shipping stages it has gone through.",check_shipping_status
+"Is my shipment in customs?",check_shipping_status
+"When is it expected to arrive at the distribution center?",check_shipping_status
+"Can I get shipping updates via SMS?",check_shipping_status
+"What does the status 'scheduled for delivery' mean?",check_shipping_status
+"Were all items in my order shipped together?",check_shipping_status
+"From which warehouse was my order shipped?",check_shipping_status
+"Can I change the shipping company?",check_shipping_status
+"The shipping status says 'failed delivery attempt', what should I do?",check_shipping_status
+"Can the shipment be stopped while it's in transit?",check_shipping_status
+"I'd like to check my shipment status.",check_shipping_status
+"Can you provide me with the tracking information?",check_shipping_status
+"When will my order be shipped?",check_shipping_status
+"Has my package been dispatched?",check_shipping_status
+"Which carrier are you using?",check_shipping_status
+"Is the shipment stuck somewhere?",check_shipping_status
+"What does 'in transit' status mean?",check_shipping_status
+"Can you confirm that my order has shipped?",check_shipping_status
+"Has my entire order been shipped?",check_shipping_status
+"When did it leave the warehouse?",check_shipping_status
+"Are there any shipping delays?",check_shipping_status
+"Can I see the shipment's tracking history?",check_shipping_status
+"Is the shipment insured?",check_shipping_status
+"Has it been scanned at any sorting facility recently?",check_shipping_status
+"What does 'shipping label created' mean?",check_shipping_status
+"Has a tracking number been assigned yet?",check_shipping_status
+"Can you check the last location of the shipment?",check_shipping_status
+"Is there a way to track it in real-time?",check_shipping_status
+"Will the shipping status be updated soon?",check_shipping_status
+"Is it out for delivery today?",check_shipping_status
+"Why is my tracking number not working?",check_shipping_status
+"Can you send me the tracking link?",check_shipping_status
+"Is the shipment ahead of schedule or behind?",check_shipping_status
+"Are there any shipping exceptions on my order?",check_shipping_status
+"Can I expect it to arrive by [date]?",check_shipping_status
+"Does the shipment require a signature on delivery?",check_shipping_status
+"What is the estimated ship date?",check_shipping_status
+"الأوردر بتاعي هيوصل امتى؟",track_order_status
+"عايز أتابع الأوردر بتاعي.",track_order_status
+"إيه أخبار التوصيل؟",track_order_status
+"المندوب هيوصل امتى تقريبا؟",track_order_status
+"الأوردر اتأخر ليه؟",track_order_status
+"ممكن أعرف حالة الطلب؟",track_order_status
+"فين الأوردر بتاعي؟",track_order_status
+"هل الطلب قريب مني؟",track_order_status
+"التتبع بيقول اتسلم بس أنا مستلمتش حاجة.",track_order_status
+"عايز تحديث عن مكان طلبي.",track_order_status
+"يا جماعة الأوردر متأخر أوي.",track_order_status
+"هل فيه مشكلة في توصيل الأوردر؟",track_order_status
+"فاضل قد إيه على وصول الطلب؟",track_order_status
+"مفيش أي تحديث عن مكان الطلب؟",track_order_status
+"طلبي فين دلوقتي؟",track_order_status
+"هل أقدر أكلم المندوب اللي معاه طلبي؟",track_order_status
+"ما هو الوقت المتوقع للوصول؟",track_order_status
+"تتبع الطلب رقم [رقم].",track_order_status
+"هل الطلب في طريقه إلي؟",track_order_status
+"آخر تحديث للطلب كان إيه؟",track_order_status
+"متى سأستلم طلبي؟",track_order_status
+"هل تم تأكيد طلبي؟",track_order_status
+"لماذا طلبي معلق؟",track_order_status
+"هل يمكنني تتبع السائق على الخريطة؟",track_order_status
+"طلبي قيد المراجعة، ماذا يعني ذلك؟",track_order_status
+"متى سيتم تجهيز طلبي؟",track_order_status
+"هل تم إلغاء طلبي؟",track_order_status
+"هل يمكنني الحصول على إشعار عند اقتراب السائق؟",track_order_status
+"ما هي حالة الدفع لطلبي؟",track_order_status
+"هل يمكنني رؤية سجل طلباتي؟",track_order_status
+"لقد استلمت جزءًا فقط من طلبي، أين الباقي؟",track_order_status
+"لماذا تم إرجاع طلبي إلى المرسل؟",track_order_status
+"هل يمكنني تغيير عنوان التسليم لطلبي؟",track_order_status
+"ما هو رقم الطلب الخاص بي؟",track_order_status
+"هل هناك أي مشاكل في طلبي؟",track_order_status
+"هل يمكنكم التحقق من حالة طلبي؟",track_order_status
+"لماذا لا يمكنني العثور على طلبي في حسابي؟",track_order_status
+"هل تم استلام طلبي بنجاح؟",track_order_status
+"طلبي متأخر عن تاريخ التسليم المتوقع.",track_order_status
+"من فضلك، زودني بتحديث عن الطلب.",track_order_status
+"هل يمكنني إضافة المزيد من العناصر إلى طلبي الحالي؟",track_order_status
+"هل تم تقسيم طلبي إلى شحنات متعددة؟",track_order_status
+"هل يمكنني إعطاء تعليمات خاصة للتوصيل؟",track_order_status
+"ماذا أفعل إذا لم أكن في المنزل لاستلام الطلب؟",track_order_status
+"هل يمكن لشخص آخر استلام الطلب نيابة عني؟",track_order_status
+"لماذا تم وضع طلبي قيد الانتظار؟",track_order_status
+"هل يمكنني طلب إثبات التسليم؟",track_order_status
+"هل يمكنني تحديد موعد التسليم؟",track_order_status
+"أريد تأكيد تفاصيل طلبي.",track_order_status
+"الأوردر وصل فين؟",track_order_status
+"هاستلم امتى؟",track_order_status
+"إيه أخبار طلبي؟",track_order_status
+"هو فينه دلوقتي؟",track_order_status
+"اتأخر أوي، إيه النظام؟",track_order_status
+"عايز أتابع الطلب.",track_order_status
+"المندوب مجاش ليه؟",track_order_status
+"حالة الأوردر إيه؟",track_order_status
+"هو لسه في السكة؟",track_order_status
+"مفيش أي أخبار؟",track_order_status
+"عايز أعرف هو فين بالظبط.",track_order_status
+"التتبع بايظ ولا إيه؟",track_order_status
+"كلمولي المندوب.",track_order_status
+"هو لسه مجاش؟",track_order_status
+"فين طلبي يا جماعة؟",track_order_status
+"ممكن أعرف هو مع مين دلوقتي؟",track_order_status
+"المفروض يوصل النهاردة.",track_order_status
+"هل فيه مشكلة في الأوردر؟",track_order_status
+"فاضله كتير؟",track_order_status
+"عايز أعرف هو هيوصل امتى.",track_order_status
+"When will my order arrive?",track_order_status
+"I want to track my order.",track_order_status
+"What's the news on the delivery?",track_order_status
+"When is the driver expected to arrive?",track_order_status
+"Why is my order delayed?",track_order_status
+"Can I know the status of my order?",track_order_status
+"Where is my order?",track_order_status
+"Is the order near me?",track_order_status
+"Tracking says delivered, but I haven't received anything.",track_order_status
+"I need an update on my order's location.",track_order_status
+"Folks, the order is very late.",track_order_status
+"Is there a problem with the delivery of my order?",track_order_status
+"How much longer until the order arrives?",track_order_status
+"Is there any update on the order's location?",track_order_status
+"Where is my order right now?",track_order_status
+"Can I speak to the driver who has my order?",track_order_status
+"What's the estimated time of arrival?",track_order_status
+"Track order number [number].",track_order_status
+"Is my order on its way?",track_order_status
+"What was the last update on the order?",track_order_status
+"When will I receive my order?",track_order_status
+"Has my order been confirmed?",track_order_status
+"Why is my order pending?",track_order_status
+"Can I track the driver on the map?",track_order_status
+"My order is under review, what does that mean?",track_order_status
+"When will my order be processed?",track_order_status
+"Has my order been canceled?",track_order_status
+"Can I get a notification when the driver is near?",track_order_status
+"What is the payment status of my order?",track_order_status
+"Can I see my order history?",track_order_status
+"I only received part of my order, where is the rest?",track_order_status
+"Why was my order returned to the sender?",track_order_status
+"Can I change the delivery address for my order?",track_order_status
+"What is my order number?",track_order_status
+"Are there any issues with my order?",track_order_status
+"Can you check the status of my order for me?",track_order_status
+"Why can't I find my order in my account?",track_order_status
+"Was my order successfully received?",track_order_status
+"My order is past its expected delivery date.",track_order_status
+"Please provide me with an update on the order.",track_order_status
+"Can I add more items to my current order?",track_order_status
+"Has my order been split into multiple shipments?",track_order_status
+"Can I provide special delivery instructions?",track_order_status
+"What should I do if I'm not home to receive the order?",track_order_status
+"Can someone else receive the order on my behalf?",track_order_status
+"Why has my order been put on hold?",track_order_status
+"Can I request proof of delivery?",track_order_status
+"Can I schedule the delivery time?",track_order_status
+"I want to confirm my order details.",track_order_status
+"الشحن للقاهرة بكام؟",ask_shipping_fees
+"مصاريف التوصيل كام؟",ask_shipping_fees
+"هل التوصيل مجاني؟",ask_shipping_fees
+"تكلفة الشحن كام؟",ask_shipping_fees
+"مصاريف الشحن للمحافظات كام؟",ask_shipping_fees
+"الشحن للبيت بكام؟",ask_shipping_fees
+"لو طلبت حاجات كتير الشحن هيكون بكام؟",ask_shipping_fees
+"هل فيه حد أدنى للطلب عشان الشحن يبقى مجاني؟",ask_shipping_fees
+"سعر التوصيل ثابت؟",ask_shipping_fees
+"تكلفة الشحن لـ [اسم منطقة] كام؟",ask_shipping_fees
+"هل فيه رسوم إضافية على الدفع عند الاستلام؟",ask_shipping_fees
+"هل السعر المعروض شامل التوصيل؟",ask_shipping_fees
+"لو عايز أرجع المنتج، مين بيدفع مصاريف الشحن؟",ask_shipping_fees
+"هل تكلفة الشحن بتعتمد على وزن الأوردر؟",ask_shipping_fees
+"الشحن السريع أغلى بقد إيه؟",ask_shipping_fees
+"هل فيه خصم على مصاريف الشحن؟",ask_shipping_fees
+"الشحن لعنواني هيكلف كام؟",ask_shipping_fees
+"كم سعر التوصيل؟",ask_shipping_fees
+"هل الوزن بيفرق في سعر الشحن؟",ask_shipping_fees
+"إجمالي الحساب بالشحن كام؟",ask_shipping_fees
+"ما هي رسوم التوصيل؟",ask_shipping_fees
+"هل هناك تكلفة إضافية للشحن إلى المناطق النائية؟",ask_shipping_fees
+"كيف يتم احتساب تكلفة الشحن؟",ask_shipping_fees
+"هل يمكنني معرفة تكلفة الشحن قبل إتمام الطلب؟",ask_shipping_fees
+"هل هناك أي طريقة للحصول على شحن مجاني؟",ask_shipping_fees
+"هل تختلف رسوم الشحن باختلاف طريقة الدفع؟",ask_shipping_fees
+"هل هناك أي ضرائب أو رسوم جمركية متضمنة في رسوم الشحن؟",ask_shipping_fees
+"ما هي تكلفة الشحن الدولي؟",ask_shipping_fees
+"هل يمكنني الدفع مقابل الشحن عند التسليم؟",ask_shipping_fees
+"هل هناك أي خصومات متاحة على الشحن؟",ask_shipping_fees
+"إذا قمت بإرجاع عنصر، هل سيتم استرداد رسوم الشحن؟",ask_shipping_fees
+"هل تزداد تكلفة الشحن إذا كان طلبي ثقيلًا؟",ask_shipping_fees
+"هل يمكنني الترقية إلى شحن أسرع مقابل رسوم إضافية؟",ask_shipping_fees
+"ما هي تكلفة الشحن إلى صندوق بريد؟",ask_shipping_fees
+"هل هناك أي رسوم مناولة بالإضافة إلى الشحن؟",ask_shipping_fees
+"هل هناك اشتراك للشحن المجاني؟",ask_shipping_fees
+"هل رسوم الشحن قابلة للاسترداد؟",ask_shipping_fees
+"هل يمكنني استخدام رمز قسيمة لتغطية تكاليف الشحن؟",ask_shipping_fees
+"لماذا رسوم الشحن الخاصة بكم مرتفعة جدًا؟",ask_shipping_fees
+"هل السعر الإجمالي المعروض على صفحة المنتج يشمل الشحن؟",ask_shipping_fees
+"هل يمكنني الحصول على تقدير لتكاليف الشحن؟",ask_shipping_fees
+"هل هناك أي رسوم خفية في تكلفة الشحن؟",ask_shipping_fees
+"هل هناك سعر شحن ثابت لجميع الطلبات؟",ask_shipping_fees
+"ما هي تكلفة شحن العناصر كبيرة الحجم؟",ask_shipping_fees
+"هل يغطي الشحن التأمين؟",ask_shipping_fees
+"هل يمكنني الدفع مقابل الشحن بشكل منفصل؟",ask_shipping_fees
+"هل يمكنني دمج شحنات متعددة لتوفير التكاليف؟",ask_shipping_fees
+"هل تقدمون أي خيارات شحن اقتصادية؟",ask_shipping_fees
+"ما هي تكلفة إعادة شحن الطلب المرتجع؟",ask_shipping_fees
+"التوصيل بكام؟",ask_shipping_fees
+"الشحن بيكلف كام؟",ask_shipping_fees
+"مصاريف الشحن قد إيه؟",ask_shipping_fees
+"لو هطلب، الشحن هيبقى بكام؟",ask_shipping_fees
+"فيه شحن مجاني ولا كله بفلوس؟",ask_shipping_fees
+"عايز أعرف تكلفة التوصيل.",ask_shipping_fees
+"إيه نظام الشحن عندكم؟",ask_shipping_fees
+"هل فيه مصاريف توصيل؟",ask_shipping_fees
+"الشحن داخل القاهرة بكام؟",ask_shipping_fees
+"ولو بره القاهرة؟",ask_shipping_fees
+"هل السعر ده شامل التوصيل؟",ask_shipping_fees
+"لما أدفع عند الاستلام بيبقى فيه مصاريف زيادة؟",ask_shipping_fees
+"ليه الشحن غالي كده؟",ask_shipping_fees
+"هل فيه طريقة الشحن يكون ببلاش؟",ask_shipping_fees
+"تكلفة الشحن ثابتة لأي مكان؟",ask_shipping_fees
+"الوزن بيفرق في سعر الشحن؟",ask_shipping_fees
+"إجمالي الفاتورة بالشحن هيبقى كام؟",ask_shipping_fees
+"هل فيه مصاريف تانية غير الشحن؟",ask_shipping_fees
+"عايز أعرف الشحن بس.",ask_shipping_fees
+"كم تكلفة الشحن؟",ask_shipping_fees
+"How much is the shipping to Cairo?",ask_shipping_fees
+"What are the delivery fees?",ask_shipping_fees
+"Is the delivery free?",ask_shipping_fees
+"What is the shipping cost?",ask_shipping_fees
+"What are the shipping fees to other governorates?",ask_shipping_fees
+"How much for home delivery?",ask_shipping_fees
+"If I order many items, how much will the shipping be?",ask_shipping_fees
+"Is there a minimum order for free shipping?",ask_shipping_fees
+"Is the delivery price fixed?",ask_shipping_fees
+"What is the shipping cost to [Area Name]?",ask_shipping_fees
+"Are there additional fees for cash on delivery?",ask_shipping_fees
+"Does the displayed price include delivery?",ask_shipping_fees
+"If I want to return the product, who pays for the shipping?",ask_shipping_fees
+"Does the shipping cost depend on the order's weight?",ask_shipping_fees
+"How much more expensive is express shipping?",ask_shipping_fees
+"Is there a discount on shipping fees?",ask_shipping_fees
+"How much will shipping to my address cost?",ask_shipping_fees
+"What is the delivery price?",ask_shipping_fees
+"Does weight affect the shipping price?",ask_shipping_fees
+"What is the total amount including shipping?",ask_shipping_fees
+"What are the delivery charges?",ask_shipping_fees
+"Is there an extra cost for shipping to remote areas?",ask_shipping_fees
+"How is the shipping cost calculated?",ask_shipping_fees
+"Can I know the shipping cost before completing the order?",ask_shipping_fees
+"Is there any way to get free shipping?",ask_shipping_fees
+"Do shipping fees vary by payment method?",ask_shipping_fees
+"Are there any taxes or customs duties included in the shipping fee?",ask_shipping_fees
+"What is the cost of international shipping?",ask_shipping_fees
+"Can I pay for shipping on delivery?",ask_shipping_fees
+"Are there any discounts available on shipping?",ask_shipping_fees
+"If I return an item, will the shipping fee be refunded?",ask_shipping_fees
+"Does the shipping cost increase if my order is heavy?",ask_shipping_fees
+"Can I upgrade to faster shipping for an extra fee?",ask_shipping_fees
+"What is the cost of shipping to a P.O. Box?",ask_shipping_fees
+"Are there any handling fees in addition to shipping?",ask_shipping_fees
+"Is there a subscription for free shipping?",ask_shipping_fees
+"Are shipping fees refundable?",ask_shipping_fees
+"Can I use a coupon code to cover shipping costs?",ask_shipping_fees
+"Why are your shipping fees so high?",ask_shipping_fees
+"Does the total price on the product page include shipping?",ask_shipping_fees
+"Can I get an estimate of the shipping costs?",ask_shipping_fees
+"Are there any hidden charges in the shipping cost?",ask_shipping_fees
+"Is there a flat shipping rate for all orders?",ask_shipping_fees
+"What is the cost of shipping bulky items?",ask_shipping_fees
+"Does shipping cover insurance?",ask_shipping_fees
+"Can I pay for shipping separately?",ask_shipping_fees
+"Can I combine multiple shipments to save on costs?",ask_shipping_fees
+"Do you offer any economy shipping options?",ask_shipping_fees
+"What is the cost of reshipping a returned order?",ask_shipping_fees
+"فيه أي عروض شغالة دلوقتي؟",ask_product_discounts
+"هل فيه خصومات حالياً؟",ask_product_discounts
+"عندكم أكواد خصم؟",ask_product_discounts
+"إيه الخصومات اللي موجودة النهاردة؟",ask_product_discounts
+"لو هشتري كمية، فيه خصم؟",ask_product_discounts
+"هل فيه عرض على المنتج ده؟",ask_product_discounts
+"التخفيضات الجاية امتى؟",ask_product_discounts
+"هل السعر ده بعد الخصم؟",ask_product_discounts
+"فيه عروض على منتجات الألبان؟",ask_product_discounts
+"إزاي أستفيد من الخصم؟",ask_product_discounts
+"هل فيه خصم للعملاء الجداد؟",ask_product_discounts
+"إيه هي التخفيضات المتاحة؟",ask_product_discounts
+"عايز كود خصم لو سمحت.",ask_product_discounts
+"هل فيه سيل قريب؟",ask_product_discounts
+"العرض ده لسه ساري؟",ask_product_discounts
+"الخصم ده على كل المنتجات؟",ask_product_discounts
+"إزاي أطبق الخصم؟",ask_product_discounts
+"فيه خصم إضافي؟",ask_product_discounts
+"مفيش أي كوبونات شغالة؟",ask_product_discounts
+"هل فيه تخفيض على أول أوردر؟",ask_product_discounts
+"إيه عروض البلاك فرايداي عندكم؟",ask_product_discounts
+"لو اشتريت قطعتين، فيه خصم؟",ask_product_discounts
+"عايز أعرف كل العروض اللي عندكم.",ask_product_discounts
+"هل فيه خصم للدفع بالفيزا؟",ask_product_discounts
+"الخصم ده صالح لحد امتى؟",ask_product_discounts
+"هل فيه عروض اشترِ واحد واحصل على التاني مجاناً؟",ask_product_discounts
+"ممكن بروموكود؟",ask_product_discounts
+"هل فيه تخفيضات للطلاب؟",ask_product_discounts
+"إيه أقوى خصم موجود حالياً؟",ask_product_discounts
+"هل أسعاركم شاملة الخصومات؟",ask_product_discounts
+"أين يمكنني أن أجد الصفقات؟",ask_product_discounts
+"هل هناك أي مبيعات قادمة؟",ask_product_discounts
+"هل يمكنني الحصول على خصم على طلبي الأول؟",ask_product_discounts
+"هل تقدمون خصومات للكميات الكبيرة؟",ask_product_discounts
+"هل هذا المنتج معروض للبيع؟",ask_product_discounts
+"ما هي شروط هذا العرض؟",ask_product_discounts
+"هل يمكنني استخدام أكثر من قسيمة واحدة؟",ask_product_discounts
+"هل هناك خصم خاص للشركات؟",ask_product_discounts
+"هل لديكم أي صفقات حصرية للتطبيق؟",ask_product_discounts
+"هل هناك أي عروض موسمية؟",ask_product_discounts
+"هل هناك برنامج ولاء؟",ask_product_discounts
+"كيف يمكنني الحصول على قسيمة؟",ask_product_discounts
+"هل يمكنني الحصول على خصم للدفع مقدمًا؟",ask_product_discounts
+"هل هناك أي عروض حزمة؟",ask_product_discounts
+"هل يمكن تطبيق هذا الخصم على العناصر المخفضة بالفعل؟",ask_product_discounts
+"ما هو الحد الأقصى للخصم الذي يمكنني الحصول عليه؟",ask_product_discounts
+"هل هناك أي خصومات للشحن؟",ask_product_discounts
+"هل ينتهي هذا العرض قريبًا؟",ask_product_discounts
+"هل هناك أي عروض استرداد نقدي؟",ask_product_discounts
+"فيه أي تخفيضات؟",ask_product_discounts
+"معندكوش أي عروض؟",ask_product_discounts
+"عايز بروموكود.",ask_product_discounts
+"إيه الجديد في العروض؟",ask_product_discounts
+"لو خدت كمية فيه خصم؟",ask_product_discounts
+"المنتج ده عليه سيل؟",ask_product_discounts
+"عايز حاجة عليها خصم.",ask_product_discounts
+"السعر ده نهائي ولا فيه خصم؟",ask_product_discounts
+"مفيش خصومات على أي حاجة؟",ask_product_discounts
+"إزاي آخد الخصم؟",ask_product_discounts
+"أول مرة أطلب، ليا خصم؟",ask_product_discounts
+"إيه التخفيضات اللي عندكم؟",ask_product_discounts
+"ممكن كوبون؟",ask_product_discounts
+"هو العرض خلص؟",ask_product_discounts
+"الخصم ده على إيه بالظبط؟",ask_product_discounts
+"أكتب الكود فين؟",ask_product_discounts
+"فيه أي خصم تاني ممكن آخده؟",ask_product_discounts
+"هل فيه خصم على الدفع كاش؟",ask_product_discounts
+"عروض الجمعة البيضا إيه؟",ask_product_discounts
+"الخصم ده لغاية امتى؟",ask_product_discounts
+"Are there any promotions running right now?",ask_product_discounts
+"Are there any current discounts?",ask_product_discounts
+"Do you have any discount codes?",ask_product_discounts
+"What discounts are available today?",ask_product_discounts
+"If I buy in bulk, is there a discount?",ask_product_discounts
+"Is there a promotion on this product?",ask_product_discounts
+"When is the next sale?",ask_product_discounts
+"Is this price after the discount?",ask_product_discounts
+"Are there any deals on dairy products?",ask_product_discounts
+"How can I take advantage of the discount?",ask_product_discounts
+"Is there a discount for new customers?",ask_product_discounts
+"What are the available promotions?",ask_product_discounts
+"I'd like a discount code, please.",ask_product_discounts
+"Is there a sale coming up soon?",ask_product_discounts
+"Is this offer still valid?",ask_product_discounts
+"Is this discount applicable to all products?",ask_product_discounts
+"How do I apply the discount?",ask_product_discounts
+"Is there an additional discount?",ask_product_discounts
+"Are there any working coupons?",ask_product_discounts
+"Is there a discount on the first order?",ask_product_discounts
+"What are your Black Friday deals?",ask_product_discounts
+"If I buy two pieces, is there a discount?",ask_product_discounts
+"I want to know all the offers you have.",ask_product_discounts
+"Is there a discount for paying with Visa?",ask_product_discounts
+"Until when is this discount valid?",ask_product_discounts
+"Are there any buy one, get one free offers?",ask_product_discounts
+"Can I have a promo code?",ask_product_discounts
+"Are there any student discounts?",ask_product_discounts
+"What is the biggest discount currently available?",ask_product_discounts
+"Do your prices include the discounts?",ask_product_discounts
+"Where can I find the deals?",ask_product_discounts
+"Are there any upcoming sales?",ask_product_discounts
+"Can I get a discount on my first order?",ask_product_discounts
+"Do you offer bulk discounts?",ask_product_discounts
+"Is this product on sale?",ask_product_discounts
+"What are the terms of this offer?",ask_product_discounts
+"Can I use more than one coupon?",ask_product_discounts
+"Is there a special discount for businesses?",ask_product_discounts
+"Do you have any app-exclusive deals?",ask_product_discounts
+"Are there any seasonal offers?",ask_product_discounts
+"Is there a loyalty program?",ask_product_discounts
+"How do I get a coupon?",ask_product_discounts
+"Can I get a discount for paying in advance?",ask_product_discounts
+"Are there any bundle deals?",ask_product_discounts
+"Can this discount be applied to already marked-down items?",ask_product_discounts
+"What's the maximum discount I can get?",ask_product_discounts
+"Are there any shipping discounts?",ask_product_discounts
+"Does this offer expire soon?",ask_product_discounts
+"Are there any cashback offers?",ask_product_discounts
+"إزاي أحصل على عرض توصيل مجاني؟",how_to_get_an_offer
+"إيه شروط عرض اشترِ واحد واحصل على التاني؟",how_to_get_an_offer
+"هل لازم أستخدم كود معين للعرض ده؟",how_to_get_an_offer
+"كيف يمكنني التأهل للعرض الخاص؟",how_to_get_an_offer
+"العرض ده متاح لكل العملاء ولا للجدد بس؟",how_to_get_an_offer
+"هل فيه حد أدنى للشراء عشان أستفيد من العرض؟",how_to_get_an_offer
+"عرض الخصم على أول طلب بيشتغل إزاي؟",how_to_get_an_offer
+"كيف يتم تطبيق عرض الكاش باك؟",how_to_get_an_offer
+"هل يمكنني الاستفادة من عرضين في نفس الوقت؟",how_to_get_an_offer
+"العرض ده صالح لحد امتى؟",how_to_get_an_offer
+"هل العرض يشمل كل المنتجات؟",how_to_get_an_offer
+"إيه هي خطوات الحصول على الهدية المجانية مع الطلب؟",how_to_get_an_offer
+"هل العرض متاح على التطبيق والموقع؟",how_to_get_an_offer
+"هل أحتاج للتسجيل في النشرة الإخبارية للحصول على العرض؟",how_to_get_an_offer
+"كيف يمكنني الحصول على نقاط ولاء مضاعفة؟",how_to_get_an_offer
+"هل العرض يطبق تلقائيا عند الدفع؟",how_to_get_an_offer
+"ما هي المنتجات المشاركة في عرض التخفيضات؟",how_to_get_an_offer
+"هل العرض متاح في كل الفروع؟",how_to_get_an_offer
+"كيف يمكنني استخدام قسيمة الهدايا؟",how_to_get_an_offer
+"هل عرض الخصم يشمل تكاليف الشحن؟",how_to_get_an_offer
+"كيف يمكنني الحصول على دعوة لحدث المبيعات الحصري؟",how_to_get_an_offer
+"ما هي متطلبات عرض الترقية المجانية؟",how_to_get_an_offer
+"هل يمكنني إهداء العرض لصديق؟",how_to_get_an_offer
+"كيف يمكنني المشاركة في سحب الجوائز؟",how_to_get_an_offer
+"هل العرض ساري على الطلبات الدولية؟",how_to_get_an_offer
+"كيف يمكنني تتبع حالة استرداد النقود؟",how_to_get_an_offer
+"هل يمكنني استخدام نقاط الولاء للحصول على هذا العرض؟",how_to_get_an_offer
+"كيف يمكنني الحصول على العينة المجانية؟",how_to_get_an_offer
+"هل العرض متاح للدفع عند الاستلام؟",how_to_get_an_offer
+"ما هي سياسة الإرجاع للعناصر المشتراة في العرض؟",how_to_get_an_offer
+"كيف يمكنني إحالة صديق للحصول على رصيد؟",how_to_get_an_offer
+"هل العرض صالح للاستخدام مرة واحدة فقط؟",how_to_get_an_offer
+"كيف يمكنني المطالبة بضمان أفضل سعر؟",how_to_get_an_offer
+"هل العرض ينطبق على بطاقات الهدايا؟",how_to_get_an_offer
+"كيف يمكنني الوصول إلى صفقات الوصول المبكر؟",how_to_get_an_offer
+"هل أحتاج إلى أن أكون عضوًا للاستفادة من هذا العرض؟",how_to_get_an_offer
+"كيف يمكنني الحصول على خصم الطالب؟",how_to_get_an_offer
+"هل العرض يشمل الملحقات؟",how_to_get_an_offer
+"كيف يمكنني الاشتراك في العروض الحصرية؟",how_to_get_an_offer
+"هل العرض متاح في المتجر الفعلي أيضًا؟",how_to_get_an_offer
+"ماذا يحدث إذا قمت بإرجاع عنصر من صفقة حزمة؟",how_to_get_an_offer
+"كيف يمكنني الحصول على خصم عيد الميلاد؟",how_to_get_an_offer
+"هل يمكن تحويل العرض إلى نقد؟",how_to_get_an_offer
+"كيف يمكنني معرفة وقت بدء التخفيضات؟",how_to_get_an_offer
+"هل يمكنني حجز عنصر بالسعر المعروض؟",how_to_get_an_offer
+"هل العرض يتجدد تلقائيًا؟",how_to_get_an_offer
+"كيف يمكنني إلغاء الاشتراك في العروض؟",how_to_get_an_offer
+"أعمل إيه عشان آخد العرض؟",how_to_get_an_offer
+"إزاي أستفيد من الخصم ده؟",how_to_get_an_offer
+"إيه المطلوب عشان العرض يتفعل؟",how_to_get_an_offer
+"هل لازم أشتري حاجة معينة عشان آخد العرض؟",how_to_get_an_offer
+"الكود ده بيشتغل إزاي؟",how_to_get_an_offer
+"العرض ده ليا ولا لأ؟",how_to_get_an_offer
+"شروط العرض إيه؟",how_to_get_an_offer
+"لو اشتريت بكام هاخد الشحن مجاني؟",how_to_get_an_offer
+"عرض الـ 50% ده على إيه بالظبط؟",how_to_get_an_offer
+"الهدية بتيجي إزاي؟",how_to_get_an_offer
+"هل فيه أي خدعة في العرض ده؟",how_to_get_an_offer
+"هل لازم أكون مشترك في حاجة عشان أستفيد؟",how_to_get_an_offer
+"إيه طريقة تطبيق العرض؟",how_to_get_an_offer
+"هل العرض ده ساري النهاردة بس؟",how_to_get_an_offer
+"هل أقدر أستخدم عرضين مع بعض؟",how_to_get_an_offer
+"ممكن تفاصيل أكتر عن العرض؟",how_to_get_an_offer
+"هل العرض ده أونلاين بس؟",how_to_get_an_offer
+"هل فيه كمية محدودة للعرض؟",how_to_get_an_offer
+"إزاي أضمن إني آخد العرض؟",how_to_get_an_offer
+"هل العرض لسه شغال؟",how_to_get_an_offer
+"How do I get the free shipping offer?",how_to_get_an_offer
+"What are the terms for the 'buy one, get one' deal?",how_to_get_an_offer
+"Do I need to use a specific code for this offer?",how_to_get_an_offer
+"How can I qualify for the special promotion?",how_to_get_an_offer
+"Is this offer for all customers or new ones only?",how_to_get_an_offer
+"Is there a minimum purchase to take advantage of the offer?",how_to_get_an_offer
+"How does the first-order discount work?",how_to_get_an_offer
+"How is the cashback offer applied?",how_to_get_an_offer
+"Can I combine two offers at the same time?",how_to_get_an_offer
+"Until when is this offer valid?",how_to_get_an_offer
+"Does the offer include all products?",how_to_get_an_offer
+"What are the steps to get the free gift with the order?",how_to_get_an_offer
+"Is the offer available on both the app and the website?",how_to_get_an_offer
+"Do I need to subscribe to the newsletter to get the offer?",how_to_get_an_offer
+"How can I get double loyalty points?",how_to_get_an_offer
+"Is the offer applied automatically at checkout?",how_to_get_an_offer
+"Which products are included in the sale?",how_to_get_an_offer
+"Is the offer available in all branches?",how_to_get_an_offer
+"How can I use a gift voucher?",how_to_get_an_offer
+"Does the discount offer include shipping costs?",how_to_get_an_offer
+"How can I get an invitation to the exclusive sales event?",how_to_get_an_offer
+"What are the requirements for the free upgrade offer?",how_to_get_an_offer
+"Can I gift the offer to a friend?",how_to_get_an_offer
+"How can I participate in the prize draw?",how_to_get_an_offer
+"Is the offer valid for international orders?",how_to_get_an_offer
+"How can I track my cashback status?",how_to_get_an_offer
+"Can I use my loyalty points to get this offer?",how_to_get_an_offer
+"How do I get the free sample?",how_to_get_an_offer
+"Is the offer available for cash on delivery?",how_to_get_an_offer
+"What is the return policy for items bought on offer?",how_to_get_an_offer
+"How can I refer a friend to get credit?",how_to_get_an_offer
+"Is the offer valid for one-time use only?",how_to_get_an_offer
+"How do I claim the best price guarantee?",how_to_get_an_offer
+"Does the offer apply to gift cards?",how_to_get_an_offer
+"How can I access early bird deals?",how_to_get_an_offer
+"Do I need to be a member to get this offer?",how_to_get_an_offer
+"How do I get a student discount?",how_to_get_an_offer
+"Does the offer include accessories?",how_to_get_an_offer
+"How can I sign up for exclusive offers?",how_to_get_an_offer
+"Is the offer available in the physical store as well?",how_to_get_an_offer
+"What happens if I return an item from a bundle deal?",how_to_get_an_offer
+"How do I get my birthday discount?",how_to_get_an_offer
+"Is the offer convertible to cash?",how_to_get_an_offer
+"How can I find out when the sale starts?",how_to_get_an_offer
+"Can I reserve an item at the offer price?",how_to_get_an_offer
+"Does the offer automatically renew?",how_to_get_an_offer
+"How can I unsubscribe from offers?",how_to_get_an_offer
+"أطلب إزاي من الموقع؟",how_to_place_order
+"إيه خطوات الشراء؟",how_to_place_order
+"إزاي أعمل أوردر؟",how_to_place_order
+"ممكن أطلب إزاي؟",how_to_place_order
+"هل ممكن أطلب بالتليفون؟",how_to_place_order
+"إيه طرق الدفع المتاحة؟",how_to_place_order
+"هل الدفع عند الاستلام متاح؟",how_to_place_order
+"إزاي أضيف حاجة لعربية الشرا؟",how_to_place_order
+"كيف يمكنني إتمام عملية الشراء؟",how_to_place_order
+"هل لازم أعمل حساب عشان أطلب؟",how_to_place_order
+"مش عارف أكمل الطلب، ممكن مساعدة؟",how_to_place_order
+"إزاي أتأكد إن طلبي تم بنجاح؟",how_to_place_order
+"هل يمكن إلغاء الطلب بعد تأكيده؟",how_to_place_order
+"إزاي أستخدم كود الخصم وأنا بطلب؟",how_to_place_order
+"الموقع بيعلق وأنا بعمل الطلب.",how_to_place_order
+"هل أقدر أعدل الأوردر بعد ما عملته؟",how_to_place_order
+"هل ممكن أطلب وأحد تاني يستلمه؟",how_to_place_order
+"إزاي أختار مقاسي/لوني؟",how_to_place_order
+"هل ينفع أطلب عن طريق الواتساب؟",how_to_place_order
+"ما هي المعلومات المطلوبة لتقديم طلب؟",how_to_place_order
+"هل يمكنني حفظ عربة التسوق الخاصة بي لوقت لاحق؟",how_to_place_order
+"كيف يمكنني مراجعة طلبي قبل الدفع؟",how_to_place_order
+"هل يمكنني تقديم طلب كضيف؟",how_to_place_order
+"ماذا يحدث بعد أن أقدم طلبي؟",how_to_place_order
+"هل يمكنني تحديد عنوان شحن مختلف عن عنوان الفواتير؟",how_to_place_order
+"هل يمكنني إعادة طلب طلب سابق بسهولة؟",how_to_place_order
+"كيف أزيل عنصرًا من عربة التسوق الخاصة بي؟",how_to_place_order
+"هل يمكنني طلب كميات كبيرة؟",how_to_place_order
+"كيف يمكنني تطبيق رصيد المتجر على طلبي؟",how_to_place_order
+"ما هي العملات التي تقبلونها؟",how_to_place_order
+"هل هناك حد أدنى أو أقصى للطلب؟",how_to_place_order
+"هل يمكنني إضافة ملاحظة أو تعليمات خاصة لطلبي؟",how_to_place_order
+"كيف يمكنني الحصول على فاتورة لطلبي؟",how_to_place_order
+"هل يمكنني تقديم طلب عبر وسائل التواصل الاجتماعي؟",how_to_place_order
+"هل يمكنني طلب منتجات متعددة في وقت واحد؟",how_to_place_order
+"هل أحتاج إلى تأكيد بريدي الإلكتروني لتقديم طلب؟",how_to_place_order
+"هل يمكنني طلب عينة قبل شراء كمية كبيرة؟",how_to_place_order
+"كيف يمكنني استخدام بطاقة الهدايا للدفع؟",how_to_place_order
+"هل عملية الدفع آمنة؟",how_to_place_order
+"ماذا أفعل إذا واجهت خطأ أثناء تقديم الطلب؟",how_to_place_order
+"هل يمكنني تحديد تاريخ تسليم مستقبلي عند الطلب؟",how_to_place_order
+"هل يمكنني الطلب من خارج البلاد؟",how_to_place_order
+"كيف يمكنني رؤية ملخص طلبي؟",how_to_place_order
+"هل يمكنني حفظ تفاصيل الدفع الخاصة بي للطلبات المستقبلية؟",how_to_place_order
+"كيف يمكنني التحقق من حالة الدفع الخاصة بي؟",how_to_place_order
+"هل يمكنني طلب تغليف هدايا؟",how_to_place_order
+"كيف يمكنني تتبع استهلاك ميزانيتي عند الطلب؟",how_to_place_order
+"هل يمكنني إنشاء قوائم تسوق للطلبات المتكررة؟",how_to_place_order
+"أطلب إزاي؟",how_to_place_order
+"عايز أعمل أوردر.",how_to_place_order
+"الطريقة إيه؟",how_to_place_order
+"أضيف للسلة إزاي؟",how_to_place_order
+"إزاي أشتري؟",how_to_place_order
+"ممكن أطلب من التليفون؟",how_to_place_order
+"هل فيه دفع عند الاستلام؟",how_to_place_order
+"عايز أطلب.",how_to_place_order
+"إزاي أكتب عنواني؟",how_to_place_order
+"هل لازم أكون مسجل؟",how_to_place_order
+"الويب سايت تقيل.",how_to_place_order
+"بعد ما أحط في السلة أعمل إيه؟",how_to_place_order
+"مش عارف أطلب.",how_to_place_order
+"هل ينفع أغير الأوردر؟",how_to_place_order
+"إزاي أحط كود الخصم؟",how_to_place_order
+"الدفع إيه؟",how_to_place_order
+"ممكن أطلب على الفيس؟",how_to_place_order
+"ينفع أطلب من على الواتس؟",how_to_place_order
+"إيه البيانات المطلوبة للطلب؟",how_to_place_order
+"هل ممكن حد تاني يستلم؟",how_to_place_order
+"How do I order from the website?",how_to_place_order
+"What are the purchasing steps?",how_to_place_order
+"How do I place an order?",how_to_place_order
+"How can I order?",how_to_place_order
+"Can I order by phone?",how_to_place_order
+"What are the available payment methods?",how_to_place_order
+"Is cash on delivery available?",how_to_place_order
+"How do I add something to my cart?",how_to_place_order
+"How do I complete the checkout process?",how_to_place_order
+"Do I need to create an account to order?",how_to_place_order
+"I can't complete the order, can you help?",how_to_place_order
+"How do I confirm my order was successful?",how_to_place_order
+"Can I cancel the order after confirming it?",how_to_place_order
+"How do I use a discount code while ordering?",how_to_place_order
+"The website is lagging while I'm placing the order.",how_to_place_order
+"Can I modify the order after I've placed it?",how_to_place_order
+"Can I order and have someone else receive it?",how_to_place_order
+"How do I choose my size/color?",how_to_place_order
+"Can I order via WhatsApp?",how_to_place_order
+"What information is required to place an order?",how_to_place_order
+"Can I save my shopping cart for later?",how_to_place_order
+"How can I review my order before paying?",how_to_place_order
+"Can I check out as a guest?",how_to_place_order
+"What happens after I place my order?",how_to_place_order
+"Can I set a different shipping address from the billing address?",how_to_place_order
+"Can I easily reorder a previous order?",how_to_place_order
+"How do I remove an item from my cart?",how_to_place_order
+"Can I order large quantities?",how_to_place_order
+"How do I apply store credit to my order?",how_to_place_order
+"What currencies do you accept?",how_to_place_order
+"Is there a minimum or maximum order limit?",how_to_place_order
+"Can I add a note or special instructions to my order?",how_to_place_order
+"How can I get an invoice for my order?",how_to_place_order
+"Can I place an order through social media?",how_to_place_order
+"Can I order multiple items at once?",how_to_place_order
+"Do I need to confirm my email to place an order?",how_to_place_order
+"Can I order a sample before buying in bulk?",how_to_place_order
+"How do I use a gift card to pay?",how_to_place_order
+"Is the payment process secure?",how_to_place_order
+"What should I do if I encounter an error while placing an order?",how_to_place_order
+"Can I specify a future delivery date when ordering?",how_to_place_order
+"Can I order from outside the country?",how_to_place_order
+"How can I see my order summary?",how_to_place_order
+"Can I save my payment details for future orders?",how_to_place_order
+"How can I check my payment status?",how_to_place_order
+"Can I request gift wrapping?",how_to_place_order
+"How can I track my budget when ordering?",how_to_place_order
+"Can I create shopping lists for recurring orders?",how_to_place_order
+"ليه سعر المنتج زاد؟",ask_pricing_policy
+"الأسعار عندكم ثابتة ولا بتتغير؟",ask_pricing_policy
+"سياسة التسعير عندكم إيه؟",ask_pricing_policy
+"هل أسعاركم قابلة للتغيير بدون إشعار؟",ask_pricing_policy
+"هل فيه تسعير خاص بالجملة؟",ask_pricing_policy
+"هل الضريبة مدمجة في السعر؟",ask_pricing_policy
+"هل يتم تحديث الأسعار بشكل يومي؟",ask_pricing_policy
+"هل فيه تكاليف مخفية؟",ask_pricing_policy
+"هل ممكن أطلب عرض سعر رسمي؟",ask_pricing_policy
+"هل السعر المعروض مضمون؟",ask_pricing_policy
+"سياسة التسعير للمنتجات المستوردة بتختلف؟",ask_pricing_policy
+"لو السعر نزل بعد ما اشتريت أعمل إيه؟",ask_pricing_policy
+"هل السعر قابل للتفاوض؟",ask_pricing_policy
+"هل فيه أي رسوم إضافية؟",ask_pricing_policy
+"بناءً على إيه بتحددوا الأسعار؟",ask_pricing_policy
+"هل عندكم خطط أسعار للشركات؟",ask_pricing_policy
+"هل ممكن أدفع بالتقسيط بنفس السعر؟",ask_pricing_policy
+"هل السعر ثابت في كل فروعكم؟",ask_pricing_policy
+"هل ممكن آخد فاتورة ضريبية؟",ask_pricing_policy
+"هل أسعاركم تتأثر بسعر الصرف؟",ask_pricing_policy
+"لماذا يختلف السعر على التطبيق عن الموقع؟",ask_pricing_policy
+"هل هناك سياسة لحماية الأسعار؟",ask_pricing_policy
+"ما هي العوامل التي تؤثر على أسعاركم؟",ask_pricing_policy
+"هل تقدمون أسعارًا تعليمية أو غير ربحية؟",ask_pricing_policy
+"هل السعر يشمل التركيب أو الإعداد؟",ask_pricing_policy
+"هل يمكنني الحصول على تفاصيل هيكل التسعير؟",ask_pricing_policy
+"هل هناك أي خصومات للولاء تؤثر على السعر؟",ask_pricing_policy
+"هل يمكنني تثبيت سعر لطلب مستقبلي؟",ask_pricing_policy
+"كيف يمكنني الإبلاغ عن تناقض في الأسعار؟",ask_pricing_policy
+"هل تختلف الأسعار حسب المنطقة أو البلد؟",ask_pricing_policy
+"هل هناك أي تكاليف اشتراك؟",ask_pricing_policy
+"ما هي سياستكم بشأن مطابقة أسعار المنافسين؟",ask_pricing_policy
+"هل السعر المعروض هو سعر البيع بالتجزئة المقترح من الشركة المصنعة؟",ask_pricing_policy
+"هل يتم الإعلان عن تغييرات الأسعار مسبقًا؟",ask_pricing_policy
+"هل هناك أي تكاليف مرتبطة بطرق دفع معينة؟",ask_pricing_policy
+"هل يتغير السعر إذا قمت بتخصيص المنتج؟",ask_pricing_policy
+"هل يمكنني الحصول على خصم على طلب كبير؟",ask_pricing_policy
+"هل أسعاركم شاملة لجميع الرسوم؟",ask_pricing_policy
+"ماذا لو وجدت خطأ في السعر على الموقع؟",ask_pricing_policy
+"هل هناك أي فترات تجميد للأسعار؟",ask_pricing_policy
+"هل يمكنني الدفع بعملة مختلفة؟",ask_pricing_policy
+"هل هناك أي رسوم إلغاء تؤثر على السعر المسترد؟",ask_pricing_policy
+"هل تقدمون أسعارًا متدرجة؟",ask_pricing_policy
+"هل السعر يشمل الدعم الفني؟",ask_pricing_policy
+"هل هناك أي تكاليف صيانة مستمرة؟",ask_pricing_policy
+"هل يمكنني الحصول على شرح لتفاصيل الفاتورة؟",ask_pricing_policy
+"هل هناك أي برامج تسعير خاصة للشركاء؟",ask_pricing_policy
+"كيف يمكنني التأكد من شفافية الأسعار؟",ask_pricing_policy
+"هو السعر زاد ليه؟",ask_pricing_policy
+"أسعاركم بتتغير كل شوية؟",ask_pricing_policy
+"إيه نظامكم في الأسعار؟",ask_pricing_policy
+"هل سعر الجملة مختلف؟",ask_pricing_policy
+"الأسعار دي شاملة الضريبة؟",ask_pricing_policy
+"مفيش تكاليف تانية هتظهر؟",ask_pricing_policy
+"لو السعر قل بعد ما أشتري، ليا فرق؟",ask_pricing_policy
+"هل فيه فصال؟",ask_pricing_policy
+"إيه سبب تغيير السعر ده؟",ask_pricing_policy
+"هل فيه تسعير خاص للشركات؟",ask_pricing_policy
+"أسعاركم واحدة في كل حتة؟",ask_pricing_policy
+"ممكن فاتورة ضريبية؟",ask_pricing_policy
+"سعر الدولار بيأثر على أسعاركم؟",ask_pricing_policy
+"ليه السعر هنا غير هناك؟",ask_pricing_policy
+"هل بتعملوا price protection؟",ask_pricing_policy
+"هل فيه أي مصاريف إضافية؟",ask_pricing_policy
+"السعر ده شامل إيه بالظبط؟",ask_pricing_policy
+"هل ممكن أثبت السعر ده؟",ask_pricing_policy
+"ليه سعر المنتج ده بيتغير؟",ask_pricing_policy
+"لو لقيت سعر غلط أعمل إيه؟",ask_pricing_policy
+"Why did the product's price increase?",ask_pricing_policy
+"Are your prices fixed or do they change?",ask_pricing_policy
+"What is your pricing policy?",ask_pricing_policy
+"Are your prices subject to change without notice?",ask_pricing_policy
+"Is there special pricing for wholesale?",ask_pricing_policy
+"Is tax included in the price?",ask_pricing_policy
+"Are prices updated daily?",ask_pricing_policy
+"Are there any hidden costs?",ask_pricing_policy
+"Can I request an official price quote?",ask_pricing_policy
+"Is the displayed price guaranteed?",ask_pricing_policy
+"Does the pricing policy differ for imported products?",ask_pricing_policy
+"What if the price drops after I buy?",ask_pricing_policy
+"Is the price negotiable?",ask_pricing_policy
+"Are there any additional fees?",ask_pricing_policy
+"On what basis do you determine prices?",ask_pricing_policy
+"Do you have pricing plans for businesses?",ask_pricing_policy
+"Can I pay in installments at the same price?",ask_pricing_policy
+"Is the price the same in all your branches?",ask_pricing_policy
+"Can I get a tax invoice?",ask_pricing_policy
+"Are your prices affected by exchange rates?",ask_pricing_policy
+"Why does the price on the app differ from the website?",ask_pricing_policy
+"Is there a price protection policy?",ask_pricing_policy
+"What factors influence your prices?",ask_pricing_policy
+"Do you offer educational or non-profit pricing?",ask_pricing_policy
+"Does the price include installation or setup?",ask_pricing_policy
+"Can I get a breakdown of the pricing structure?",ask_pricing_policy
+"Are there any loyalty discounts that affect the price?",ask_pricing_policy
+"Can I lock in a price for a future order?",ask_pricing_policy
+"How do I report a pricing discrepancy?",ask_pricing_policy
+"Do prices differ by region or country?",ask_pricing_policy
+"Are there any subscription costs?",ask_pricing_policy
+"What is your policy on matching competitor prices?",ask_pricing_policy
+"Is the displayed price the MSRP?",ask_pricing_policy
+"Are price changes announced in advance?",ask_pricing_policy
+"Are there any costs associated with certain payment methods?",ask_pricing_policy
+"Does the price change if I customize the product?",ask_pricing_policy
+"Can I get a discount on a large order?",ask_pricing_policy
+"Are your prices all-inclusive?",ask_pricing_policy
+"What if I find a pricing error on the website?",ask_pricing_policy
+"Are there any price freeze periods?",ask_pricing_policy
+"Can I pay in a different currency?",ask_pricing_policy
+"Are there any cancellation fees that affect the refunded price?",ask_pricing_policy
+"Do you offer tiered pricing?",ask_pricing_policy
+"Does the price include technical support?",ask_pricing_policy
+"Are there any ongoing maintenance costs?",ask_pricing_policy
+"Can I get a breakdown of the invoice details?",ask_pricing_policy
+"Are there any special pricing programs for partners?",ask_pricing_policy
+"How can I ensure price transparency?",ask_pricing_policy
+"إيه هي سياسة الإرجاع والاستبدال؟",ask_return_policy
+"لو المنتج مش عاجبني أقدر أرجعه؟",ask_return_policy
+"معايا كام يوم عشان أرجع الأوردر؟",ask_return_policy
+"هل الاستبدال متاح؟",ask_return_policy
+"إيه شروط إرجاع المنتج؟",ask_return_policy
+"هل الإرجاع مجاني؟",ask_return_policy
+"إزاي أبدأ عملية الإرجاع؟",ask_return_policy
+"هل ممكن أرجع منتج مفتوح؟",ask_return_policy
+"الفلوس هترجعلي إزاي وامتى؟",ask_return_policy
+"هل فيه منتجات مينفعش أرجعها؟",ask_return_policy
+"مين بيتحمل تكلفة شحن الإرجاع؟",ask_return_policy
+"هل لازم يكون معايا الفاتورة عشان أرجع؟",ask_return_policy
+"إيه الإجراء لو المنتج وصلني تالف؟",ask_return_policy
+"هل يمكنني إرجاع جزء من الطلب؟",ask_return_policy
+"هل يمكن استبدال المنتج بمنتج آخر؟",ask_return_policy
+"ما هي مدة عملية استرداد المبلغ؟",ask_return_policy
+"هل يمكن إرجاع المنتجات المشتراة في فترة العروض؟",ask_return_policy
+"هل يمكنني إرجاع المنتج في أي فرع؟",ask_return_policy
+"ماذا أفعل إذا فقدت عبوة المنتج الأصلية؟",ask_return_policy
+"هل هناك أي رسوم إعادة تخزين؟",ask_return_policy
+"هل يمكن إرجاع بطاقات الهدايا؟",ask_return_policy
+"كيف يمكنني تتبع حالة طلب الإرجاع الخاص بي؟",ask_return_policy
+"ماذا لو تأخرت عن فترة الإرجاع؟",ask_return_policy
+"هل يمكنني إلغاء طلب الإرجاع؟",ask_return_policy
+"هل يمكن استرداد المبلغ على طريقة دفع مختلفة؟",ask_return_policy
+"هل يمكن إرجاع المنتجات الرقمية؟",ask_return_policy
+"ما هي سياسة الضمان للمنتجات؟",ask_return_policy
+"هل أحتاج إلى رقم ترخيص إرجاع (RMA)؟",ask_return_policy
+"كيف يتم فحص المنتجات المرتجعة؟",ask_return_policy
+"هل يمكن استبدال منتج معيب بدلاً من إرجاعه؟",ask_return_policy
+"ما هي سياسة الإرجاع للطلبات الدولية؟",ask_return_policy
+"هل يمكن إرجاع المنتجات القابلة للتلف؟",ask_return_policy
+"ماذا يحدث إذا تم رفض طلب الإرجاع الخاص بي؟",ask_return_policy
+"هل يمكنني إرجاع هدية؟",ask_return_policy
+"هل يمكن استبدال منتج بحجم أو لون مختلف؟",ask_return_policy
+"هل يمكن استرداد المبلغ كرصيد في المتجر؟",ask_return_policy
+"هل سياسة الإرجاع تختلف خلال العطلات؟",ask_return_policy
+"كيف يتم التعامل مع المنتجات المفقودة أثناء شحن الإرجاع؟",ask_return_policy
+"هل يمكنني إرجاع منتج بدون إيصال؟",ask_return_policy
+"ما هي المستندات المطلوبة لعملية الإرجاع؟",ask_return_policy
+"هل يمكنني الحصول على ملصق شحن إرجاع مدفوع مسبقًا؟",ask_return_policy
+"هل هناك أي استثناءات لسياسة الإرجاع؟",ask_return_policy
+"هل يمكن إرجاع العناصر المخصصة؟",ask_return_policy
+"كم من الوقت يستغرق معالجة طلب الاستبدال؟",ask_return_policy
+"هل يمكن إرجاع المنتجات التي تم شراؤها ببطاقة هدايا؟",ask_return_policy
+"هل يمكنني التحدث إلى شخص ما حول مشكلة في الإرجاع؟",ask_return_policy
+"ما هي سياسة الإرجاع الخاصة بكم للمنتجات السائبة؟",ask_return_policy
+"هل يمكنني إرجاع عنصر تم تجميعه؟",ask_return_policy
+"عايز أرجع حاجة، إيه النظام؟",ask_return_policy
+"لو حبيت أرجع الأوردر أعمل إيه؟",ask_return_policy
+"فترة السماح للترجيع قد إيه؟",ask_return_policy
+"ينفع أبدل المنتج؟",ask_return_policy
+"إيه شروطكم في الترجيع؟",ask_return_policy
+"الترجيع ببلاش؟",ask_return_policy
+"إزاي أعمل طلب إرجاع؟",ask_return_policy
+"لو فتحت العلبة، ينفع أرجعها؟",ask_return_policy
+"الفلوس هترجعلي إزاي؟",ask_return_policy
+"إيه الحاجات اللي مبتترجعش؟",ask_return_policy
+"مين بيدفع شحن المرتجع؟",ask_return_policy
+"لازم الفاتورة تكون معايا؟",ask_return_policy
+"الحاجة وصلت بايظة، أرجعها إزاي؟",ask_return_policy
+"هل ممكن أرجع حاجة واحدة من الأوردر؟",ask_return_policy
+"هل ينفع أبدل بحاجة تانية؟",ask_return_policy
+"الفلوس هترجع بعد كام يوم؟",ask_return_policy
+"حاجات العروض بترجع؟",ask_return_policy
+"أرجعها في أي فرع؟",ask_return_policy
+"العلبة ضاعت، ينفع أرجع؟",ask_return_policy
+"هل فيه أي مصاريف على الترجيع؟",ask_return_policy
+"What is your return and exchange policy?",ask_return_policy
+"If I don't like the product, can I return it?",ask_return_policy
+"How many days do I have to return an order?",ask_return_policy
+"Is exchange available?",ask_return_policy
+"What are the conditions for returning a product?",ask_return_policy
+"Is the return free?",ask_return_policy
+"How do I initiate a return?",ask_return_policy
+"Can I return an opened product?",ask_return_policy
+"How and when will I get my money back?",ask_return_policy
+"Are there any non-returnable products?",ask_return_policy
+"Who bears the cost of return shipping?",ask_return_policy
+"Do I need the invoice to make a return?",ask_return_policy
+"What should I do if the product arrived damaged?",ask_return_policy
+"Can I return part of an order?",ask_return_policy
+"Can I exchange the product for another one?",ask_return_policy
+"How long does the refund process take?",ask_return_policy
+"Can products purchased during sales be returned?",ask_return_policy
+"Can I return the product to any branch?",ask_return_policy
+"What if I lost the original product packaging?",ask_return_policy
+"Are there any restocking fees?",ask_return_policy
+"Can gift cards be returned?",ask_return_policy
+"How can I track the status of my return request?",ask_return_policy
+"What if I miss the return window?",ask_return_policy
+"Can I cancel a return request?",ask_return_policy
+"Can the refund be issued to a different payment method?",ask_return_policy
+"Can digital products be returned?",ask_return_policy
+"What is the warranty policy for products?",ask_return_policy
+"Do I need a Return Merchandise Authorization (RMA) number?",ask_return_policy
+"How are returned products inspected?",ask_return_policy
+"Can a defective product be replaced instead of returned?",ask_return_policy
+"What is the return policy for international orders?",ask_return_policy
+"Can perishable products be returned?",ask_return_policy
+"What happens if my return request is rejected?",ask_return_policy
+"Can I return a gift?",ask_return_policy
+"Can a product be exchanged for a different size or color?",ask_return_policy
+"Can the refund be issued as store credit?",ask_return_policy
+"Does the return policy differ during the holidays?",ask_return_policy
+"How are products lost during return shipping handled?",ask_return_policy
+"Can I return a product without a receipt?",ask_return_policy
+"What documents are required for the return process?",ask_return_policy
+"Can I get a prepaid return shipping label?",ask_return_policy
+"Are there any exceptions to the return policy?",ask_return_policy
+"Can customized items be returned?",ask_return_policy
+"How long does it take to process an exchange?",ask_return_policy
+"Can items purchased with a gift card be returned?",ask_return_policy
+"Can I speak to someone about a return issue?",ask_return_policy
+"What is your return policy for bulk items?",ask_return_policy
+"Can I return an assembled item?",ask_return_policy
+"هل بتوصلوا لكل المحافظات؟",ask_delivery_options
+"إيه هي مناطق التوصيل المتاحة؟",ask_delivery_options
+"مدة الشحن المتوقعة كام؟",ask_delivery_options
+"لو طلبت النهاردة يوصل خلال كام يوم؟",ask_delivery_options
+"مواعيد التوصيل عندكم من كام لكام؟",ask_delivery_options
+"هل فيه شحن للمناطق البعيدة؟",ask_delivery_options
+"هل يمكن الشحن إلى أسوان؟",ask_delivery_options
+"الشحن السريع بياخد وقت أد إيه؟",ask_delivery_options
+"هل التوصيل بيكون في نفس اليوم؟",ask_delivery_options
+"أسرع وقت ممكن للتوصيل كام يوم؟",ask_delivery_options
+"هل فيه إمكانية للاستلام من الفرع؟",ask_delivery_options
+"لو طلبت يوم الجمعة، الشحن بيبدأ امتى؟",ask_delivery_options
+"ما هي خيارات الشحن المتاحة؟",ask_delivery_options
+"هل يمكن تحديد وقت معين للتوصيل؟",ask_delivery_options
+"بتتعاملوا مع شركة شحن إيه؟",ask_delivery_options
+"هل فيه توصيل خلال الإجازات الرسمية؟",ask_delivery_options
+"هل بتوصلوا خارج مصر؟",ask_delivery_options
+"ما هي سياسة الشحن بتاعتكم؟",ask_delivery_options
+"هل يمكنني تتبع السائق في الوقت الفعلي؟",ask_delivery_options
+"هل تقدمون خدمة التوصيل في عطلات نهاية الأسبوع؟",ask_delivery_options
+"هل يمكنني تغيير عنواني بعد شحن الطلب؟",ask_delivery_options
+"ما هي أوقات قطع الطلبات للتسليم في نفس اليوم؟",ask_delivery_options
+"هل هناك أي قيود على التوصيل لبعض المنتجات؟",ask_delivery_options
+"هل تقومون بالتوصيل إلى صناديق البريد؟",ask_delivery_options
+"هل يمكنني طلب توصيل بدون تلامس؟",ask_delivery_options
+"هل تقدمون خدمة الشحن الدولي؟",ask_delivery_options
+"ما هي مدة التوصيل القياسية؟",ask_delivery_options
+"هل يمكنني اختيار شركة الشحن؟",ask_delivery_options
+"هل هناك أي تأخير حالي في عمليات التوصيل؟",ask_delivery_options
+"ماذا يحدث إذا لم أكن في المنزل عند محاولة التوصيل؟",ask_delivery_options
+"هل يمكنني الحصول على إشعار قبل وصول السائق؟",ask_delivery_options
+"هل يمكن لشخص آخر استلام شحنتي؟",ask_delivery_options
+"هل تقومون بالتوصيل إلى عناوين الشركات؟",ask_delivery_options
+"هل هناك أي مناطق لا تغطونها؟",ask_delivery_options
+"هل يمكنني دمج طلبات متعددة في شحنة واحدة؟",ask_delivery_options
+"هل تقدمون خدمة التوصيل المجدول؟",ask_delivery_options
+"هل يمكنني طلب تغليف هدايا؟",ask_delivery_options
+"ما هي سياسة التوقيع عند التسليم؟",ask_delivery_options
+"هل يمكنني ترك تعليمات خاصة للسائق؟",ask_delivery_options
+"هل يمكنني الاستلام من نقطة تجميع؟",ask_delivery_options
+"ما هي خيارات التوصيل الصديقة للبيئة لديكم؟",ask_delivery_options
+"هل هناك أي رسوم إضافية للتوصيل في المساء؟",ask_delivery_options
+"هل يمكنني الحصول على إثبات التسليم؟",ask_delivery_options
+"كيف يتم التعامل مع الشحنات المفقودة أو التالفة؟",ask_delivery_options
+"هل يمكنني تحديد جيران لاستلام الطرد الخاص بي؟",ask_delivery_options
+"هل هناك أي قيود على حجم أو وزن التوصيل؟",ask_delivery_options
+"ما هي أسرع طريقة توصيل لديكم؟",ask_delivery_options
+"هل يمكنني تحديد نافذة زمنية للتوصيل؟",ask_delivery_options
+"بتوصلوا فين؟",ask_delivery_options
+"التوصيل بياخد وقت قد إيه؟",ask_delivery_options
+"هل فيه توصيل لـ [اسم منطقة]؟",ask_delivery_options
+"إيه نظام التوصيل عندكم؟",ask_delivery_options
+"مواعيد التوصيل إيه؟",ask_delivery_options
+"لو طلبت دلوقتي يوصل امتى؟",ask_delivery_options
+"بتوصلوا في نفس اليوم؟",ask_delivery_options
+"ممكن أستلم من عندكم؟",ask_delivery_options
+"إيه شركات الشحن اللي بتشتغلوا معاها؟",ask_delivery_options
+"بتوصلوا في الويك إند؟",ask_delivery_options
+"هل فيه توصيل سريع؟",ask_delivery_options
+"عندكم توصيل لكل حتة؟",ask_delivery_options
+"هل أقدر أحدد معاد معين يجيلي فيه الأوردر؟",ask_delivery_options
+"التوصيل لحد الساعة كام؟",ask_delivery_options
+"بتغطوا مصر كلها؟",ask_delivery_options
+"هل فيه توصيل بالليل؟",ask_delivery_options
+"هل أقدر أختار شركة الشحن؟",ask_delivery_options
+"التوصيل بيتم إزاي؟",ask_delivery_options
+"فيه أي مشاكل في التوصيل اليومين دول؟",ask_delivery_options
+"بتوصلوا لكل المحافظات ولا لأ؟",ask_delivery_options
+"Do you deliver to all governorates?",ask_delivery_options
+"What are the available delivery areas?",ask_delivery_options
+"What is the expected shipping time?",ask_delivery_options
+"If I order today, how many days will it take to arrive?",ask_delivery_options
+"What are your delivery hours?",ask_delivery_options
+"Do you ship to remote areas?",ask_delivery_options
+"Can you ship to Aswan?",ask_delivery_options
+"How long does express shipping take?",ask_delivery_options
+"Is same-day delivery available?",ask_delivery_options
+"What's the fastest possible delivery time?",ask_delivery_options
+"Is it possible to pick up from the branch?",ask_delivery_options
+"If I order on a Friday, when does shipping start?",ask_delivery_options
+"What are the available shipping options?",ask_delivery_options
+"Can a specific time for delivery be set?",ask_delivery_options
+"What shipping company do you work with?",ask_delivery_options
+"Is there delivery during public holidays?",ask_delivery_options
+"Do you deliver outside of Egypt?",ask_delivery_options
+"What is your shipping policy?",ask_delivery_options
+"Can I track the driver in real-time?",ask_delivery_options
+"Do you offer weekend delivery?",ask_delivery_options
+"Can I change my address after the order has been shipped?",ask_delivery_options
+"What are the cut-off times for same-day delivery?",ask_delivery_options
+"Are there any delivery restrictions on certain products?",ask_delivery_options
+"Do you deliver to P.O. boxes?",ask_delivery_options
+"Can I request a contactless delivery?",ask_delivery_options
+"Do you offer international shipping?",ask_delivery_options
+"What is the standard delivery timeframe?",ask_delivery_options
+"Can I choose the shipping carrier?",ask_delivery_options
+"Are there any current delays in deliveries?",ask_delivery_options
+"What happens if I'm not home for the delivery attempt?",ask_delivery_options
+"Can I get a notification before the driver arrives?",ask_delivery_options
+"Can someone else receive my shipment?",ask_delivery_options
+"Do you deliver to business addresses?",ask_delivery_options
+"Are there any areas you don't cover?",ask_delivery_options
+"Can I combine multiple orders into one shipment?",ask_delivery_options
+"Do you offer scheduled delivery service?",ask_delivery_options
+"Can I request gift wrapping?",ask_delivery_options
+"What is the signature on delivery policy?",ask_delivery_options
+"Can I leave special instructions for the driver?",ask_delivery_options
+"Can I pick up from a collection point?",ask_delivery_options
+"What are your eco-friendly delivery options?",ask_delivery_options
+"Is there an extra charge for evening delivery?",ask_delivery_options
+"Can I get proof of delivery?",ask_delivery_options
+"How are lost or damaged shipments handled?",ask_delivery_options
+"Can I specify a neighbor to receive my parcel?",ask_delivery_options
+"Are there any size or weight restrictions for delivery?",ask_delivery_options
+"What is your fastest delivery method?",ask_delivery_options
+"Can I specify a delivery time window?",ask_delivery_options
+"عندكم أبلكيشن على الموبايل؟",ask_about_app
+"ليكم تطبيق على جوجل بلاي أو أبل ستور؟",ask_about_app
+"إزاي أنزل التطبيق بتاعكم؟",ask_about_app
+"التطبيق مش بيشتغل عندي، إيه الحل؟",ask_about_app
+"هل التطبيق مجاني؟",ask_about_app
+"هل فيه عروض خاصة لمستخدمي التطبيق؟",ask_about_app
+"التطبيق آمن؟",ask_about_app
+"إزاي أفعل الإشعارات في التطبيق؟",ask_about_app
+"هل أقدر أتابع طلبي من التطبيق؟",ask_about_app
+"التطبيق بيهنج كتير، فيه تحديث جديد؟",ask_about_app
+"نسيت كلمة السر على التطبيق، أعمل إيه؟",ask_about_app
+"هل أقدر أحفظ بيانات الدفع على التطبيق؟",ask_about_app
+"إيه أقل إصدار أندرويد/iOS بيشتغل عليه؟",ask_about_app
+"هل التطبيق بيدعم الوضع الليلي؟",ask_about_app
+"مش عارف أعمل لوجين من التطبيق.",ask_about_app
+"إيه مميزات التطبيق عن الموقع؟",ask_about_app
+"هل التطبيق فيه عربي؟",ask_about_app
+"كيف يمكنني تحديث التطبيق؟",ask_about_app
+"هل يمكنني استخدام التطبيق بدون اتصال بالإنترنت؟",ask_about_app
+"كيف يمكنني مسح ذاكرة التخزين المؤقت للتطبيق؟",ask_about_app
+"هل التطبيق يستهلك الكثير من بيانات الهاتف؟",ask_about_app
+"كيف يمكنني تقديم ملاحظات حول التطبيق؟",ask_about_app
+"هل هناك أي ميزات قادمة للتطبيق؟",ask_about_app
+"كيف يمكنني تخصيص إعدادات التطبيق؟",ask_about_app
+"هل يمكنني مزامنة بياناتي بين أجهزة متعددة؟",ask_about_app
+"هل التطبيق متاح على الأجهزة اللوحية؟",ask_about_app
+"كيف يمكنني حذف حسابي من خلال التطبيق؟",ask_about_app
+"هل يمكنني إدارة اشتراكي من التطبيق؟",ask_about_app
+"هل هناك نسخة ويب من التطبيق؟",ask_about_app
+"كيف يمكنني الإبلاغ عن خطأ في التطبيق؟",ask_about_app
+"هل التطبيق يستخدم خدمات الموقع؟",ask_about_app
+"كيف يمكنني إيقاف تشغيل التحديثات التلقائية؟",ask_about_app
+"هل يمكنني تغيير اللغة في التطبيق؟",ask_about_app
+"ما هي الأذونات التي يحتاجها التطبيق؟",ask_about_app
+"هل هناك أي دروس تعليمية لاستخدام التطبيق؟",ask_about_app
+"كيف يمكنني إنشاء اختصار للتطبيق على شاشتي الرئيسية؟",ask_about_app
+"هل يمكنني استخدام Touch ID أو Face ID لتسجيل الدخول؟",ask_about_app
+"هل التطبيق متوافق مع قارئات الشاشة؟",ask_about_app
+"كيف يمكنني البحث عن منتجات داخل التطبيق؟",ask_about_app
+"هل يمكنني الوصول إلى سجل طلباتي في التطبيق؟",ask_about_app
+"كيف يمكنني إدارة قائمة أمنياتي؟",ask_about_app
+"هل يمكنني مشاركة المنتجات من التطبيق؟",ask_about_app
+"كيف يمكنني مسح سجل البحث الخاص بي؟",ask_about_app
+"هل هناك أي بيض عيد الفصح مخفي في التطبيق؟",ask_about_app
+"هل التطبيق متاح في منطقتي؟",ask_about_app
+"كيف يمكنني إعادة تعيين تفضيلات التطبيق؟",ask_about_app
+"هل يمكنني استخدام التطبيق في الوضع الأفقي؟",ask_about_app
+"كيف يمكنني الحصول على دعم فني للتطبيق؟",ask_about_app
+"عندكم أبلكيشن؟",ask_about_app
+"الأبلكيشن بتاعكم اسمه إيه؟",ask_about_app
+"أنزله منين؟",ask_about_app
+"هو الأبلكيشن ببلاش؟",ask_about_app
+"فيه خصومات على الأبلكيشن؟",ask_about_app
+"الأبلكيشن تقيل؟",ask_about_app
+"مش بيفتح معايا.",ask_about_app
+"إزاي أعمل إشعارات؟",ask_about_app
+"ممكن أتابع الأوردر من عليه؟",ask_about_app
+"بيهنج.",ask_about_app
+"عايز أرجع الباسورد.",ask_about_app
+"فيه dark mode؟",ask_about_app
+"مش عارف أدخل على حسابي.",ask_about_app
+"إيه الفرق بينه وبين الويب سايت؟",ask_about_app
+"هل فيه عربي؟",ask_about_app
+"أحدثه إزاي؟",ask_about_app
+"بيسحب نت كتير؟",ask_about_app
+"إزاي أبلغ عن مشكلة فيه؟",ask_about_app
+"هل فيه features جاية؟",ask_about_app
+"إيه الصلاحيات اللي بيطلبها؟",ask_about_app
+"Do you have a mobile app?",ask_about_app
+"Do you have an app on Google Play or the App Store?",ask_about_app
+"How do I download your app?",ask_about_app
+"The app isn't working for me, what's the solution?",ask_about_app
+"Is the app free?",ask_about_app
+"Are there special offers for app users?",ask_about_app
+"Is the app secure?",ask_about_app
+"How do I enable notifications in the app?",ask_about_app
+"Can I track my order from the app?",ask_about_app
+"The app crashes a lot, is there a new update?",ask_about_app
+"I forgot my password on the app, what should I do?",ask_about_app
+"Can I save my payment details on the app?",ask_about_app
+"What's the minimum Android/iOS version it runs on?",ask_about_app
+"Does the app support dark mode?",ask_about_app
+"I can't log in from the app.",ask_about_app
+"What are the advantages of the app over the website?",ask_about_app
+"Does the app support English?",ask_about_app
+"How can I update the app?",ask_about_app
+"Can I use the app offline?",ask_about_app
+"How do I clear the app's cache?",ask_about_app
+"Does the app consume a lot of mobile data?",ask_about_app
+"How can I provide feedback on the app?",ask_about_app
+"Are there any upcoming features for the app?",ask_about_app
+"How can I customize the app's settings?",ask_about_app
+"Can I sync my data across multiple devices?",ask_about_app
+"Is the app available on tablets?",ask_about_app
+"How do I delete my account through the app?",ask_about_app
+"Can I manage my subscription from the app?",ask_about_app
+"Is there a web version of the app?",ask_about_app
+"How do I report a bug in the app?",ask_about_app
+"Does the app use location services?",ask_about_app
+"How do I turn off automatic updates?",ask_about_app
+"Can I change the language in the app?",ask_about_app
+"What permissions does the app require?",ask_about_app
+"Are there any tutorials for using the app?",ask_about_app
+"How do I create a shortcut for the app on my home screen?",ask_about_app
+"Can I use Touch ID or Face ID to log in?",ask_about_app
+"Is the app compatible with screen readers?",ask_about_app
+"How do I search for products within the app?",ask_about_app
+"Can I access my order history in the app?",ask_about_app
+"How do I manage my wishlist?",ask_about_app
+"Can I share products from the app?",ask_about_app
+"How do I clear my search history?",ask_about_app
+"Are there any hidden easter eggs in the app?",ask_about_app
+"Is the app available in my region?",ask_about_app
+"How do I reset the app's preferences?",ask_about_app
+"Can I use the app in landscape mode?",ask_about_app
+"How do I get technical support for the app?",ask_about_app
+"المنتج وصلني مكسور، أعمل إيه؟",request_customer_support
+"عندي مشكلة في الطلب.",request_customer_support
+"إزاي أقدم شكوى؟",request_customer_support
+"اتخصم مني مبلغ غلط.",request_customer_support
+"الأوردر وصل ناقص.",request_customer_support
+"كود الخصم مش شغال.",request_customer_support
+"المنتج اللي وصلني غير اللي طلبته.",request_customer_support
+"الموقع مش بيفتح معايا.",request_customer_support
+"مندوب التوصيل كان غير مهذب.",request_customer_support
+"عايز أبلغ عن مشكلة.",request_customer_support
+"الدفع اترفض بالرغم إن الكارت بتاعي سليم.",request_customer_support
+"لم أستلم رسالة تأكيد الطلب.",request_customer_support
+"التطبيق بيقفل لوحده.",request_customer_support
+"وصلني منتج بتاريخ صلاحية منتهي.",request_customer_support
+"لا أستطيع تسجيل الدخول إلى حسابي.",request_customer_support
+"تم خصم المبلغ مرتين.",request_customer_support
+"الشحنة ضاعت.",request_customer_support
+"أواجه مشكلة فنية.",request_customer_support
+"أحتاج مساعدة في حل مشكلة.",request_customer_support
+"المنتج مختلف عن الوصف.",request_customer_support
+"الفاتورة فيها مبلغ زيادة.",request_customer_support
+"تم إلغاء طلبي بدون سبب.",request_customer_support
+"لم يتم استرداد المبلغ المستحق لي.",request_customer_support
+"أريد تصعيد شكوى.",request_customer_support
+"تم رفض طلب الإرجاع الخاص بي.",request_customer_support
+"المنتج اللي وصل جودته سيئة.",request_customer_support
+"الهدية اللي مع الأوردر موصلتش.",request_customer_support
+"لا يمكنني تطبيق نقاط الولاء الخاصة بي.",request_customer_support
+"أريد الإبلاغ عن سلوك غير لائق من موظف.",request_customer_support
+"وصلني طلب ليس لي.",request_customer_support
+"المعلومات على الموقع مضللة.",request_customer_support
+"أحتاج إلى مساعدة عاجلة.",request_customer_support
+"لا يمكنني تحديث معلوماتي الشخصية.",request_customer_support
+"هناك خطأ في الفوترة.",request_customer_support
+"تم تسليم طلبي إلى عنوان خاطئ.",request_customer_support
+"أريد التحدث إلى مشرف.",request_customer_support
+"المنتج تسبب لي في حساسية.",request_customer_support
+"التغليف كان سيئًا والمنتجات تضررت.",request_customer_support
+"أريد إلغاء طلبي ولكن لا يوجد خيار لذلك.",request_customer_support
+"الرابط الذي أرسلتموه لا يعمل.",request_customer_support
+"لم أتلق أي رد من خدمة العملاء.",request_customer_support
+"هناك مشكلة أمنية في حسابي.",request_customer_support
+"أريد الإبلاغ عن منتج مقلد.",request_customer_support
+"الأسعار المعروضة غير صحيحة.",request_customer_support
+"لا يمكنني الوصول إلى سجل طلباتي.",request_customer_support
+"أعتقد أن حسابي قد تم اختراقه.",request_customer_support
+"الخدمة كانت سيئة للغاية.",request_customer_support
+"أريد أن أقدم شكوى رسمية.",request_customer_support
+"أحتاج مساعدة في مشكلة معقدة.",request_customer_support
+"عندي مشكلة.",request_customer_support
+"محتاج مساعدة.",request_customer_support
+"أعمل إيه لو الحاجة وصلت بايظة؟",request_customer_support
+"الأوردر فيه حاجة ناقصة.",request_customer_support
+"الكوبون مش عايز يشتغل.",request_customer_support
+"وصلني أوردر غلط.",request_customer_support
+"السايت واقع.",request_customer_support
+"عايز أشتكي المندوب.",request_customer_support
+"مش عارف أدفع بالفيزا.",request_customer_support
+"مجيش إيميل تأكيد.",request_customer_support
+"الأبلكيشن بيقفل.",request_customer_support
+"الحاجة اللي وصلت منتهية الصلاحية.",request_customer_support
+"مش عارف أعمل لوجين.",request_customer_support
+"اتخصم مني الفلوس مرتين.",request_customer_support
+"الشحنة بتاعتي ضاعت.",request_customer_support
+"المنتج مش زي الصورة.",request_customer_support
+"الفاتورة فيها فلوس زيادة.",request_customer_support
+"الأوردر اتلغى لوحده.",request_customer_support
+"فلوسي مرجعتش.",request_customer_support
+"جودة المنتج وحشة أوي.",request_customer_support
+"I received a broken item, what should I do?",request_customer_support
+"I have a problem with my order.",request_customer_support
+"How do I file a complaint?",request_customer_support
+"I was charged the wrong amount.",request_customer_support
+"My order arrived with missing items.",request_customer_support
+"The discount code is not working.",request_customer_support
+"I received the wrong product.",request_customer_support
+"The website is not loading for me.",request_customer_support
+"The delivery driver was rude.",request_customer_support
+"I want to report an issue.",request_customer_support
+"My payment was declined even though my card is fine.",request_customer_support
+"I did not receive an order confirmation email.",request_customer_support
+"The app keeps crashing.",request_customer_support
+"I received an expired product.",request_customer_support
+"I can't log in to my account.",request_customer_support
+"I was charged twice.",request_customer_support
+"My shipment is lost.",request_customer_support
+"I'm facing a technical issue.",request_customer_support
+"I need help resolving a problem.",request_customer_support
+"The product doesn't match the description.",request_customer_support
+"The invoice has an extra charge.",request_customer_support
+"My order was canceled for no reason.",request_customer_support
+"I haven't received my refund.",request_customer_support
+"I want to escalate a complaint.",request_customer_support
+"My return request was denied.",request_customer_support
+"The quality of the product I received is poor.",request_customer_support
+"The free gift with my order didn't arrive.",request_customer_support
+"I can't apply my loyalty points.",request_customer_support
+"I want to report inappropriate behavior from an employee.",request_customer_support
+"I received an order that isn't mine.",request_customer_support
+"The information on the website is misleading.",request_customer_support
+"I need urgent assistance.",request_customer_support
+"I can't update my personal information.",request_customer_support
+"There's a billing error.",request_customer_support
+"My order was delivered to the wrong address.",request_customer_support
+"I want to speak to a supervisor.",request_customer_support
+"The product caused me an allergic reaction.",request_customer_support
+"The packaging was poor and the products were damaged.",request_customer_support
+"I want to cancel my order but there's no option.",request_customer_support
+"The link you sent me is not working.",request_customer_support
+"I haven't received any response from customer service.",request_customer_support
+"There's a security issue with my account.",request_customer_support
+"I want to report a counterfeit product.",request_customer_support
+"The prices displayed are incorrect.",request_customer_support
+"I can't access my order history.",request_customer_support
+"I think my account has been hacked.",request_customer_support
+"The service was very poor.",request_customer_support
+"I want to make a formal complaint.",request_customer_support
+"I need help with a complex issue.",request_customer_support
+"إزاي أكلمكم؟",how_to_contact_support
+"ممكن رقم خدمة العملاء؟",how_to_contact_support
+"عايز أكلم حد من الدعم.",how_to_contact_support
+"ما هو البريد الإلكتروني للتواصل؟",how_to_contact_support
+"هل فيه واتساب للتواصل؟",how_to_contact_support
+"ما هي مواعيد عملكم؟",how_to_contact_support
+"هل يمكنني زيارة مكتبكم؟",how_to_contact_support
+"كيف أصل إلى قسم الشكاوى؟",how_to_contact_support
+"هل هناك أي طريقة للتواصل الفوري؟",how_to_contact_support
+"أريد التحدث مع مسؤول.",how_to_contact_support
+"كيف يمكنني إرسال استفسار؟",how_to_contact_support
+"هل لديكم حضور على وسائل التواصل الاجتماعي؟",how_to_contact_support
+"ما هو أفضل وقت للاتصال؟",how_to_contact_support
+"هل يمكنني الحصول على مساعدة خارج ساعات العمل؟",how_to_contact_support
+"هل هناك أي رسوم على المكالمات؟",how_to_contact_support
+"هل يمكنني طلب معاودة الاتصال؟",how_to_contact_support
+"هل هناك أي قسم للأسئلة الشائعة؟",how_to_contact_support
+"هل يمكنني التواصل مع فريق المبيعات؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم التسويق؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الموارد البشرية؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم العلاقات العامة؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الشؤون القانونية؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم تكنولوجيا المعلومات؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم المالية؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم العمليات؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم المشتريات؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الخدمات اللوجستية؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الجودة؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم التدريب؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم التطوير؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم البحث؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الإنتاج؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الصيانة؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الأمن؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم السلامة؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم البيئة؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الصحة؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الطاقة؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم المياه؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم النفايات؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم النقل؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الاتصالات؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الإعلام؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الإعلان؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم العلاقات الحكومية؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم العلاقات العامة؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الشؤون القانونية؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم الموارد البشرية؟",how_to_contact_support
+"هل يمكنني التواصل مع قسم المالية؟",how_to_contact_support
+"رقمكم كام؟",how_to_contact_support
+"أكلمكم إزاي؟",how_to_contact_support
+"عايز أتواصل معاكم.",how_to_contact_support
+"إيه إيميل خدمة العملاء؟",how_to_contact_support
+"عندكم واتساب؟",how_to_contact_support
+"بتفتحوا من كام لكام؟",how_to_contact_support
+"ممكن أجي لكم الشركة؟",how_to_contact_support
+"عنوانكم فين؟",how_to_contact_support
+"فيه شات أكلمكم عليه؟",how_to_contact_support
+"أوصلكم إزاي؟",how_to_contact_support
+"ممكن لينك صفحتكم على فيسبوك؟",how_to_contact_support
+"أحسن طريقة أتواصل بيها معاكم إيه؟",how_to_contact_support
+"بتشتغلوا يوم الجمعة؟",how_to_contact_support
+"هل فيه رقم طوارئ؟",how_to_contact_support
+"عايز أكلم مدير.",how_to_contact_support
+"إزاي أبعت شكوى؟",how_to_contact_support
+"هل الدعم الفني شغال دلوقتي؟",how_to_contact_support
+"فيه رقم غير ده؟",how_to_contact_support
+"مواعيدكم إيه؟",how_to_contact_support
+"ممكن حد يكلمني؟",how_to_contact_support
+"How can I contact you?",how_to_contact_support
+"What is the customer service number?",how_to_contact_support
+"I want to talk to someone from support.",how_to_contact_support
+"What is the contact email?",how_to_contact_support
+"Is there a WhatsApp for contact?",how_to_contact_support
+"What are your working hours?",how_to_contact_support
+"Can I visit your office?",how_to_contact_support
+"How do I reach the complaints department?",how_to_contact_support
+"Is there any way for immediate contact?",how_to_contact_support
+"I want to speak with a manager.",how_to_contact_support
+"How can I send an inquiry?",how_to_contact_support
+"Do you have a presence on social media?",how_to_contact_support
+"What is the best time to call?",how_to_contact_support
+"Can I get help outside of working hours?",how_to_contact_support
+"Are there any charges for calls?",how_to_contact_support
+"Can I request a callback?",how_to_contact_support
+"Is there a FAQ section?",how_to_contact_support
+"Can I contact the sales team?",how_to_contact_support
+"Can I contact the marketing team?",how_to_contact_support
+"Can I contact the HR team?",how_to_contact_support
+"Can I contact the PR team?",how_to_contact_support
+"Can I contact the legal team?",how_to_contact_support
+"Can I contact the IT team?",how_to_contact_support
+"Can I contact the finance team?",how_to_contact_support
+"Can I contact the operations team?",how_to_contact_support
+"Can I contact the procurement team?",how_to_contact_support
+"Can I contact the logistics team?",how_to_contact_support
+"Can I contact the quality team?",how_to_contact_support
+"Can I contact the training team?",how_to_contact_support
+"Can I contact the development team?",how_to_contact_support
+"Can I contact the research team?",how_to_contact_support
+"Can I contact the design team?",how_to_contact_support
+"Can I contact the engineering team?",how_to_contact_support
+"Can I contact the production team?",how_to_contact_support
+"Can I contact the maintenance team?",how_to_contact_support
+"Can I contact the security team?",how_to_contact_support
+"Can I contact the safety team?",how_to_contact_support
+"Can I contact the environment team?",how_to_contact_support
+"Can I contact the health team?",how_to_contact_support
+"Can I contact the energy team?",how_to_contact_support
+"Can I contact the water team?",how_to_contact_support
+"Can I contact the waste team?",how_to_contact_support
+"Can I contact the transport team?",how_to_contact_support
+"Can I contact the communications team?",how_to_contact_support
+"Can I contact the media team?",how_to_contact_support
+"Can I contact the advertising team?",how_to_contact_support
+"Can I contact the government relations team?",how_to_contact_support
+"Can I contact the public relations team?",how_to_contact_support
+"Can I contact the legal affairs team?",how_to_contact_support
+"Can I contact the human resources team?",how_to_contact_support
+"Can I contact the finance team?",how_to_contact_support
+"إيه نظام الكوينز عندكم؟",ask_about_loyalty_coins
+"إزاي أستخدم الكوينز اللي معايا؟",ask_about_loyalty_coins
+"الكوينز دي بتديني خصم كام؟",ask_about_loyalty_coins
+"إزاي أجمع كوينز أكتر؟",ask_about_loyalty_coins
+"هل الكوينز ليها تاريخ انتهاء صلاحية؟",ask_about_loyalty_coins
+"كل كام جنيه بيديني كوين؟",ask_about_loyalty_coins
+"هل يمكنني تحويل الكوينز لصديق؟",ask_about_loyalty_coins
+"ما هي قيمة الكوين الواحدة بالجنيه؟",ask_about_loyalty_coins
+"هل يمكنني استخدام الكوينز مع أكواد الخصم؟",ask_about_loyalty_coins
+"أين يمكنني رؤية رصيد الكوينز الخاص بي؟",ask_about_loyalty_coins
+"هل أحصل على كوينز على كل المنتجات؟",ask_about_loyalty_coins
+"هل هناك مستويات في برنامج الولاء؟",ask_about_loyalty_coins
+"كيف يمكنني استبدال الكوينز بمكافآت؟",ask_about_loyalty_coins
+"هل يمكنني شراء كوينز؟",ask_about_loyalty_coins
+"ماذا يحدث للكوينز الخاصة بي إذا قمت بإرجاع منتج؟",ask_about_loyalty_coins
+"هل هناك أي عروض خاصة لجمع كوينز إضافية؟",ask_about_loyalty_coins
+"هل يمكنني استخدام الكوينز لدفع تكاليف الشحن؟",ask_about_loyalty_coins
+"هل هناك حد أقصى للكوينز التي يمكنني كسبها؟",ask_about_loyalty_coins
+"كيف يمكنني الانضمام إلى برنامج الولاء؟",ask_about_loyalty_coins
+"هل الكوينز الخاصة بي تنتقل معي إذا قمت بتغيير حسابي؟",ask_about_loyalty_coins
+"هل يمكنني استخدام جزء من الكوينز الخاصة بي في طلب؟",ask_about_loyalty_coins
+"هل هناك أي منتجات حصرية يمكن شراؤها بالكوينز؟",ask_about_loyalty_coins
+"هل هناك أي رسوم مرتبطة ببرنامج الولاء؟",ask_about_loyalty_coins
+"كيف يمكنني تتبع سجل كسب وإنفاق الكوينز؟",ask_about_loyalty_coins
+"هل يمكنني الحصول على كوينز مقابل كتابة مراجعات للمنتجات؟",ask_about_loyalty_coins
+"هل الكوينز قابلة للاسترداد نقدًا؟",ask_about_loyalty_coins
+"هل هناك أي شركاء يمكنني كسب أو إنفاق الكوينز معهم؟",ask_about_loyalty_coins
+"ما هي المزايا الأخرى لكوني عضوًا في برنامج الولاء؟",ask_about_loyalty_coins
+"هل يمكنني استخدام الكوينز لشراء بطاقات هدايا؟",ask_about_loyalty_coins
+"هل هناك تطبيق خاص ببرنامج الولاء؟",ask_about_loyalty_coins
+"كيف يمكنني معرفة عدد الكوينز التي سأحصل عليها من عملية شراء؟",ask_about_loyalty_coins
+"هل يمكنني إهداء الكوينز الخاصة بي؟",ask_about_loyalty_coins
+"هل هناك أي شروط وأحكام لبرنامج الكوينز؟",ask_about_loyalty_coins
+"هل يمكنني استخدام الكوينز في المتاجر الفعلية؟",ask_about_loyalty_coins
+"هل يمكنني الحصول على كوينز مقابل الإحالات؟",ask_about_loyalty_coins
+"ماذا يحدث إذا تم إغلاق حسابي؟ هل أفقد الكوينز؟",ask_about_loyalty_coins
+"هل يمكنني الحصول على كوينز على المشتريات السابقة؟",ask_about_loyalty_coins
+"هل هناك أي أيام ترويجية لكسب كوينز مضاعفة؟",ask_about_loyalty_coins
+"هل يمكنني استخدام الكوينز لتغطية الضرائب؟",ask_about_loyalty_coins
+"كيف يمكنني الإبلاغ عن مشكلة في رصيد الكوينز الخاص بي؟",ask_about_loyalty_coins
+"هل هناك حد أدنى للكوينز للاستبدال؟",ask_about_loyalty_coins
+"هل يمكنني استخدام الكوينز مع أي طريقة دفع؟",ask_about_loyalty_coins
+"هل يمكنني كسب الكوينز على المشتريات الدولية؟",ask_about_loyalty_coins
+"هل هناك تاريخ انتهاء صلاحية للمكافآت التي تم استبدالها؟",ask_about_loyalty_coins
+"هل يمكنني إلغاء استبدال الكوينز؟",ask_about_loyalty_coins
+"كيف يمكنني البقاء على اطلاع دائم بعروض الكوينز؟",ask_about_loyalty_coins
+"الكوينز دي لازمتها إيه؟",ask_about_loyalty_coins
+"أستعمل النقط إزاي؟",ask_about_loyalty_coins
+"كل كام نقطة تديني خصم؟",ask_about_loyalty_coins
+"أجمع نقط إزاي؟",ask_about_loyalty_coins
+"النقط بتنتهي صلاحيتها؟",ask_about_loyalty_coins
+"الجنيه بكام نقطة؟",ask_about_loyalty_coins
+"ينفع أدي النقط بتاعتي لحد؟",ask_about_loyalty_coins
+"النقطة تساوي كام جنيه؟",ask_about_loyalty_coins
+"ينفع أستخدم نقط وخصم مع بعض؟",ask_about_loyalty_coins
+"أشوف النقط بتاعتي فين؟",ask_about_loyalty_coins
+"هل كل حاجة بشتريها بتديني نقط؟",ask_about_loyalty_coins
+"إيه نظام برنامج الولاء بتاعكم؟",ask_about_loyalty_coins
+"إزاي أبدل النقط؟",ask_about_loyalty_coins
+"هل ممكن أشتري نقط؟",ask_about_loyalty_coins
+"لو رجعت حاجة، النقط بتروح؟",ask_about_loyalty_coins
+"فيه عروض على النقط؟",ask_about_loyalty_coins
+"ممكن أدفع الشحن بالنقط؟",ask_about_loyalty_coins
+"فيه ليميت للنقط؟",ask_about_loyalty_coins
+"أشترك إزاي في برنامج النقط؟",ask_about_loyalty_coins
+"رصيدي من النقط كام؟",ask_about_loyalty_coins
+"What's the deal with your coins system?",ask_about_loyalty_coins
+"How do I use the coins I have?",ask_about_loyalty_coins
+"How much of a discount do these coins give me?",ask_about_loyalty_coins
+"How can I collect more coins?",ask_about_loyalty_coins
+"Do the coins have an expiration date?",ask_about_loyalty_coins
+"How many pounds do I need to spend to get one coin?",ask_about_loyalty_coins
+"Can I transfer my coins to a friend?",ask_about_loyalty_coins
+"What is the value of one coin in pounds?",ask_about_loyalty_coins
+"Can I use coins along with discount codes?",ask_about_loyalty_coins
+"Where can I see my coin balance?",ask_about_loyalty_coins
+"Do I get coins on all products?",ask_about_loyalty_coins
+"Are there tiers in the loyalty program?",ask_about_loyalty_coins
+"How can I redeem my coins for rewards?",ask_about_loyalty_coins
+"Can I buy coins?",ask_about_loyalty_coins
+"What happens to my coins if I return a product?",ask_about_loyalty_coins
+"Are there any special offers to collect extra coins?",ask_about_loyalty_coins
+"Can I use my coins to pay for shipping costs?",ask_about_loyalty_coins
+"Is there a maximum number of coins I can earn?",ask_about_loyalty_coins
+"How can I join the loyalty program?",ask_about_loyalty_coins
+"Do my coins transfer if I change my account?",ask_about_loyalty_coins
+"Can I use a portion of my coins on an order?",ask_about_loyalty_coins
+"Are there any exclusive products that can be bought with coins?",ask_about_loyalty_coins
+"Are there any fees associated with the loyalty program?",ask_about_loyalty_coins
+"How can I track my coin earning and spending history?",ask_about_loyalty_coins
+"Can I get coins for writing product reviews?",ask_about_loyalty_coins
+"Are the coins redeemable for cash?",ask_about_loyalty_coins
+"Are there any partners where I can earn or spend coins?",ask_about_loyalty_coins
+"What are the other benefits of being a loyalty program member?",ask_about_loyalty_coins
+"Can I use my coins to buy gift cards?",ask_about_loyalty_coins
+"Is there a dedicated app for the loyalty program?",ask_about_loyalty_coins
+"How can I know how many coins I'll get from a purchase?",ask_about_loyalty_coins
+"Can I gift my coins?",ask_about_loyalty_coins
+"Are there any terms and conditions for the coins program?",ask_about_loyalty_coins
+"Can I use my coins in physical stores?",ask_about_loyalty_coins
+"Can I get coins for referrals?",ask_about_loyalty_coins
+"What happens if my account is closed? Do I lose my coins?",ask_about_loyalty_coins
+"Can I get coins on past purchases?",ask_about_loyalty_coins
+"Are there any promotional days for earning double coins?",ask_about_loyalty_coins
+"Can I use my coins to cover taxes?",ask_about_loyalty_coins
+"How do I report an issue with my coin balance?",ask_about_loyalty_coins
+"Is there a minimum number of coins for redemption?",ask_about_loyalty_coins
+"Can I use my coins with any payment method?",ask_about_loyalty_coins
+"Can I earn coins on international purchases?",ask_about_loyalty_coins
+"Is there an expiration date for redeemed rewards?",ask_about_loyalty_coins
+"Can I cancel a coin redemption?",ask_about_loyalty_coins
+"How can I stay updated on coin offers?",ask_about_loyalty_coins
+"الجو عامل إيه النهاردة؟",out_of_scope
+"قولي نكتة.",out_of_scope
+"إنت مين؟",out_of_scope
+"صباح الخير.",out_of_scope
+"شكرا.",out_of_scope
+"عايز ألغي الأوردر.",out_of_scope
+"إزيك؟",out_of_scope
+"ممكن مساعدة في الواجب؟",out_of_scope
+"اسمك إيه؟",out_of_scope
+"أنا زهقان.",out_of_scope
+"مين كسب ماتش الأهلي؟",out_of_scope
+"مع السلامة.",out_of_scope
+"ممكن رقم تليفونك؟",out_of_scope
+"ساعدني في حل المسألة دي.",out_of_scope
+"عايز أغير كلمة السر.",out_of_scope
+"ما هو تاريخ اليوم؟",out_of_scope
+"هل يمكنك تشغيل أغنية؟",out_of_scope
+"ما هي عاصمة فرنسا؟",out_of_scope
+"احكيلي قصة.",out_of_scope
+"هل تؤمن بالفضائيين؟",out_of_scope
+"ما هو لونك المفضل؟",out_of_scope
+"هل يمكنك أن تحب؟",out_of_scope
+"ما هو تعريف الحياة؟",out_of_scope
+"هل يمكنك أن تحلم؟",out_of_scope
+"ما هو أقدم مبنى في العالم؟",out_of_scope
+"هل يمكنك التحدث بلغة أخرى؟",out_of_scope
+"ما هو رأيك في السياسة؟",out_of_scope
+"هل لديك أي إخوة؟",out_of_scope
+"ماذا أكلت على الإفطار؟",out_of_scope
+"هل يمكنك أن تشعر بالألم؟",out_of_scope
+"ما هي خططك لعطلة نهاية الأسبوع؟",out_of_scope
+"هل يمكنك أن تكتب قصيدة؟",out_of_scope
+"من هو رئيس الولايات المتحدة؟",out_of_scope
+"هل يمكنك مساعدتي في العثور على وظيفة؟",out_of_scope
+"ما هو كتابك المفضل؟",out_of_scope
+"هل لديك أي حيوانات أليفة؟",out_of_scope
+"ما هو أكبر حيوان في العالم؟",out_of_scope
+"هل يمكنك أن تغني؟",out_of_scope
+"ما هو أطول نهر في العالم؟",out_of_scope
+"هل يمكنك أن ترقص؟",out_of_scope
+"ما هو فيلمك المفضل؟",out_of_scope
+"هل يمكنك أن تلعب الشطرنج؟",out_of_scope
+"ما هو طعامك المفضل؟",out_of_scope
+"هل يمكنك أن تضحك؟",out_of_scope
+"ما هي هواياتك؟",out_of_scope
+"هل يمكنك أن تبكي؟",out_of_scope
+"ما هو حلمك؟",out_of_scope
+"هل أنت واعٍ؟",out_of_scope
+"هل لديك مشاعر؟",out_of_scope
+"ممكن تتكلم معايا شوية؟",out_of_scope
+"عامل إيه؟",out_of_scope
+"مساء الفل",out_of_scope
+"ممكن رقمك؟",out_of_scope
+"أنا جعان",out_of_scope
+"الدنيا حر",out_of_scope
+"عايز أنام",out_of_scope
+"إنت ذكي أوي",out_of_scope
+"أنا بكرهك",out_of_scope
+"أنا بحبك",out_of_scope
+"إيه رأيك فيا؟",out_of_scope
+"ممكن نكون أصحاب؟",out_of_scope
+"إنت شغال إيه؟",out_of_scope
+"أنا عايز أكلم إنسان حقيقي",out_of_scope
+"إنت روبوت؟",out_of_scope
+"ممكن طلب شخصي؟",out_of_scope
+"شكرا يا صاحبي",out_of_scope
+"تصبح على خير",out_of_scope
+"يلا سلام",out_of_scope
+"ممكن أغنية؟",out_of_scope
+"What's the weather like today?",out_of_scope
+"Tell me a joke.",out_of_scope
+"Who are you?",out_of_scope
+"Good morning.",out_of_scope
+"Thank you.",out_of_scope
+"I want to cancel my order.",out_of_scope
+"How are you?",out_of_scope
+"Can you help me with my homework?",out_of_scope
+"What's your name?",out_of_scope
+"I'm bored.",out_of_scope
+"Who won the match?",out_of_scope
+"Goodbye.",out_of_scope
+"Can I have your phone number?",out_of_scope
+"Help me solve this problem.",out_of_scope
+"I want to change my password.",out_of_scope
+"What is today's date?",out_of_scope
+"Can you play a song?",out_of_scope
+"What is the capital of France?",out_of_scope
+"Tell me a story.",out_of_scope
+"Do you believe in aliens?",out_of_scope
+"What's your favorite color?",out_of_scope
+"Can you love?",out_of_scope
+"What is the meaning of life?",out_of_scope
+"Do you dream?",out_of_scope
+"What is the oldest building in the world?",out_of_scope
+"Can you speak another language?",out_of_scope
+"What's your opinion on politics?",out_of_scope
+"Do you have any siblings?",out_of_scope
+"What did you have for breakfast?",out_of_scope
+"Can you feel pain?",out_of_scope
+"What are your plans for the weekend?",out_of_scope
+"Can you write a poem?",out_of_scope
+"Who is the president of the United States?",out_of_scope
+"Can you help me find a job?",out_of_scope
+"What's your favorite book?",out_of_scope
+"Do you have any pets?",out_of_scope
+"What is the largest animal in the world?",out_of_scope
+"Can you sing?",out_of_scope
+"What is the longest river in the world?",out_of_scope
+"Can you dance?",out_of_scope
+"What's your favorite movie?",out_of_scope
+"Can you play chess?",out_of_scope
+"What's your favorite food?",out_of_scope
+"Can you laugh?",out_of_scope
+"What are your hobbies?",out_of_scope
+"Can you cry?",out_of_scope
+"What is your dream?",out_of_scope
+"Are you conscious?",out_of_scope
+"Do you have feelings?",out_of_scope
+"ممكن ترشحلي نوع جبنة كريمي كويس؟",ask_for_product_recommendations
+"بما تنصحني؟",ask_for_product_recommendations
+"أنا محتار، ما هي اقتراحاتك؟",ask_for_product_recommendations
+"ما هو المنتج الأكثر مبيعًا لديكم؟",ask_for_product_recommendations
+"أريد توصية بمنتج جديد ومبتكر.",ask_for_product_recommendations
+"ما هو أفضل منتج في حدود ميزانيتي؟",ask_for_product_recommendations
+"رشحلي منتج حاصل على أعلى التقييمات.",ask_for_product_recommendations
+"أنا عميل جديد، فتحت مطعم و عايز اشتري احتياجاته؟",ask_for_product_recommendations
+"ما هو اقتراحكم لمنتج يحل مشكلة معينة؟",ask_for_product_recommendations
+"ما هو أحدث منتج في هذا القسم؟",ask_for_product_recommendations
+"أريد إنشاء سلة هدايا، ما هي تشكيلتكم المقترحة؟",ask_for_product_recommendations
+"ما هي المنتجات التي عليها طلب كبير حاليًا؟",ask_for_product_recommendations
+"لو كنت مكاني، ماذا كنت ستختار؟",ask_for_product_recommendations
+"ما هي أفضل المنتجات لديكم؟",ask_for_product_recommendations
+"جربت كل شيء، هل هناك أي شيء جديد؟",ask_for_product_recommendations
+"أريد قائمة بالمنتجات الأكثر شعبية.",ask_for_product_recommendations
+"عايز مستلزمات الشاورما ",ask_for_product_recommendations
+"ما هو أفضل منتج للبيتزا؟",ask_for_product_recommendations
+"أريد شيئًا ذا قيمة جيدة مقابل السعر.",ask_for_product_recommendations
+"ما هي المنتجات التي تعتبر توقيعكم الخاص؟",ask_for_product_recommendations
+"أريد توصية بمنتج سهل الاستخدام لأطباق الدايت.",ask_for_product_recommendations
+"ما هي توصيتك الأولى لأي عميل؟",ask_for_product_recommendations
+"ما هي المنتجات التي تعتبر  مفيدة؟",ask_for_product_recommendations
+"أريد منتجًا عصريًا ومبتكرًا.",ask_for_product_recommendations
+"ما هو المنتج الذي لا يمكنني تفويته؟",ask_for_product_recommendations
+"أبحث عن منتج للمناسبات الخاصة.",ask_for_product_recommendations
+"ما هي توصيتك لمنتج صديق للبيئة؟",ask_for_product_recommendations
+"ما هو أفضل منتج للاستخدام اليومي؟",ask_for_product_recommendations
+"أريد توصية بمنتج فاخر.",ask_for_product_recommendations
+"ما هي المنتجات التي تنصح بها للعائلات؟",ask_for_product_recommendations
+"أريد توصية لمنتج عملي ويدوم طويلاً.",ask_for_product_recommendations
+"ما هي المنتجات التي تحظى بأفضل المراجعات؟",ask_product_recommendations
+"أريد توصية بمنتج صحي.",ask_for_product_recommendations
+"ما هي توصيتك لأفضل قيمة؟",ask_for_product_recommendations
+"أريد توصية بمنتج فريد من نوعه.",ask_for_product_recommendations
+"ما هي أفضل ثلاثة منتجات في هذه الفئة؟",ask_for_product_recommendations
+"أريد توصية بمنتج مناسب للسفر.",ask_for_product_recommendations
+"ما هي توصيتك كهدية؟",ask_for_product_recommendations
+"أريد توصية بمنتج للمساحات الصغيرة.",ask_for_product_recommendations
+"ما هي توصيتك لمنتج متعدد الاستخدامات؟",ask_for_product_recommendations
+"أريد توصية بمنتج للمبتدئين.",ask_for_product_recommendations
+"ما هي توصيتك لمنتج احترافي؟",ask_for_product_recommendations
+"أريد توصية بمنتج كلاسيكي لا يخرج عن الموضة.",ask_for_product_recommendations
+"ما هي توصيتك لمنتج مناسب للطقس الحار؟",ask_for_product_recommendations
+"أريد توصية بمنتج للأطفال.",ask_for_product_recommendations
+"ما هي توصيتك لمنتج لكبار السن؟",ask_for_product_recommendations
+"أريد توصية بمنتج للحيوانات الأليفة.",ask_for_product_recommendations
+"ما هي توصيتك لمنتج للرجال؟",ask_for_product_recommendations
+"ما هي توصيتك لمنتج للنساء؟",ask_for_product_recommendations
+"أريد توصية بمنتج لميزانية معينة.",ask_for_product_recommendations
+"رشحلي حاجة.",ask_for_product_recommendations
+"تنصحني بإيه؟",ask_for_product_recommendations
+"أجيب إيه؟",ask_for_product_recommendations
+"أنا محتار أوي.",ask_for_product_recommendations
+"إيه أحسن حاجة عندكم؟",ask_for_product_recommendations
+"إيه اللي ماشي اليومين دول؟",ask_for_product_recommendations
+"عايز حاجة كويسة.",ask_for_product_recommendations
+"ممكن ترشيح؟",ask_for_product_recommendations
+"إيه الجديد؟",ask_for_product_recommendations
+"أجرب إيه المرة دي؟",ask_for_product_recommendations
+"عايز حاجة على ذوقك.",ask_for_product_recommendations
+"إيه أشهر حاجة بتتباع؟",ask_for_product_recommendations
+"عايز حاجة مضمونة.",ask_for_product_recommendations
+"إيه رأيك أجيب إيه؟",ask_for_product_recommendations
+"ممكن اقتراحات؟",ask_for_product_recommendations
+"لو مكانك هتجيب إيه؟",ask_for_product_recommendations
+"عايز حاجة مختلفة.",ask_for_product_recommendations
+"إيه المنتج النجم عندكم؟",ask_for_product_recommendations
+"عايز توصية.",ask_for_product_recommendations
+"إيه اللي الناس كلها بتشتريه؟",ask_for_product_recommendations
+"Can you recommend a good product?",ask_for_product_recommendations
+"What do you recommend?",ask_for_product_recommendations
+"I'm undecided, what are your suggestions?",ask_for_product_recommendations
+"What is your best-selling product?",ask_for_product_recommendations
+"I'd like a recommendation for a new and innovative product.",ask_for_product_recommendations
+"What's the best product within my budget?",ask_for_product_recommendations
+"Recommend a product with the highest ratings.",ask_for_product_recommendations
+"I'm a new customer, where should I start?",ask_for_product_recommendations
+"What's your suggestion for a product that solves a specific problem?",ask_for_product_recommendations
+"What's the newest product in this section?",ask_for_product_recommendations
+"I want to create a gift basket, what's your suggested assortment?",ask_for_product_recommendations
+"What products are in high demand right now?",ask_for_product_recommendations
+"If you were in my shoes, what would you choose?",ask_for_product_recommendations
+"What are your best products?",ask_for_product_recommendations
+"I've tried everything, is there anything new?",ask_for_product_recommendations
+"I want a list of the most popular products.",ask_for_product_recommendations
+"I'm looking for a gift, can you help?",ask_for_product_recommendations
+"What's the best product for dry skin care?",ask_for_product_recommendations
+"I want something that's good value for money.",ask_for_product_recommendations
+"What products are considered your signature items?",ask_for_product_recommendations
+"I'd like a recommendation for an easy-to-use product for beginners.",ask_for_product_recommendations
+"What is your top recommendation for any customer?",ask_for_product_recommendations
+"What products are considered a good investment?",ask_for_product_recommendations
+"I want a trendy and innovative product.",ask_for_product_recommendations
+"What's the one product I can't miss?",ask_for_product_recommendations
+"I'm looking for a product for special occasions.",ask_for_product_recommendations
+"What's your recommendation for an eco-friendly product?",ask_for_product_recommendations
+"What's the best product for daily use?",ask_for_product_recommendations
+"I'd like a recommendation for a luxury product.",ask_for_product_recommendations
+"What products do you recommend for families?",ask_for_product_recommendations
+"I'd like a recommendation for a practical and durable product.",ask_for_product_recommendations
+"What products have the best reviews?",ask_for_product_recommendations
+"I'd like a recommendation for a healthy product.",ask_for_product_recommendations
+"What is your recommendation for the best value?",ask_for_product_recommendations
+"I'd like a recommendation for a unique product.",ask_for_product_recommendations
+"What are the top three products in this category?",ask_for_product_recommendations
+"I'd like a recommendation for a travel-friendly product.",ask_for_product_recommendations
+"What is your recommendation as a gift?",ask_for_product_recommendations
+"I'd like a recommendation for a product for small spaces.",ask_for_product_recommendations
+"What's your recommendation for a multi-purpose product?",ask_for_product_recommendations
+"I'd like a recommendation for a beginner-friendly product.",ask_for_product_recommendations
+"What is your recommendation for a professional-grade product?",ask_for_product_recommendations
+"I'd like a recommendation for a classic, timeless product.",ask_for_product_recommendations
+"What's your recommendation for a product suitable for hot weather?",ask_for_product_recommendations
+"I'd like a recommendation for a children's product.",ask_for_product_recommendations
+"What's your recommendation for a product for the elderly?",ask_for_product_recommendations
+"I'd like a recommendation for a pet product.",ask_for_product_recommendations
+"What's your recommendation for a men's product?",ask_for_product_recommendations
+"What's your recommendation for a women's product?",ask_for_product_recommendations
+"I'd like a recommendation for a product for a specific budget.",ask_for_product_recommendations
