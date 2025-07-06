@@ -2962,7 +2962,7 @@ text,label
 "أريد توصية بمنتج فاخر.",ask_for_product_recommendations
 "ما هي المنتجات التي تنصح بها للعائلات؟",ask_for_product_recommendations
 "أريد توصية لمنتج عملي ويدوم طويلاً.",ask_for_product_recommendations
-"ما هي المنتجات التي تحظى بأفضل المراجعات؟",ask_product_recommendations
+"ما هي المنتجات التي تحظى بأفضل المراجعات؟",ask_for_product_recommendations
 "أريد توصية بمنتج صحي.",ask_for_product_recommendations
 "ما هي توصيتك لأفضل قيمة؟",ask_for_product_recommendations
 "أريد توصية بمنتج فريد من نوعه.",ask_for_product_recommendations
