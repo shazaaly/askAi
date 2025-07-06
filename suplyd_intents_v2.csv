@@ -1045,6 +1045,32 @@ text,label
 "مين أغلى؟",compare_prices
 "ليه الأسعار بتتغير كل شوية؟",compare_prices
 "أنا بعمل مقارنة أسعار حاليًا.",compare_prices
+"هل ممكن تشرحولي سبب السعر ده؟",compare_prices
+"لو فيه عرض في مكان تاني، هل بتطابقوه؟",compare_prices
+"أنا عندي عرض من شركة منافسة، ممكن تعملوا زيّه؟",compare_prices
+"هل بتراجعوا أسعار المنافسين باستمرار؟",compare_prices
+"ليه السعر على الويب غير السعر عند الاتصال؟",compare_prices
+"هل بتقدموا ضمان أفضل سعر؟",compare_prices
+"هل فيه فرق سعر لو اشتريت كميات كبيرة؟",compare_prices
+"لو اشتريت من بره بالجملة، أرخص؟",compare_prices
+"هل سعركم شامل الضريبة والشحن؟",compare_prices
+"أنا شوفت إعلان لسعر أقل، ممكن تأكدولي؟",compare_prices
+"هل بتخفضوا السعر لو العميل بيطلب بانتظام؟",compare_prices
+"ليه المنتج ده أغلى عندكم رغم إنه نفسه؟",compare_prices
+"هل بتتابعوا أسعار السوق وتعدلوا؟",compare_prices
+"لو أثبت إنه أرخص في حتة تانية، هل فيه رد؟",compare_prices
+"هل السعر بيتغير حسب المنطقة؟",compare_prices
+"السعر ده ثابت ولا ممكن ينزل؟",compare_prices
+"هل فيه خصومات بتقلل السعر مقارنة بالتانيين؟",compare_prices
+"مين الأرخص في السوق حسب رأيكم؟",compare_prices
+"هل المنتج عليه هامش ربح أعلى؟",compare_prices
+"هل فيه أسباب تخليكم أعلى من غيركم؟",compare_prices
+"أنا بشتري للمطعم، ينفع تفاوض بالسعر؟",compare_prices
+"بتغيروا الأسعار حسب الموسم؟",compare_prices
+"هل الأسعار متوافقة مع المنافسة العادلة؟",compare_prices
+"هل عندكم سياسة لمراجعة السعر لو تغير في السوق؟",compare_prices
+"لو لقيته أرخص على الإنترنت، هتوافقوا؟",compare_prices
+" ليه دا أغلى مع ان نفس الكمية,compare_prices
 "مفيش حاجة أرخص من كده؟",suggest_cheaper_alternative
 "عايز حاجة على قد الإيد.",suggest_cheaper_alternative
 "إيه البديل الاقتصادي للمنتج ده؟",suggest_cheaper_alternative
